@@ -25,72 +25,90 @@ Traditional Applicant Tracking Systems (ATS) primarily rely on keyword matching 
 
 **TalentMatch AI** addresses this challenge by:
 
-- Engineering meaningful candidate-job matching features
-- Training a Neural Network to predict compatibility scores
-- Identifying missing skills and strengths
-- Ranking candidates automatically
-- Providing recruiter-friendly insights through an interactive dashboard
+* Engineering meaningful candidate-job matching features
+* Training a Neural Network to predict compatibility scores
+* Identifying missing skills and strengths
+* Ranking candidates automatically
+* Providing recruiter-friendly insights through an interactive dashboard
 
 ---
 
 ## Key Features
 
 ### Candidate Analysis
-- Resume-based feature extraction
-- Candidate-job compatibility scoring
-- Skill gap identification
-- Experience and education matching
+
+* Candidate–Job compatibility scoring (0–100 Fit Score)
+* Binary hiring recommendation (Fit Label)
+* Skill gap identification
+* Experience, education, and specialization matching
+* Internship, project, hackathon, and research profile analysis
 
 ### Recruiter Dashboard
-- Ranked candidate leaderboard
-- Candidate comparison
-- Batch resume processing
-- Interactive visual analytics
+
+* Ranked candidate leaderboard
+* Candidate comparison
+* Batch application processing
+* Interactive visual analytics
+* Candidate filtering and sorting
 
 ### Explainability
-- Feature contribution analysis
-- Model confidence visualization
-- Recruiter-friendly recommendations
+
+* Matched skill count
+* Missing skill count
+* Required skill diagnostics
+* Feature contribution analysis
+* Recruiter-friendly recommendations
+
+### Synthetic Data Pipeline
+
+* Config-driven synthetic candidate generation
+* Config-driven job description generation
+* Noise injection for realistic labels
+* Automated model-training dataset generation
+* Reproducible dataset creation using random seeds
 
 ---
 
 ## Tech Stack
 
-| Layer | Technologies |
-|---------|-------------|
-| Language | Python 3.11 |
-| Machine Learning | TensorFlow, Keras, Scikit-Learn |
-| Data Processing | Pandas, NumPy |
-| Visualization | Matplotlib, Seaborn, Plotly |
-| Frontend | Streamlit |
-| Model Persistence | Joblib |
-| Version Control | Git, GitHub |
+| Layer             | Technologies                    |
+| ----------------- | ------------------------------- |
+| Language          | Python 3.11                     |
+| Machine Learning  | TensorFlow, Keras, Scikit-Learn |
+| Data Processing   | Pandas, NumPy                   |
+| Visualization     | Matplotlib, Seaborn, Plotly     |
+| Frontend          | Streamlit                       |
+| Model Persistence | Joblib                          |
+| Version Control   | Git, GitHub                     |
 
 ---
 
 ## System Workflow
 
 ```text
-Job Description
-        │
-        ▼
-Feature Engineering
-        │
-        ▼
-Candidate Profiles
-        │
-        ▼
-Compatibility Feature Matrix
-        │
-        ▼
-Artificial Neural Network
-        │
-        ▼
-Compatibility Score
-        │
-        ├── Skill Gap Analysis
-        ├── Candidate Ranking
-        └── Recruiter Insights
+Candidate Profiles + Job Descriptions
+                    │
+                    ▼
+        Synthetic Dataset Generator
+                    │
+                    ▼
+        Feature Engineering Pipeline
+                    │
+                    ▼
+       Compatibility Feature Matrix
+                    │
+                    ▼
+        Artificial Neural Network
+                    │
+                    ▼
+             Fit Score (0–100)
+                    │
+                    ▼
+             Fit Label (0/1)
+                    │
+        ┌───────────┼───────────┐
+        ▼           ▼           ▼
+ Skill Gaps   Candidate Rank   Insights
 ```
 
 ---
@@ -100,11 +118,32 @@ Compatibility Score
 ```text
 TalentMatch-AI/
 │
+├── app/
+│   └── streamlit_app.py
+│
 ├── data/
 │   ├── raw/
+│   │   ├── candidates.csv
+│   │   ├── jobs.csv
+│   │   ├── applications.csv
+│   │   └── generate_dataset.py
+│   │
 │   └── processed/
+│       └── model_training_dataset.csv
+│
+├── docs/
+│   └── feature_schema.md
+│
+├── metadata/
+│   ├── __init__.py
+│   └── skills_config.json
+│
+├── models/
 │
 ├── notebooks/
+│   └── 01_data_generation_overview.ipynb
+│
+├── screenshots/
 │
 ├── src/
 │   ├── preprocessing.py
@@ -113,15 +152,6 @@ TalentMatch-AI/
 │   ├── evaluate.py
 │   └── predict.py
 │
-├── models/
-│
-├── app/
-│   └── streamlit_app.py
-│
-├── docs/
-│
-├── screenshots/
-│
 ├── requirements.txt
 ├── README.md
 └── LICENSE
@@ -129,34 +159,76 @@ TalentMatch-AI/
 
 ---
 
+## Dataset Overview
+
+### Generated Datasets
+
+| Dataset                | Records                    |
+| ---------------------- | -------------------------- |
+| Candidates             | 1,000                      |
+| Jobs                   | 100                        |
+| Applications           | 10,000                     |
+| Model Training Dataset | 10,000 Candidate–Job Pairs |
+
+### Candidate Features
+
+* Specialization
+* Years of Experience
+* Education Level
+* Skills
+* Certifications
+* Internships
+* Projects
+* Hackathons
+* Research Papers
+* Leadership Experience
+* GPA
+
+### Job Features
+
+* Job Family
+* Preferred Specialization
+* Required Skills
+* Seniority Level
+* Education Requirement
+* Required Certifications
+
+### Targets
+
+* Fit Score (0–100)
+* Fit Label (0 / 1)
+
+---
+
 ## Development Roadmap
 
-| Phase | Task | Status |
-|---------|---------|---------|
-| Phase 0 | Project Initialization | ✅ Complete |
-| Phase 1 | Dataset Design & Generation | 🔄 In Progress |
-| Phase 2 | Exploratory Data Analysis | ⏳ Pending |
-| Phase 3 | Feature Engineering Pipeline | ⏳ Pending |
-| Phase 4 | ANN Training Pipeline | ⏳ Pending |
-| Phase 5 | Model Evaluation | ⏳ Pending |
-| Phase 6 | Prediction & Batch Scoring | ⏳ Pending |
-| Phase 7 | Streamlit Dashboard | ⏳ Pending |
-| Phase 8 | Documentation & Deployment | ⏳ Pending |
+| Phase   | Task                         | Status     |
+| ------- | ---------------------------- | ---------- |
+| Phase 0 | Project Initialization       | ✅ Complete |
+| Phase 1 | Dataset Design & Generation  | ✅ Complete |
+| Phase 2 | Exploratory Data Analysis    | ⏳ Pending  |
+| Phase 3 | Feature Engineering Pipeline | ⏳ Pending  |
+| Phase 4 | ANN Training Pipeline        | ⏳ Pending  |
+| Phase 5 | Model Evaluation             | ⏳ Pending  |
+| Phase 6 | Prediction & Batch Scoring   | ⏳ Pending  |
+| Phase 7 | Streamlit Dashboard          | ⏳ Pending  |
+| Phase 8 | Documentation & Deployment   | ⏳ Pending  |
 
 ---
 
 ## Version Roadmap
 
-| Version | Planned Upgrade |
-|---------|----------------|
-| V1 | Structured Features + ANN |
-| V2 | TF-IDF Feature Integration |
-| V3 | Word2Vec Embeddings |
-| V4 | Transformer-Based Encoding |
-| V5 | BERT Resume Embeddings |
-| V6 | LLM-Powered Recruiter Insights |
-| V7 | RAG-Based Dynamic JD Matching |
-| V8 | Complete MLOps Pipeline |
+| Version | Planned Upgrade                                  |
+| ------- | ------------------------------------------------ |
+| V1      | Structured Features + ANN                        |
+| V1.1    | Synthetic Recruitment Dataset + Fit Score Engine |
+| V2      | TF-IDF Feature Integration                       |
+| V3      | Word2Vec Embeddings                              |
+| V4      | Transformer-Based Encoding                       |
+| V5      | BERT Resume Embeddings                           |
+| V6      | LLM-Powered Recruiter Insights                   |
+| V7      | RAG-Based Dynamic JD Matching                    |
+| V8      | Complete MLOps Pipeline                          |
 
 ---
 
@@ -165,7 +237,7 @@ TalentMatch-AI/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/TalentMatch-AI.git
+git clone https://github.com/shourya-tiwari/TalentMatch-AI.git
 
 cd TalentMatch-AI
 ```
@@ -196,7 +268,25 @@ pip install -r requirements.txt
 
 ---
 
-## Running the Application
+## Running the Project
+
+### Generate Dataset
+
+```bash
+python data/raw/generate_dataset.py
+```
+
+### Run Exploratory Analysis
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```text
+notebooks/01_data_generation_overview.ipynb
+```
 
 ### Train Model
 
@@ -218,28 +308,53 @@ streamlit run app/streamlit_app.py
 
 ---
 
-## Future Enhancements
-
-- Resume PDF Parsing
-- Real-Time Job Description Analysis
-- SHAP-Based Explainability
-- Multi-Job Candidate Matching
-- Resume Recommendation Engine
-- Cloud Deployment
-- MLOps Integration
-
----
-
 ## Screenshots
 
-Screenshots will be added as development progresses.
+### Dataset Analysis
 
 ```text
 screenshots/
-├── dashboard.png
-├── ranking_view.png
-└── candidate_analysis.png
+├── correlation_matrix.png
+├── education_distribution.png
+├── experience_distribution.png
+├── fit_score_distribution.png
+├── job_family_distribution.png
+├── label_distribution.png
+├── leadership_distribution.png
+├── specialization_distribution.png
+└── student_features.png
 ```
+
+EDA visualizations generated during Phase 1 validation are stored in the screenshots directory.
+
+---
+
+## Future Enhancements
+
+* Resume PDF Parsing
+* TF-IDF Resume Features
+* Transformer-Based Resume Encoding
+* BERT Resume Embeddings
+* SHAP Explainability
+* Multi-Job Candidate Matching
+* LLM-Powered Recruiter Insights
+* RAG-Based Dynamic Job Matching
+* Cloud Deployment
+* Complete MLOps Pipeline
+
+---
+
+## Status
+
+**Current Version:** V1.1
+
+Phase 1 (Dataset Design & Generation) has been completed successfully.
+
+Current focus:
+
+* Exploratory Data Analysis (EDA)
+* Feature Engineering Validation
+* ANN Training Pipeline
 
 ---
 
@@ -247,7 +362,7 @@ screenshots/
 
 **Shourya Tiwari**
 
-B.Tech Artificial Intelligence & Machine Learning  
+B.Tech Artificial Intelligence & Machine Learning
 Symbiosis Institute of Technology, Pune
 
 ---
