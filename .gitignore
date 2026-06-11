@@ -20,7 +20,7 @@ env/
 *.ipynb_checkpoints
 
 # Model artifacts (large binaries — tracked separately if needed)
-models/*.keras
+# models/*.keras
 models/*.h5
 models/*.pkl
 # models/*.joblib
