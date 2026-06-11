@@ -1,0 +1,118 @@
+{
+  "_comment": "TalentMatch AI — Master Skills Configuration V1.1",
+  "_note": "Edit this file to update skill pools without touching generator code.",
+
+  "skill_categories": {
+
+    "Programming": [
+      "Python", "R", "Java", "C++", "Scala", "Go", "Julia", "MATLAB"
+    ],
+
+    "Machine Learning": [
+      "Machine Learning", "Deep Learning", "NLP", "Computer Vision",
+      "Reinforcement Learning", "Time Series Analysis",
+      "TensorFlow", "PyTorch", "Keras", "Scikit-Learn",
+      "XGBoost", "LightGBM", "CatBoost", "Hugging Face"
+    ],
+
+    "Data": [
+      "SQL", "NoSQL", "MongoDB", "PostgreSQL", "MySQL",
+      "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly",
+      "Statistics", "Probability", "Linear Algebra",
+      "Data Wrangling", "Feature Engineering", "Model Evaluation",
+      "ETL Pipelines", "Data Modeling", "Spark", "Hadoop", "Kafka"
+    ],
+
+    "Cloud": [
+      "AWS", "GCP", "Azure",
+      "Docker", "Kubernetes", "Terraform",
+      "MLflow", "Airflow", "Kubeflow",
+      "CI/CD", "Linux"
+    ],
+
+    "BI": [
+      "Tableau", "Power BI", "Looker",
+      "Excel", "Google Sheets",
+      "A/B Testing", "Business Analytics"
+    ],
+
+    "Soft Skills": [
+      "Communication", "Teamwork", "Problem Solving",
+      "Leadership", "Project Management",
+      "Critical Thinking", "Stakeholder Management"
+    ]
+  },
+
+  "specializations": [
+    "Machine Learning",
+    "Data Science",
+    "Data Engineering",
+    "Business Intelligence",
+    "Cloud Engineering",
+    "NLP",
+    "Computer Vision",
+    "MLOps",
+    "Quantitative Finance",
+    "Software Engineering"
+  ],
+
+  "job_families": [
+    "Engineering",
+    "Research",
+    "Analytics",
+    "Operations",
+    "Finance"
+  ],
+
+  "job_titles": [
+    "ML Engineer",
+    "Data Scientist",
+    "Data Analyst",
+    "AI Research Engineer",
+    "MLOps Engineer",
+    "Business Intelligence Analyst",
+    "Data Engineer",
+    "Computer Vision Engineer",
+    "NLP Engineer",
+    "Quantitative Analyst",
+    "AI Product Analyst",
+    "Research Scientist"
+  ],
+
+  "education_levels": [
+    "High School",
+    "Associate's",
+    "Bachelor's",
+    "Master's",
+    "PhD"
+  ],
+
+  "seniority_levels": ["Junior", "Mid", "Senior"],
+
+  "seniority_experience_bands": {
+    "Junior": [0.0, 2.0],
+    "Mid":    [2.0, 5.0],
+    "Senior": [5.0, 12.0]
+  },
+
+  "fit_score_weights": {
+    "skill_match":          0.35,
+    "experience_adequacy":  0.20,
+    "education_match":      0.15,
+    "gpa":                  0.10,
+    "certifications":       0.08,
+    "projects":             0.05,
+    "internships":          0.04,
+    "specialization_match": 0.03
+  },
+
+  "fit_label_threshold": 50,
+  "noise_rate_min": 0.05,
+  "noise_rate_max": 0.10,
+
+  "dataset_sizes": {
+    "candidates": 1000,
+    "jobs": 100,
+    "applications_per_job": 100
+  }
+}
