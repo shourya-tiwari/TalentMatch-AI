@@ -1,0 +1,101 @@
+job_id,title,job_family,preferred_specialization,seniority_level,min_experience,education_requirement,required_skills,required_certifications
+J001,AI Research Engineer,Research,Machine Learning,Junior,1.7,Bachelor's,Airflow|XGBoost|Python|AWS|Teamwork|NoSQL|NumPy|SQL,0
+J002,NLP Engineer,Research,NLP,Mid,2.8,Bachelor's,Stakeholder Management|Keras|AWS|PyTorch|Data Wrangling|Problem Solving|Communication|Seaborn|MATLAB|CatBoost|NoSQL,0
+J003,AI Research Engineer,Research,Machine Learning,Junior,0.3,Master's,Keras|Plotly|Python|Terraform|Spark|Leadership|XGBoost|Probability|Matplotlib|Linux,0
+J004,Research Scientist,Research,Machine Learning,Senior,9.6,Bachelor's,Kubeflow|AWS|Hugging Face|NumPy,2
+J005,AI Research Engineer,Research,Machine Learning,Senior,11.2,Master's,Keras|PostgreSQL|AWS|Excel|C++|Kubeflow|Plotly|Hadoop|Problem Solving|NoSQL|Data Wrangling|Time Series Analysis,1
+J006,AI Product Analyst,Analytics,Data Science,Senior,7.6,Master's,NumPy|Hadoop|Leadership|Project Management|Plotly|XGBoost|Business Analytics|NLP,0
+J007,Research Scientist,Research,Machine Learning,Junior,1.3,PhD,Kafka|Business Analytics|NoSQL|Java|Keras|A/B Testing|Hugging Face|Data Modeling|Probability|MLflow,1
+J008,Data Scientist,Research,Data Science,Senior,6.7,Bachelor's,Seaborn|Time Series Analysis|MATLAB|Java|AWS|Pandas|Deep Learning|NLP|Looker|Linux|Power BI|NoSQL,0
+J009,Data Scientist,Research,Data Science,Mid,4.0,Bachelor's,Scala|Azure|Critical Thinking|Deep Learning|Java|Python,0
+J010,Computer Vision Engineer,Research,Computer Vision,Mid,2.3,Bachelor's,Teamwork|Hugging Face|Python|Scala|MySQL|Kubeflow|NumPy|R|Feature Engineering|Linux,0
+J011,Data Engineer,Engineering,Data Engineering,Senior,5.5,Bachelor's,MongoDB|Tableau|Data Wrangling|Pandas|Project Management|NoSQL|Problem Solving|PostgreSQL|Plotly|TensorFlow|Scala,0
+J012,Research Scientist,Research,Machine Learning,Junior,0.9,Bachelor's,Kafka|PostgreSQL|AWS|Pandas|Docker,0
+J013,NLP Engineer,Research,NLP,Mid,4.2,Bachelor's,MySQL|Communication|NumPy|Data Wrangling|Go|Problem Solving,1
+J014,AI Product Analyst,Analytics,Data Science,Mid,5.0,Master's,C++|Google Sheets|Linear Algebra|Docker,1
+J015,NLP Engineer,Research,NLP,Junior,0.7,Bachelor's,CI/CD|C++|Pandas|Feature Engineering|Kubeflow|MySQL|Google Sheets,1
+J016,Research Scientist,Research,Machine Learning,Mid,4.8,Associate's,Excel|SQL|Time Series Analysis|Pandas|CatBoost|Data Wrangling|MongoDB|CI/CD|Business Analytics,0
+J017,MLOps Engineer,Engineering,MLOps,Mid,4.5,Bachelor's,PostgreSQL|Python|Plotly|Linux|Kafka|MATLAB|Azure,1
+J018,AI Product Analyst,Analytics,Data Science,Junior,0.6,Master's,Leadership|Reinforcement Learning|Terraform|C++|Machine Learning|CatBoost|ETL Pipelines|Docker|Probability,1
+J019,ML Engineer,Engineering,Machine Learning,Junior,0.8,Bachelor's,Model Evaluation|PostgreSQL|Seaborn|Hugging Face|Kubeflow|Machine Learning|Computer Vision|Excel|Go|Looker,0
+J020,AI Research Engineer,Research,Machine Learning,Senior,9.9,PhD,Statistics|Linux|NLP|MySQL|Teamwork|PyTorch|A/B Testing|Go|Reinforcement Learning|ETL Pipelines|Airflow|Feature Engineering,1
+J021,Business Intelligence Analyst,Analytics,Business Intelligence,Senior,6.2,Master's,AWS|Problem Solving|Project Management|Business Analytics|Pandas|Communication|Tableau|XGBoost|Computer Vision|Critical Thinking|Scala,1
+J022,Quantitative Analyst,Finance,Quantitative Finance,Senior,6.3,Master's,Critical Thinking|R|Python|NumPy|MongoDB|Communication|PyTorch|Leadership|Matplotlib,0
+J023,ML Engineer,Engineering,Machine Learning,Senior,9.3,Bachelor's,Project Management|Docker|NoSQL|Data Wrangling|XGBoost|Deep Learning|Google Sheets,0
+J024,Data Analyst,Analytics,Data Science,Junior,1.2,Bachelor's,GCP|ETL Pipelines|R|MLflow|MongoDB|MATLAB,1
+J025,Business Intelligence Analyst,Analytics,Business Intelligence,Mid,2.8,High School,Java|TensorFlow|Spark|Business Analytics|C++|MySQL|Hadoop|Google Sheets|ETL Pipelines|Critical Thinking,0
+J026,Data Engineer,Engineering,Data Engineering,Junior,0.2,Associate's,MATLAB|Feature Engineering|Deep Learning|Linear Algebra|Time Series Analysis|Julia,0
+J027,Data Analyst,Analytics,Data Science,Junior,1.6,Bachelor's,LightGBM|NumPy|NoSQL|Java|Problem Solving|Communication|C++|Python|Docker|Computer Vision,0
+J028,ML Engineer,Engineering,Machine Learning,Junior,1.0,Bachelor's,Machine Learning|Business Analytics|Project Management|TensorFlow|Java|MySQL|GCP|Data Wrangling,1
+J029,NLP Engineer,Research,NLP,Junior,1.1,Bachelor's,Deep Learning|Kubernetes|GCP|PostgreSQL|Statistics|Model Evaluation|Machine Learning|MATLAB|Looker,1
+J030,ML Engineer,Engineering,Machine Learning,Mid,3.8,Bachelor's,Scikit-Learn|Tableau|Scala|Teamwork|Data Modeling|Kafka|Deep Learning|Excel,0
+J031,Data Engineer,Engineering,Data Engineering,Senior,10.6,Bachelor's,Looker|Linux|Spark|Kubernetes|Reinforcement Learning,1
+J032,Data Engineer,Engineering,Data Engineering,Senior,11.3,Bachelor's,CatBoost|Pandas|Docker|Matplotlib|Airflow|Julia|Seaborn|Leadership|Scala|Reinforcement Learning,2
+J033,Quantitative Analyst,Finance,Quantitative Finance,Senior,9.6,Bachelor's,LightGBM|Spark|MongoDB|Tableau|Terraform|C++|Statistics|NLP|Azure,0
+J034,AI Research Engineer,Research,Machine Learning,Mid,4.5,Bachelor's,Machine Learning|Probability|Critical Thinking|Linux,2
+J035,Computer Vision Engineer,Research,Computer Vision,Junior,1.9,Associate's,Python|Linux|NoSQL|MLflow|Spark|Machine Learning,0
+J036,Data Engineer,Engineering,Data Engineering,Junior,1.9,Bachelor's,NLP|Matplotlib|Reinforcement Learning|Plotly|Model Evaluation|A/B Testing|Seaborn|SQL,0
+J037,ML Engineer,Engineering,Machine Learning,Senior,6.6,Master's,Model Evaluation|Kubernetes|Stakeholder Management|Matplotlib|Spark|Seaborn|Business Analytics,0
+J038,NLP Engineer,Research,NLP,Junior,0.4,Bachelor's,Time Series Analysis|NLP|Statistics|Tableau|Looker|TensorFlow|Feature Engineering|Machine Learning|MongoDB|Terraform|CI/CD|Scikit-Learn,1
+J039,Business Intelligence Analyst,Analytics,Business Intelligence,Junior,1.5,Bachelor's,LightGBM|Google Sheets|Pandas|PostgreSQL|Hadoop|XGBoost|Stakeholder Management|MongoDB|Machine Learning|Leadership|Data Wrangling|Computer Vision,0
+J040,AI Research Engineer,Research,Machine Learning,Mid,2.7,Master's,Statistics|XGBoost|Seaborn|Kubeflow|Excel|Machine Learning,1
+J041,NLP Engineer,Research,NLP,Junior,1.9,Bachelor's,Seaborn|Hugging Face|NumPy|Power BI|Reinforcement Learning|Project Management|Keras|Time Series Analysis|Computer Vision|MLflow|Julia|Leadership,1
+J042,ML Engineer,Engineering,Machine Learning,Mid,2.8,PhD,Machine Learning|CI/CD|Kubeflow|MongoDB|Azure|Spark|PyTorch,1
+J043,MLOps Engineer,Engineering,MLOps,Mid,2.2,Master's,Machine Learning|Java|XGBoost|Airflow|Julia|Statistics|Data Modeling|MLflow|Model Evaluation|Scala|Communication,0
+J044,MLOps Engineer,Engineering,MLOps,Senior,7.6,Master's,Project Management|Scala|Time Series Analysis|CatBoost|Problem Solving|Kubernetes|C++|R|Pandas,0
+J045,MLOps Engineer,Engineering,MLOps,Junior,2.0,Bachelor's,Azure|NLP|Julia|Data Wrangling|Matplotlib|PyTorch,0
+J046,ML Engineer,Engineering,Machine Learning,Mid,3.4,Master's,Excel|Hugging Face|Matplotlib|CI/CD|Data Wrangling|Probability|PostgreSQL|Google Sheets,0
+J047,Business Intelligence Analyst,Analytics,Business Intelligence,Mid,4.0,Bachelor's,MATLAB|PostgreSQL|SQL|MySQL|MongoDB|Machine Learning,0
+J048,MLOps Engineer,Engineering,MLOps,Mid,2.8,Master's,Business Analytics|Keras|AWS|Deep Learning|Statistics|MongoDB|CatBoost,2
+J049,Data Scientist,Research,Data Science,Junior,1.3,Bachelor's,Python|Pandas|CI/CD|Leadership|Java|Data Modeling|CatBoost|Matplotlib|A/B Testing,2
+J050,Research Scientist,Research,Machine Learning,Junior,1.4,Bachelor's,Go|Project Management|Critical Thinking|Data Wrangling,1
+J051,NLP Engineer,Research,NLP,Junior,1.5,Bachelor's,Azure|Java|NoSQL|XGBoost|Airflow|Spark|Data Wrangling|Feature Engineering|Teamwork,0
+J052,Computer Vision Engineer,Research,Computer Vision,Junior,0.9,Bachelor's,Hugging Face|Pandas|Data Wrangling|Plotly|Stakeholder Management|Feature Engineering|MLflow|CI/CD|Hadoop|Azure|NoSQL,0
+J053,Computer Vision Engineer,Research,Computer Vision,Junior,1.2,High School,Azure|Docker|Deep Learning|Teamwork|PyTorch|Reinforcement Learning|NoSQL|PostgreSQL|Airflow|NLP|TensorFlow,0
+J054,Data Analyst,Analytics,Data Science,Junior,1.2,Associate's,Computer Vision|A/B Testing|Keras|Linux|NumPy|NoSQL|ETL Pipelines|Google Sheets|Pandas|Hadoop|Reinforcement Learning|Airflow,2
+J055,Quantitative Analyst,Finance,Quantitative Finance,Senior,5.3,Bachelor's,Terraform|Probability|Leadership|Hadoop|Airflow|Julia|Machine Learning,2
+J056,MLOps Engineer,Engineering,MLOps,Mid,2.3,Master's,MLflow|Terraform|Teamwork|CatBoost|Leadership|Keras|Hugging Face|SQL|C++,0
+J057,Data Analyst,Analytics,Data Science,Senior,10.7,Master's,Time Series Analysis|Julia|Machine Learning|LightGBM|Linux|GCP|Hugging Face|Scala|Python|MySQL|Stakeholder Management|A/B Testing,2
+J058,Data Engineer,Engineering,Data Engineering,Mid,2.2,Bachelor's,Linux|Kubernetes|A/B Testing|GCP|CatBoost|MLflow,0
+J059,MLOps Engineer,Engineering,MLOps,Senior,10.2,Master's,Seaborn|ETL Pipelines|MongoDB|Scikit-Learn|C++|Time Series Analysis|TensorFlow,1
+J060,ML Engineer,Engineering,Machine Learning,Senior,9.3,Master's,AWS|MATLAB|Data Modeling|Hadoop|Airflow|Java|Excel,0
+J061,NLP Engineer,Research,NLP,Junior,0.7,Bachelor's,R|ETL Pipelines|Power BI|LightGBM|Looker|Teamwork|PyTorch,1
+J062,ML Engineer,Engineering,Machine Learning,Mid,2.6,PhD,Hugging Face|Project Management|MongoDB|SQL|Terraform|Kubeflow|Machine Learning|Time Series Analysis,1
+J063,NLP Engineer,Research,NLP,Mid,2.6,Master's,PostgreSQL|MLflow|Spark|C++|NLP|Matplotlib|Pandas|Kubernetes|Hadoop|Airflow,1
+J064,Data Scientist,Research,Data Science,Junior,0.4,Bachelor's,Leadership|Hugging Face|Scikit-Learn|Docker,0
+J065,NLP Engineer,Research,NLP,Mid,3.4,Master's,Probability|Azure|Looker|Deep Learning|Kubeflow|CatBoost|R,0
+J066,Computer Vision Engineer,Research,Computer Vision,Senior,11.0,Associate's,AWS|NLP|Hadoop|Kafka|Spark|MySQL|LightGBM|Excel|Stakeholder Management,1
+J067,Research Scientist,Research,Machine Learning,Senior,9.2,Bachelor's,Plotly|Feature Engineering|PyTorch|Excel|Hugging Face|TensorFlow|CatBoost|Keras|Kubeflow|Tableau,2
+J068,Computer Vision Engineer,Research,Computer Vision,Junior,1.6,High School,Problem Solving|PostgreSQL|Spark|Tableau|NLP,0
+J069,ML Engineer,Engineering,Machine Learning,Mid,4.3,Master's,NumPy|Kubeflow|CatBoost|C++|Airflow|Probability|Statistics|AWS,1
+J070,ML Engineer,Engineering,Machine Learning,Mid,2.4,Bachelor's,Machine Learning|Data Modeling|MLflow|Docker,1
+J071,Data Engineer,Engineering,Data Engineering,Mid,3.3,Master's,Communication|Data Modeling|Go|Excel|Google Sheets|Python|MATLAB|ETL Pipelines|MongoDB,0
+J072,Research Scientist,Research,Machine Learning,Mid,3.9,Master's,Hugging Face|NoSQL|GCP|Problem Solving|XGBoost,0
+J073,Quantitative Analyst,Finance,Quantitative Finance,Junior,1.7,Bachelor's,Scikit-Learn|Communication|Docker|MATLAB|Model Evaluation|SQL|NoSQL|Problem Solving,0
+J074,Data Analyst,Analytics,Data Science,Senior,6.5,Master's,Pandas|Business Analytics|Seaborn|Spark|Kubernetes|NoSQL|Linear Algebra|Leadership|SQL,1
+J075,ML Engineer,Engineering,Machine Learning,Senior,11.4,Master's,NumPy|Model Evaluation|Plotly|MLflow|Critical Thinking|Scala|A/B Testing|Probability|Communication|Hadoop|SQL|Hugging Face,0
+J076,AI Product Analyst,Analytics,Data Science,Junior,0.9,Bachelor's,Java|Deep Learning|Linux|LightGBM|Terraform|NumPy,1
+J077,NLP Engineer,Research,NLP,Senior,11.3,Master's,Looker|Computer Vision|Statistics|Feature Engineering|Critical Thinking|Teamwork|PyTorch,1
+J078,Business Intelligence Analyst,Analytics,Business Intelligence,Junior,1.1,Bachelor's,Data Wrangling|Power BI|Keras|Machine Learning|Project Management,0
+J079,Business Intelligence Analyst,Analytics,Business Intelligence,Junior,1.2,Bachelor's,NumPy|Kafka|ETL Pipelines|Google Sheets|Power BI|Feature Engineering|Linux|Deep Learning|Machine Learning,2
+J080,MLOps Engineer,Engineering,MLOps,Mid,3.1,Master's,Kubeflow|Plotly|Communication|NLP|MATLAB,1
+J081,ML Engineer,Engineering,Machine Learning,Mid,4.6,Master's,Data Wrangling|Docker|Matplotlib|Feature Engineering|Kubeflow|Go|MySQL|Critical Thinking,0
+J082,Business Intelligence Analyst,Analytics,Business Intelligence,Mid,3.0,Associate's,Plotly|LightGBM|Power BI|Azure|Kafka|Communication,1
+J083,Data Engineer,Engineering,Data Engineering,Mid,4.8,Master's,Power BI|NumPy|Data Modeling|Business Analytics|Linear Algebra,2
+J084,Business Intelligence Analyst,Analytics,Business Intelligence,Senior,7.5,Master's,SQL|Kafka|Statistics|MySQL|GCP|ETL Pipelines|NumPy|Kubeflow|Time Series Analysis,2
+J085,Research Scientist,Research,Machine Learning,Senior,8.5,Master's,Google Sheets|Azure|CatBoost|Scala,1
+J086,NLP Engineer,Research,NLP,Mid,3.9,Master's,Data Wrangling|Teamwork|GCP|MongoDB|Python|PostgreSQL|Stakeholder Management,1
+J087,ML Engineer,Engineering,Machine Learning,Junior,0.7,Master's,GCP|MLflow|Terraform|ETL Pipelines|TensorFlow|NoSQL|Time Series Analysis,1
+J088,Research Scientist,Research,Machine Learning,Junior,0.9,Bachelor's,Machine Learning|LightGBM|Leadership|Airflow,2
+J089,Data Scientist,Research,Data Science,Senior,6.5,Master's,CatBoost|Reinforcement Learning|AWS|Kubernetes|Model Evaluation|Time Series Analysis|Critical Thinking|NumPy|TensorFlow|PyTorch|Kubeflow,0
+J090,Data Analyst,Analytics,Data Science,Senior,6.9,Associate's,Julia|XGBoost|Time Series Analysis|Teamwork|Problem Solving|Linear Algebra|Statistics|Airflow|Python|Excel|TensorFlow,1
+J091,AI Product Analyst,Analytics,Data Science,Junior,0.8,Bachelor's,Problem Solving|Reinforcement Learning|Kafka|CI/CD|Kubernetes|Pandas|Model Evaluation|TensorFlow|Machine Learning,0
+J092,Quantitative Analyst,Finance,Quantitative Finance,Mid,4.0,Master's,Terraform|Time Series Analysis|Matplotlib|Hugging Face|Kubernetes,0
+J093,NLP Engineer,Research,NLP,Mid,4.7,Bachelor's,Leadership|Data Wrangling|GCP|C++|Plotly|Python|Power BI,1
+J094,NLP Engineer,Research,NLP,Mid,2.7,PhD,Kafka|MongoDB|Model Evaluation|Tableau|Julia|PostgreSQL|NumPy|Problem Solving|Leadership,0
+J095,Research Scientist,Research,Machine Learning,Junior,1.3,Bachelor's,Python|GCP|Java|Excel|Hugging Face|ETL Pipelines|MySQL|Terraform,2
+J096,MLOps Engineer,Engineering,MLOps,Junior,0.6,Associate's,LightGBM|Computer Vision|Pandas|Kubeflow|Java|Machine Learning|Kubernetes|Docker|PostgreSQL|C++|Model Evaluation|Kafka,1
+J097,AI Research Engineer,Research,Machine Learning,Junior,0.6,Bachelor's,MLflow|Looker|LightGBM|CatBoost|Seaborn|Statistics|Project Management|Feature Engineering,0
+J098,NLP Engineer,Research,NLP,Junior,0.1,PhD,NLP|Reinforcement Learning|A/B Testing|Plotly|Data Modeling|Teamwork|Azure|Kubeflow|Scikit-Learn|Kafka|Keras|NoSQL,0
+J099,Data Analyst,Analytics,Data Science,Mid,3.3,PhD,Kafka|MongoDB|AWS|Data Wrangling|LightGBM|CI/CD|Linear Algebra|Problem Solving,0
+J100,ML Engineer,Engineering,Machine Learning,Senior,5.8,Master's,PyTorch|NumPy|CI/CD|Kafka|Scala|GCP|Kubernetes|Airflow|CatBoost|MATLAB|Matplotlib,0

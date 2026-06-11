@@ -1,0 +1,1001 @@
+candidate_id,name,specialization,years_experience,education_level,skills,certifications,internships_count,projects_count,hackathons,research_papers,leadership_experience,gpa
+C0001,Lena Verma,Machine Learning,1.5,Master's,Looker|Model Evaluation|Time Series Analysis|AWS|GCP|Linear Algebra|TensorFlow,2,2,3,1,0,1,3.52
+C0002,Rahul Müller,NLP,1.7,Bachelor's,SQL|Matplotlib|NLP|Time Series Analysis|Java|Azure|Problem Solving|CI/CD|Business Analytics|Hadoop|MongoDB|PyTorch|MATLAB|TensorFlow|Teamwork|Model Evaluation|Power BI,0,1,4,2,1,0,3.27
+C0003,Zhang Garcia,Data Engineering,2.2,Bachelor's,C++|Feature Engineering|Google Sheets|Data Modeling|XGBoost|Java|MongoDB|PostgreSQL|Teamwork|Julia|Kafka|Business Analytics|TensorFlow|Go|Kubernetes,3,1,2,5,0,0,2.09
+C0004,Neha Reddy,Data Engineering,2.5,Master's,Keras|Julia|R|Kubeflow|Excel|Docker,0,1,3,4,2,0,3.0
+C0005,Divya Castillo,Data Science,1.8,Master's,Tableau|Docker|Linear Algebra|Statistics|SQL|NLP|Hugging Face|AWS|CatBoost|Google Sheets|C++|Kafka|CI/CD|LightGBM|Plotly,4,0,4,2,3,1,3.51
+C0006,Zara Williams,Cloud Engineering,5.4,Bachelor's,XGBoost|Kafka|Scala|Feature Engineering|C++|Kubernetes|Plotly|Google Sheets|Airflow|Machine Learning,3,0,2,2,0,0,3.87
+C0007,Omar Okonkwo,Business Intelligence,4.8,Master's,Model Evaluation|Hadoop|Docker|Teamwork|Kafka|Business Analytics|Julia|C++,0,0,3,3,0,1,3.71
+C0008,Arjun Kumar,Quantitative Finance,5.8,Master's,Statistics|PostgreSQL|Go|Kubeflow|Excel|Scala|SQL|Data Wrangling|Power BI|CatBoost|C++|Model Evaluation|CI/CD|Business Analytics|NLP|Deep Learning|Looker,0,1,6,0,0,1,2.81
+C0009,Omar Garcia,Software Engineering,5.0,Bachelor's,Data Modeling|CatBoost|Feature Engineering|NoSQL|Keras|Spark|Hadoop|Terraform|PyTorch|Kubeflow|Reinforcement Learning,0,1,2,4,2,1,2.74
+C0010,Rahul Tanaka,Quantitative Finance,3.7,Master's,TensorFlow|Leadership|Keras|NumPy|Kubeflow|SQL|ETL Pipelines|CI/CD|MLflow|Seaborn|Plotly|Reinforcement Learning|CatBoost|Teamwork|Hadoop|Linux|Matplotlib,1,1,0,0,2,1,3.09
+C0011,Emily Reddy,Computer Vision,2.5,Bachelor's,XGBoost|Hadoop|Data Modeling|TensorFlow|Stakeholder Management|Linux|AWS|R|Critical Thinking|NLP|Data Wrangling|SQL|Terraform|Looker|Hugging Face|Scikit-Learn|MySQL,0,0,3,3,3,0,3.28
+C0012,Jessica Wang,Machine Learning,7.8,Bachelor's,Tableau|Teamwork|Java|Model Evaluation|TensorFlow|NLP|Looker,1,2,0,4,0,1,3.48
+C0013,Yuki Williams,NLP,7.6,Bachelor's,Data Modeling|Project Management|Linux|MySQL|Kafka|Go|Julia|PyTorch|Power BI|Statistics,1,3,3,0,1,1,2.64
+C0014,Chris Tanaka,Business Intelligence,6.3,Bachelor's,PyTorch|Deep Learning|Leadership|Looker|PostgreSQL|Hadoop|A/B Testing|Reinforcement Learning|Python|SQL|MATLAB|Feature Engineering|MongoDB|Kafka|Data Modeling|R|Probability,0,4,4,0,0,1,2.91
+C0015,Amanda Chen,MLOps,4.3,Master's,Reinforcement Learning|Java|Critical Thinking|Model Evaluation|MATLAB|Julia|Kubeflow|Leadership|C++|Computer Vision|CatBoost|Terraform|Data Modeling,0,1,5,2,0,0,3.09
+C0016,Daniel Kumar,Business Intelligence,2.3,Master's,Pandas|Data Modeling|TensorFlow|NumPy|Machine Learning|Project Management|Tableau|PyTorch|Time Series Analysis|Critical Thinking|Problem Solving|MongoDB|MATLAB|Statistics|MySQL|CI/CD|Power BI,0,1,1,1,0,0,3.52
+C0017,David Davis,Computer Vision,0.7,Bachelor's,Computer Vision|SQL|Airflow|Problem Solving|Linear Algebra,0,0,2,0,1,1,2.44
+C0018,Zara Martinez,NLP,4.9,Bachelor's,TensorFlow|Communication|Model Evaluation|MongoDB|Airflow|Go|PostgreSQL|Spark|Deep Learning|PyTorch|Project Management|XGBoost|Docker|Reinforcement Learning|Problem Solving|CatBoost,3,0,7,2,1,1,2.87
+C0019,Sofia Davis,Software Engineering,3.2,Master's,Tableau|NoSQL|Data Modeling|Google Sheets|Seaborn|Spark|CI/CD|Statistics|Airflow|Go|Leadership|PyTorch,2,1,6,2,0,0,3.9
+C0020,Sneha Garcia,Computer Vision,6.1,Bachelor's,Google Sheets|R|NumPy|Go|Seaborn|Hadoop|Plotly|Communication|Deep Learning|Python|Tableau|Time Series Analysis|PostgreSQL|Business Analytics|Scala|Leadership,2,4,5,0,1,0,3.18
+C0021,Nina Wilson,Data Science,1.8,Master's,Data Modeling|Hugging Face|Business Analytics|CI/CD|Seaborn|Probability|MongoDB|Hadoop|GCP|SQL,1,0,1,4,0,1,2.8
+C0022,Vikram Kumar,Data Engineering,4.5,Bachelor's,Model Evaluation|Pandas|Feature Engineering|Leadership|C++|Terraform|Matplotlib|CatBoost|Looker,2,2,7,0,0,1,2.31
+C0023,Divya Mehta,Data Engineering,4.5,High School,Business Analytics|C++|Keras|Julia|CI/CD|Project Management|MySQL|MongoDB|Communication|Scala|Spark|Kubeflow|Feature Engineering|Google Sheets,1,3,7,1,0,0,2.81
+C0024,Kavya Castillo,Quantitative Finance,0.6,Bachelor's,Kubeflow|AWS|Scikit-Learn|Kafka|Julia,4,2,2,0,1,0,3.3
+C0025,Kavya Johnson,Software Engineering,6.5,Bachelor's,Communication|MongoDB|XGBoost|Matplotlib|PostgreSQL|Probability,1,4,5,2,0,0,2.65
+C0026,Jessica Castillo,Machine Learning,3.3,Master's,NoSQL|Kafka|Probability|Kubeflow|Kubernetes|NumPy|Computer Vision|CatBoost|Business Analytics|MLflow|Plotly,1,0,3,0,1,0,3.89
+C0027,Kai Reddy,MLOps,1.5,PhD,A/B Testing|Julia|Airflow|MySQL|Reinforcement Learning|R|Computer Vision|MATLAB|Deep Learning|Project Management|TensorFlow|Scala|Kubernetes|Seaborn|Data Modeling|MLflow,1,1,3,1,0,1,3.14
+C0028,Deepak Rodriguez,Machine Learning,3.8,Bachelor's,A/B Testing|AWS|MATLAB|MongoDB|Plotly|TensorFlow|Leadership|Linear Algebra|Kubernetes|Kafka|Statistics|NumPy|Keras|NLP|Excel|Looker|Scikit-Learn,0,2,3,0,0,1,3.52
+C0029,Ivan Joshi,MLOps,2.4,Bachelor's,Scikit-Learn|Power BI|Azure|Spark|Docker,1,2,5,0,0,1,3.24
+C0030,Meera Mensah,Software Engineering,3.7,Bachelor's,NLP|Statistics|Kubeflow|Time Series Analysis|Python|Kafka|Tableau|Linux|Model Evaluation,4,3,1,1,0,0,3.4
+C0031,Priya Ali,Cloud Engineering,8.7,High School,Project Management|Pandas|Problem Solving|Communication|Business Analytics|ETL Pipelines|Go|Reinforcement Learning|Linear Algebra|PostgreSQL|MongoDB|Docker|R|Leadership|C++|Hadoop|MATLAB,2,3,3,1,0,0,3.83
+C0032,Matthew Wilson,NLP,2.8,Master's,Python|Tableau|Azure|PostgreSQL|Scikit-Learn|Data Wrangling,1,2,4,2,1,1,2.22
+C0033,Deepak Okonkwo,Machine Learning,5.7,Master's,Data Modeling|Reinforcement Learning|MySQL|Matplotlib|PyTorch|Go|CI/CD|GCP|Python|Kubernetes,2,2,7,1,1,0,2.83
+C0034,Arjun Mensah,Software Engineering,7.6,Bachelor's,Tableau|Terraform|PyTorch|MySQL|Plotly,1,4,3,1,0,0,3.7
+C0035,Amanda Gupta,Business Intelligence,3.6,Master's,Machine Learning|Time Series Analysis|Seaborn|Feature Engineering|Excel,2,1,5,3,0,0,3.97
+C0036,Karan Martinez,Data Engineering,6.9,Associate's,XGBoost|Machine Learning|Time Series Analysis|Go|GCP|SQL|Model Evaluation,2,1,5,1,0,0,3.89
+C0037,Rohan Anderson,MLOps,0.2,Master's,Python|Computer Vision|Java|MySQL|Azure|Plotly|Docker|LightGBM|Pandas|Kafka|Reinforcement Learning|XGBoost,0,2,6,2,1,1,2.43
+C0038,Chris Jones,Computer Vision,3.6,Bachelor's,Looker|Leadership|Hadoop|Google Sheets|Azure|Scikit-Learn|Java|TensorFlow|Pandas|NoSQL|Julia,1,3,7,1,2,0,2.58
+C0039,Isha Liu,Data Science,1.7,Bachelor's,Feature Engineering|Deep Learning|Teamwork|Data Modeling|Matplotlib|Problem Solving|NLP|Stakeholder Management|NumPy|Leadership|Python|Business Analytics|TensorFlow|Scikit-Learn|Julia,3,2,3,0,1,0,3.49
+C0040,Shruti Hassan,Computer Vision,1.3,Bachelor's,Teamwork|Stakeholder Management|Terraform|Computer Vision|Scikit-Learn|Time Series Analysis|ETL Pipelines|Feature Engineering|Julia,1,1,4,1,0,1,3.19
+C0041,Lin Anderson,Machine Learning,7.9,Bachelor's,Machine Learning|MLflow|Stakeholder Management|Go|Hugging Face,0,1,3,0,0,0,3.12
+C0042,Yuki Liu,Data Science,5.9,Bachelor's,Power BI|TensorFlow|Project Management|Kafka|Looker|Problem Solving|MySQL|NoSQL|C++|Keras|R,0,3,2,2,0,0,2.62
+C0043,Sarah Jones,NLP,0.5,Master's,PyTorch|MLflow|CatBoost|Teamwork|Scikit-Learn|SQL|ETL Pipelines|TensorFlow|Feature Engineering|R|Statistics|Probability|Kubeflow|Kubernetes|Terraform,0,0,3,1,0,0,3.01
+C0044,Isha Ivanov,MLOps,3.7,High School,Keras|MongoDB|Kubernetes|Terraform|Teamwork|Communication|Time Series Analysis|Deep Learning|Go,0,3,3,2,0,0,2.5
+C0045,Chris Tanaka,Quantitative Finance,1.3,Bachelor's,Docker|Spark|Python|C++|Azure|PostgreSQL|Go|Scikit-Learn|XGBoost|Linux,1,0,3,5,1,0,3.19
+C0046,Sneha Anderson,Quantitative Finance,6.3,Bachelor's,Data Wrangling|Keras|Kubernetes|NoSQL|Reinforcement Learning|Airflow|Computer Vision|Problem Solving|Java|Seaborn|Google Sheets|Python|MLflow|Stakeholder Management|Hadoop|Julia|Probability|Pandas,2,0,3,2,3,1,3.5
+C0047,Chris Jones,Quantitative Finance,7.7,Bachelor's,Spark|Deep Learning|Machine Learning|MLflow|Reinforcement Learning|PyTorch|C++|Java|Go|MATLAB|Teamwork|Kubernetes|GCP|Linear Algebra|Computer Vision|Terraform|Kubeflow,4,1,3,1,0,0,3.0
+C0048,Meera Hassan,Data Science,0.2,Bachelor's,Plotly|Julia|GCP|CI/CD|Machine Learning|Seaborn,3,0,2,0,2,1,2.85
+C0049,Nikhil Garcia,Cloud Engineering,1.9,Bachelor's,Machine Learning|Reinforcement Learning|Hugging Face|Scikit-Learn|Data Wrangling|Linear Algebra|Kafka|A/B Testing|Scala|Statistics|Kubernetes|GCP|PostgreSQL|Airflow|Model Evaluation,0,1,3,2,0,0,2.48
+C0050,Yuki Joshi,Software Engineering,2.0,Master's,PostgreSQL|Business Analytics|MongoDB|Critical Thinking|Model Evaluation,2,3,1,3,0,0,2.09
+C0051,Amit Singh,NLP,2.6,PhD,NLP|Linear Algebra|Scala|Java|Computer Vision|Power BI|Linux|C++|PyTorch|SQL|Seaborn|CatBoost|MATLAB|Looker|Excel|NoSQL|Terraform|Critical Thinking,0,2,3,2,0,1,2.7
+C0052,Rohan Liu,Software Engineering,1.4,PhD,C++|MySQL|Business Analytics|Leadership|R|Plotly|Data Wrangling|LightGBM|NLP|Problem Solving|Azure|GCP|Hadoop|NumPy|Feature Engineering|Scala|PyTorch,2,1,1,2,0,0,3.12
+C0053,Suresh Martinez,MLOps,4.9,Bachelor's,Spark|Computer Vision|Terraform|Java|LightGBM|Deep Learning|Julia|Kubernetes|Azure|Stakeholder Management|C++|Power BI|Kafka|Docker|MySQL|R,1,2,3,5,0,1,2.13
+C0054,Jessica Okonkwo,Quantitative Finance,3.3,Bachelor's,MATLAB|Stakeholder Management|Hugging Face|Problem Solving|Machine Learning|Business Analytics|R|Terraform|Seaborn|MySQL|CatBoost|Reinforcement Learning|Kafka|Communication,1,4,6,3,0,1,3.1
+C0055,Karan Anderson,Software Engineering,4.0,Bachelor's,GCP|Azure|Kafka|A/B Testing|Spark|Problem Solving|XGBoost,4,2,2,0,0,1,2.06
+C0056,Lena Wilson,Cloud Engineering,6.4,Bachelor's,Docker|TensorFlow|Probability|NumPy|Kubernetes|Matplotlib|C++|SQL|A/B Testing|Statistics|Plotly|Reinforcement Learning|Stakeholder Management|Linux|XGBoost,0,0,3,1,1,0,3.73
+C0057,Rahul Chen,Software Engineering,1.1,Master's,Statistics|Machine Learning|Linear Algebra|Data Wrangling|NLP|Power BI|SQL,0,1,4,3,1,0,2.02
+C0058,Arjun Müller,Data Engineering,4.4,Master's,Keras|ETL Pipelines|Java|Kubernetes|Spark|Excel|A/B Testing|Communication|MongoDB|Tableau|MySQL|Leadership|Linear Algebra|Julia|Azure|PostgreSQL|MATLAB,0,1,3,1,1,0,2.66
+C0059,Maria Chen,Data Engineering,4.9,Bachelor's,Linux|AWS|Google Sheets|Computer Vision|Java|Scala|Go|MATLAB|Scikit-Learn|Python|Probability|Terraform|Communication|XGBoost|SQL|CI/CD|Hugging Face|Hadoop,0,4,1,0,0,0,3.38
+C0060,Daniel Castillo,Software Engineering,4.4,PhD,C++|NoSQL|LightGBM|XGBoost|AWS|Probability|Feature Engineering|Tableau|Go|Communication|ETL Pipelines|Excel|Terraform|Pandas|Spark|Model Evaluation,1,4,5,1,0,1,2.76
+C0061,Jessica Liu,Data Engineering,2.3,Bachelor's,CI/CD|Airflow|Google Sheets|PyTorch|Problem Solving|Python|MySQL|A/B Testing|Deep Learning|Data Wrangling|Linear Algebra|GCP|Pandas|ETL Pipelines|PostgreSQL|Data Modeling,1,0,7,1,1,1,2.18
+C0062,Omar Jones,Quantitative Finance,5.1,Master's,Google Sheets|Power BI|Probability|MongoDB|Go,1,2,7,1,0,1,3.05
+C0063,Karan Castillo,MLOps,6.5,Bachelor's,Scala|Tableau|Terraform|Kubeflow|Linux|Linear Algebra|LightGBM|Spark|AWS|Scikit-Learn,0,0,3,0,0,0,3.51
+C0064,Sarah Anderson,Software Engineering,0.1,Master's,PostgreSQL|Computer Vision|MySQL|Airflow|LightGBM|Statistics|Model Evaluation|Azure|SQL|Business Analytics|Scikit-Learn|NumPy|C++|A/B Testing|MATLAB,1,1,3,4,0,1,3.81
+C0065,Amit Reddy,Data Engineering,4.2,Bachelor's,Tableau|Looker|Linux|Go|Pandas|Data Wrangling,1,0,3,3,1,0,3.63
+C0066,Lucas Brown,Software Engineering,3.4,Associate's,Hugging Face|Leadership|Pandas|Kafka|Probability|Data Modeling|Scala|Java|C++|Docker|Model Evaluation|LightGBM|Linux|Problem Solving|Matplotlib|Business Analytics,2,1,0,0,0,1,3.09
+C0067,Zhang Hassan,Business Intelligence,2.8,Bachelor's,PyTorch|Looker|R|Data Modeling|Hadoop|Pandas|Linear Algebra|Time Series Analysis|SQL,1,1,2,3,0,0,2.58
+C0068,Sofia Chen,Software Engineering,5.4,Bachelor's,Keras|SQL|Matplotlib|Deep Learning|Airflow|Feature Engineering|MLflow|Hadoop|GCP|Excel,2,1,3,0,0,1,2.95
+C0069,Deepak Anderson,Data Engineering,5.5,Master's,NLP|C++|Model Evaluation|Business Analytics|ETL Pipelines|Tableau|XGBoost|Seaborn|Terraform|R|Data Wrangling|MATLAB|Docker,2,2,4,0,0,1,2.61
+C0070,Aarav Brown,Business Intelligence,0.6,PhD,Statistics|Deep Learning|NumPy|Keras|Teamwork|Problem Solving|MongoDB|Data Modeling|Pandas|Spark|SQL|PostgreSQL|Airflow|AWS|Seaborn|Machine Learning|Computer Vision,0,2,4,2,0,0,2.46
+C0071,Omar Garcia,MLOps,7.5,Bachelor's,Reinforcement Learning|Statistics|CatBoost|Scala|Time Series Analysis|Scikit-Learn|Julia|Teamwork|Power BI|Go,2,1,6,0,1,0,3.01
+C0072,Emily Kumar,Software Engineering,5.6,Master's,Model Evaluation|Hadoop|Matplotlib|R|Excel|Problem Solving|Keras|Python|Spark|Looker|Linear Algebra|ETL Pipelines,2,1,3,3,0,1,2.92
+C0073,Meera Jones,Cloud Engineering,5.1,Master's,Hugging Face|Data Modeling|Stakeholder Management|Docker|Project Management|Power BI|NumPy|AWS|Business Analytics|Pandas|Azure|Linux|Terraform|Kafka|Probability,0,3,0,0,0,1,3.64
+C0074,Vikram Anderson,Data Engineering,4.5,Bachelor's,AWS|PostgreSQL|A/B Testing|XGBoost|NLP|Java|Linux|Python|Pandas|MATLAB|Matplotlib|GCP|Problem Solving|Seaborn|Leadership|Docker|Data Wrangling|Critical Thinking,2,2,1,0,1,1,3.48
+C0075,James Ahmed,Data Science,7.5,Associate's,A/B Testing|PyTorch|Docker|Seaborn|NumPy|TensorFlow|Pandas|Looker|Business Analytics|Probability|Data Modeling|NLP,1,2,5,2,3,0,3.04
+C0076,Hassan Hassan,Data Engineering,2.4,Bachelor's,Project Management|Data Modeling|Terraform|Hadoop|Statistics|MySQL|Plotly|NLP|Keras|CI/CD|LightGBM|MLflow,3,1,6,1,0,1,3.3
+C0077,Carlos Nair,Cloud Engineering,7.6,Bachelor's,Probability|Teamwork|Problem Solving|NumPy|Python|NoSQL|MATLAB|Business Analytics,1,4,2,5,0,1,2.05
+C0078,Sofia Ivanov,Business Intelligence,2.3,Bachelor's,NoSQL|Kubeflow|Data Wrangling|Model Evaluation|Leadership|Project Management|Stakeholder Management|Hadoop|MongoDB|Google Sheets|Scala|SQL|Terraform|MLflow|Feature Engineering|Azure,1,2,4,5,0,1,2.21
+C0079,Arjun Martinez,Business Intelligence,4.2,Bachelor's,Matplotlib|R|Probability|Linux|Spark|AWS|Model Evaluation|Data Modeling|ETL Pipelines|Deep Learning|Kubeflow|Feature Engineering|Stakeholder Management|Communication,1,0,5,1,0,0,3.42
+C0080,Priya Wang,Data Science,1.0,Master's,Statistics|Looker|Terraform|Probability|Keras|CatBoost|Machine Learning|Power BI|Reinforcement Learning|Scala|Leadership|TensorFlow|Python|Feature Engineering|Problem Solving|Model Evaluation,1,2,4,1,0,0,3.34
+C0081,Stephanie Chen,Software Engineering,3.1,Bachelor's,Statistics|Docker|Critical Thinking|PostgreSQL|Kafka|Communication,1,1,1,1,0,0,3.19
+C0082,Omar Hassan,Computer Vision,5.1,Bachelor's,Data Wrangling|Scala|Google Sheets|Plotly|Hadoop|LightGBM|XGBoost|NumPy|MLflow|Tableau|Keras|Kafka|Computer Vision|Kubernetes|Julia|AWS,0,1,3,3,0,1,2.99
+C0083,Wei Verma,Software Engineering,6.2,Bachelor's,Hadoop|Terraform|Computer Vision|Airflow|MySQL|Model Evaluation|LightGBM|Plotly|Tableau|Java|Stakeholder Management|Feature Engineering|GCP|NLP|Keras|R|Seaborn|Julia,1,0,8,1,0,1,3.03
+C0084,Hassan Joshi,Data Engineering,3.9,PhD,Data Modeling|Reinforcement Learning|Teamwork|Seaborn|Model Evaluation,1,2,2,1,0,1,3.76
+C0085,Sneha Ali,Quantitative Finance,4.2,Master's,Machine Learning|Kafka|SQL|Project Management|Problem Solving|Keras|Leadership|Hugging Face|NLP|Pandas,3,1,4,2,0,0,3.37
+C0086,Ananya Singh,Data Science,5.0,Master's,AWS|Matplotlib|PyTorch|Statistics|Excel,3,1,6,3,0,0,2.16
+C0087,Yuki Smith,Machine Learning,2.4,Bachelor's,Looker|Docker|Python|Project Management|Keras|AWS|Time Series Analysis|Hugging Face|Kafka|NumPy|Linux|Seaborn|TensorFlow|Pandas|Reinforcement Learning|Machine Learning,0,2,4,0,0,0,3.5
+C0088,Daniel Tanaka,Business Intelligence,0.8,Associate's,Model Evaluation|Azure|Spark|Data Modeling|XGBoost|Looker|Stakeholder Management|PyTorch|SQL|PostgreSQL|Python|Kafka|AWS|Terraform|NoSQL|Google Sheets|Data Wrangling,1,4,8,4,0,1,3.14
+C0089,Emily Johnson,MLOps,3.9,PhD,MongoDB|AWS|Time Series Analysis|Data Wrangling|Kubernetes,2,1,3,2,0,0,3.23
+C0090,Kavya Gupta,Cloud Engineering,7.4,Associate's,Docker|Azure|NumPy|A/B Testing|Deep Learning|Seaborn|Kubernetes|Leadership|Scala|Computer Vision|Tableau|NoSQL|Hugging Face|CI/CD|Model Evaluation|SQL|Airflow,2,3,5,0,2,0,2.86
+C0091,Lin Mehta,Cloud Engineering,3.5,Master's,MySQL|Power BI|Linear Algebra|Data Wrangling|Statistics|Deep Learning,2,3,4,0,1,0,3.72
+C0092,Aarav Garcia,Machine Learning,3.1,Bachelor's,Airflow|Linux|LightGBM|Looker|Data Wrangling|Hadoop|NLP,0,2,1,0,0,0,2.8
+C0093,Amanda Wilson,Cloud Engineering,4.4,Bachelor's,MySQL|Project Management|Google Sheets|R|MATLAB,1,1,5,0,2,1,2.49
+C0094,Aarav Rodriguez,Machine Learning,2.8,Bachelor's,Airflow|MongoDB|Plotly|Kubeflow|TensorFlow|Go|Machine Learning|Hugging Face|Kafka|R|Kubernetes|MySQL|MATLAB|Azure|Probability|Computer Vision|Project Management|GCP,0,1,3,3,1,1,2.64
+C0095,Kavya Jones,Data Science,0.7,PhD,Time Series Analysis|Kafka|Stakeholder Management|CI/CD|Keras|Excel|NumPy|PyTorch|Kubeflow|Java|Matplotlib|Statistics|Deep Learning|MLflow|Project Management|Plotly|Julia,2,1,8,0,0,0,3.5
+C0096,Meera Joshi,MLOps,6.4,Associate's,Docker|Kubeflow|Linear Algebra|Google Sheets|AWS|Computer Vision,4,0,4,3,0,1,3.62
+C0097,Neha Singh,MLOps,7.4,Associate's,Probability|Deep Learning|Data Wrangling|Julia|NLP|Terraform|Data Modeling|Python|AWS|Power BI|XGBoost,1,3,3,0,0,0,3.29
+C0098,Lin Garcia,Quantitative Finance,5.9,Master's,Hugging Face|Computer Vision|Kafka|R|AWS|Airflow|Teamwork|Probability|Kubeflow|Time Series Analysis|NLP|Data Modeling|Linux|PyTorch|C++|Stakeholder Management|Deep Learning,1,3,6,0,0,1,3.4
+C0099,Aisha Patel,NLP,2.8,PhD,Plotly|Computer Vision|Teamwork|LightGBM|Google Sheets|Time Series Analysis|NLP|AWS|A/B Testing|Linear Algebra|Go|Airflow|Hadoop|CatBoost,2,3,6,5,0,1,2.79
+C0100,Arjun Wang,Cloud Engineering,7.8,Bachelor's,Time Series Analysis|Linear Algebra|Scikit-Learn|Data Modeling|MySQL|ETL Pipelines|Pandas|Python|PostgreSQL|NoSQL|Problem Solving|Reinforcement Learning|C++|CI/CD|Teamwork|Seaborn,2,1,8,0,2,0,3.42
+C0101,Lena Wang,MLOps,2.1,High School,Statistics|Docker|Excel|CatBoost|Deep Learning|AWS|Kubernetes|Power BI|Kubeflow|Python|NLP|Computer Vision|GCP|Leadership|LightGBM|A/B Testing,4,0,2,1,1,0,3.8
+C0102,Sneha Wang,Software Engineering,4.5,PhD,Keras|Problem Solving|Linear Algebra|C++|Azure|Teamwork|Excel|MongoDB|Terraform|Communication|Julia|R|Seaborn|Hadoop|Spark|Feature Engineering,1,2,4,0,0,0,2.58
+C0103,Sneha Okonkwo,Data Science,3.2,Bachelor's,ETL Pipelines|Probability|Terraform|MATLAB|Tableau|Pandas|NLP|Hugging Face|GCP|Excel|C++|Computer Vision,0,1,4,5,0,1,3.68
+C0104,Lin Rodriguez,Quantitative Finance,5.6,Master's,MLflow|Stakeholder Management|Scala|Excel|Reinforcement Learning|MongoDB|Plotly|Docker|Deep Learning|Computer Vision|Model Evaluation|Hadoop|Pandas|Terraform,0,2,4,3,0,1,2.02
+C0105,Zara Rodriguez,Data Science,1.2,Bachelor's,Spark|Google Sheets|NumPy|Problem Solving|R|Time Series Analysis|Communication|Power BI|Hugging Face|Go|Julia|Java|Deep Learning|Kubeflow,2,0,3,1,0,0,3.59
+C0106,Isha Davis,MLOps,4.1,Master's,Linux|Teamwork|CatBoost|Communication|Hugging Face|Scala|NLP|R|Pandas|MATLAB|Kubeflow|CI/CD|Julia|Computer Vision|A/B Testing|Keras|Data Wrangling|Linear Algebra,3,1,1,0,0,0,2.4
+C0107,Emily Ivanov,Quantitative Finance,7.4,Bachelor's,Kubeflow|Azure|Deep Learning|Terraform|Critical Thinking|Model Evaluation|MATLAB|R|NLP|Time Series Analysis|Java|Project Management|Probability|NoSQL|Scikit-Learn,1,3,7,2,0,0,2.35
+C0108,Aarav Jones,Cloud Engineering,7.5,Bachelor's,ETL Pipelines|Pandas|Seaborn|Java|PostgreSQL|Computer Vision|A/B Testing|Critical Thinking|Statistics|MongoDB|CatBoost|Google Sheets|Go|Model Evaluation|SQL|Julia,2,3,2,2,2,0,2.3
+C0109,Nina Garcia,Machine Learning,4.8,Master's,Project Management|PostgreSQL|Critical Thinking|Java|Julia|Keras|Plotly|GCP|MySQL|Kafka|Communication|Scala|Deep Learning|Power BI,1,2,5,2,2,1,3.8
+C0110,Kai Gupta,Business Intelligence,6.0,Bachelor's,Airflow|MongoDB|ETL Pipelines|Kubeflow|Probability|MATLAB|Plotly|Feature Engineering|Hadoop,1,1,6,0,3,0,3.97
+C0111,Amanda Reddy,NLP,1.1,Master's,Spark|Linux|MATLAB|LightGBM|Problem Solving|Plotly,2,0,5,1,1,0,3.23
+C0112,Lena Müller,Computer Vision,3.8,Bachelor's,Linear Algebra|Tableau|Critical Thinking|CatBoost|NLP,0,0,5,0,2,0,2.21
+C0113,Wei Anderson,Data Engineering,0.4,Associate's,Seaborn|Power BI|MLflow|R|Kubeflow|LightGBM|XGBoost|Julia|AWS,0,0,4,0,1,1,2.75
+C0114,Lena Martinez,Quantitative Finance,3.6,Master's,GCP|CatBoost|NumPy|AWS|Hugging Face,0,1,5,0,1,0,2.84
+C0115,Arjun Davis,Software Engineering,1.1,Bachelor's,Hugging Face|MATLAB|Spark|Pandas|Linear Algebra|Looker|AWS|Hadoop|Julia|TensorFlow|Scikit-Learn|Kubernetes|Matplotlib|Linux|LightGBM|Teamwork|Data Wrangling|Kafka,2,0,5,4,1,0,3.95
+C0116,Suresh Ivanov,Machine Learning,1.4,Associate's,NoSQL|Julia|Looker|Critical Thinking|Scala,3,2,2,1,0,1,3.76
+C0117,Sneha Ahmed,NLP,3.2,Bachelor's,MongoDB|MySQL|PyTorch|C++|XGBoost|Terraform|Looker|Keras|Seaborn|Communication|Docker|Computer Vision,1,1,6,1,0,1,2.02
+C0118,Hassan Jones,NLP,5.5,Bachelor's,SQL|AWS|Computer Vision|Problem Solving|TensorFlow|Scikit-Learn|Terraform|Seaborn|MongoDB|A/B Testing|Pandas|R|Data Wrangling|Google Sheets,1,1,3,3,0,1,2.89
+C0119,Neha Mensah,Machine Learning,3.3,Associate's,Machine Learning|Kafka|Time Series Analysis|Go|Data Wrangling|ETL Pipelines|Tableau|GCP|Airflow|Linux|Matplotlib|Statistics|Hugging Face,0,1,4,3,0,0,2.21
+C0120,Rahul Mensah,Data Engineering,4.5,Master's,Go|Linear Algebra|Project Management|Tableau|Matplotlib|Critical Thinking|TensorFlow|NumPy|Data Wrangling|ETL Pipelines|Kubernetes,2,4,2,1,0,0,3.87
+C0121,Aisha Okonkwo,Quantitative Finance,5.5,Master's,NumPy|Seaborn|Keras|Probability|CI/CD|Excel|Scikit-Learn|Kafka|Data Modeling|Kubernetes|Go|Linux|Power BI|Model Evaluation|Computer Vision|C++,2,1,3,2,3,1,3.92
+C0122,Wei Chen,Data Science,3.4,Master's,Spark|CatBoost|Power BI|NumPy|Time Series Analysis|NoSQL|SQL|R|GCP|Kubernetes|MLflow|Hugging Face|Leadership|TensorFlow,0,3,5,3,1,1,2.48
+C0123,Zara Wilson,Machine Learning,1.9,PhD,Azure|Excel|Data Wrangling|Project Management|Terraform|Python|Model Evaluation|Probability|Computer Vision|CI/CD|NoSQL|Java|Leadership|Julia|NumPy|Machine Learning|CatBoost,0,4,4,3,1,1,2.6
+C0124,Omar Liu,Data Science,1.9,Master's,Probability|LightGBM|Statistics|Business Analytics|Looker|Power BI|MySQL|CatBoost,1,4,4,1,0,1,3.3
+C0125,Neha Liu,MLOps,5.1,Bachelor's,Linux|Python|C++|Spark|Azure|XGBoost|Reinforcement Learning|ETL Pipelines|Docker|Stakeholder Management|Java|Deep Learning|NoSQL|Critical Thinking,4,0,7,1,0,0,3.34
+C0126,Shruti Müller,Data Science,6.6,Bachelor's,Julia|PostgreSQL|MySQL|Business Analytics|Pandas|Plotly|TensorFlow|Keras|Go|Terraform|Communication|Kubeflow|Machine Learning|NoSQL|Azure|MongoDB,2,2,5,0,2,0,3.57
+C0127,Isha Gupta,Cloud Engineering,2.6,Master's,Model Evaluation|Excel|NumPy|Probability|Project Management|Stakeholder Management|GCP|Kubeflow|C++|Linux|Scikit-Learn,0,2,4,4,0,1,3.81
+C0128,Michael Brown,Computer Vision,5.1,Master's,Data Modeling|Docker|Python|XGBoost|Kubeflow|MLflow|LightGBM,2,0,4,1,0,1,3.9
+C0129,Michael Nair,Business Intelligence,5.0,Associate's,Linear Algebra|Feature Engineering|Deep Learning|CatBoost|Communication|Data Wrangling|Leadership|GCP,1,1,4,1,0,0,3.55
+C0130,Stephanie Joshi,Data Engineering,0.5,Master's,ETL Pipelines|C++|Linear Algebra|Looker|Java|MySQL|Stakeholder Management|Machine Learning|Seaborn,1,4,3,3,0,0,3.54
+C0131,Sofia Wilson,Data Engineering,4.1,Bachelor's,Time Series Analysis|Communication|Statistics|Google Sheets|Seaborn|Model Evaluation|Python|Azure|Julia|Tableau|SQL,0,2,4,3,0,1,3.76
+C0132,Rohan Chen,Data Science,3.1,Master's,Probability|Julia|MySQL|Leadership|Power BI|Computer Vision|Python|A/B Testing|Airflow|Google Sheets|NLP|ETL Pipelines|Hugging Face|Java|C++|R|Data Modeling|Tableau,1,1,1,2,0,1,3.29
+C0133,Daniel Patel,Business Intelligence,4.6,Associate's,NLP|Keras|Looker|NoSQL|MongoDB|C++|Project Management,4,1,4,1,0,0,2.82
+C0134,Pooja Johnson,Software Engineering,1.6,Master's,Pandas|Critical Thinking|Stakeholder Management|Model Evaluation|Looker|Scala|Julia|Communication|MongoDB|Linear Algebra|Hugging Face|AWS|Spark|Statistics|Python|MLflow,1,1,1,1,0,1,3.58
+C0135,David Liu,Software Engineering,5.4,Master's,Machine Learning|Linux|SQL|Seaborn|Kubeflow|Hugging Face|Go|Julia|Keras|TensorFlow|Probability|CI/CD|Leadership|Plotly|MLflow|Data Modeling|AWS|Teamwork,1,2,8,1,0,1,3.12
+C0136,Divya Ahmed,Quantitative Finance,2.0,Bachelor's,Excel|Terraform|Feature Engineering|PyTorch|Scala|Project Management|Matplotlib|Seaborn|R,4,0,1,0,2,0,2.13
+C0137,Deepak Ahmed,Data Science,5.8,Bachelor's,Problem Solving|Probability|CatBoost|Julia|PostgreSQL|Excel|Scala|AWS|C++|Google Sheets|Spark,2,1,4,5,0,0,2.8
+C0138,Yuki Ali,Computer Vision,4.1,Bachelor's,AWS|CatBoost|Scala|Feature Engineering|Data Wrangling|Python|Reinforcement Learning|Kubeflow|Spark|Excel|Power BI|Communication|Time Series Analysis|C++|SQL|Model Evaluation,4,2,5,2,3,0,2.92
+C0139,Aisha Patel,MLOps,0.5,Bachelor's,Google Sheets|Linux|Computer Vision|Time Series Analysis|NLP|Pandas|LightGBM|Spark|TensorFlow|Python|AWS|MATLAB|Machine Learning|Model Evaluation|ETL Pipelines,1,0,5,3,0,0,2.5
+C0140,Maria Liu,Data Engineering,0.7,Master's,Linux|Stakeholder Management|MATLAB|Deep Learning|SQL|Java,1,4,6,1,0,1,2.11
+C0141,Ashley Okonkwo,Quantitative Finance,3.5,High School,Probability|CatBoost|Machine Learning|Business Analytics|NumPy|Keras|Tableau|Kubeflow|Reinforcement Learning|SQL|Project Management|Matplotlib|Teamwork|Kafka|C++|Terraform|Data Wrangling|PyTorch,0,0,4,0,0,0,2.47
+C0142,Ashley Hassan,Business Intelligence,7.7,Bachelor's,Tableau|Problem Solving|Machine Learning|CI/CD|MySQL|Hadoop|CatBoost,1,2,1,3,0,1,2.9
+C0143,Sarah Martinez,NLP,4.5,Bachelor's,Linux|PyTorch|MySQL|SQL|Excel|Java|Google Sheets|LightGBM|CatBoost|Hadoop|A/B Testing|Azure|Deep Learning|Model Evaluation|Linear Algebra|Scala|Leadership,1,2,5,2,0,1,3.56
+C0144,Emily Tanaka,Computer Vision,6.8,Bachelor's,Kafka|MLflow|Java|Time Series Analysis|Terraform|Power BI|R,0,1,5,0,0,0,3.31
+C0145,David Anderson,Business Intelligence,2.3,Bachelor's,Project Management|Feature Engineering|NoSQL|Stakeholder Management|MLflow|Power BI|PostgreSQL|Leadership|MySQL|Machine Learning|Scikit-Learn|Airflow|Kafka|Computer Vision|Seaborn,1,1,2,0,0,1,2.27
+C0146,Nikhil Okonkwo,Quantitative Finance,9.2,High School,Business Analytics|Deep Learning|Power BI|SQL|Terraform|Project Management|Feature Engineering|Linear Algebra|Airflow|Java|Julia|Go|LightGBM|Hadoop|Spark|TensorFlow|Looker,3,0,3,2,1,0,3.25
+C0147,Amit Chen,Machine Learning,7.8,Bachelor's,TensorFlow|Scala|Kubernetes|LightGBM|Kubeflow,0,1,3,1,1,1,2.93
+C0148,Rohan Wang,Data Science,5.7,Master's,Data Modeling|MySQL|Business Analytics|Google Sheets|Reinforcement Learning,3,0,5,0,1,0,3.48
+C0149,Rohan Williams,MLOps,0.6,Master's,CI/CD|Problem Solving|CatBoost|Scikit-Learn|GCP|ETL Pipelines|Deep Learning|Terraform|Matplotlib|Go|Hadoop|Critical Thinking|NLP|Linux|XGBoost,1,1,7,2,1,1,2.31
+C0150,Sneha Garcia,Data Engineering,5.5,Bachelor's,GCP|Java|Seaborn|Plotly|PostgreSQL|MATLAB|XGBoost|Power BI|NumPy|PyTorch,1,0,5,2,0,0,3.13
+C0151,Zhang Liu,NLP,1.7,Master's,ETL Pipelines|NoSQL|Scikit-Learn|XGBoost|Problem Solving|Probability|Stakeholder Management|Terraform|A/B Testing|Reinforcement Learning|NumPy|Java|Power BI|Data Wrangling|AWS|Matplotlib|Scala|Machine Learning,2,0,4,0,1,0,3.75
+C0152,Amit Joshi,MLOps,0.3,Bachelor's,Julia|LightGBM|Keras|Time Series Analysis|SQL|Pandas|Airflow|Leadership|Kubeflow|Machine Learning|PyTorch|Hugging Face|MySQL|Data Wrangling|GCP,2,3,1,0,0,0,2.46
+C0153,David Williams,Business Intelligence,2.0,Bachelor's,MySQL|Hadoop|Hugging Face|Feature Engineering|Model Evaluation|Linux|Leadership|Docker|Computer Vision|Matplotlib|Problem Solving|Excel|NumPy|Business Analytics|NLP,2,2,2,2,2,0,3.92
+C0154,Chris Ali,Machine Learning,5.9,Master's,Hugging Face|Data Modeling|Python|Machine Learning|Kubeflow|Stakeholder Management|Go|Deep Learning|Probability|Keras|Project Management|AWS|Business Analytics|Julia,3,1,2,1,0,1,2.43
+C0155,Vikram Chen,MLOps,6.6,Bachelor's,Power BI|Azure|CatBoost|Keras|PyTorch|Go|GCP|A/B Testing|Hugging Face|Python|Feature Engineering|Deep Learning|Matplotlib|Business Analytics|Linux|MLflow,0,2,8,5,1,1,2.18
+C0156,Ashley Wilson,Computer Vision,2.7,Bachelor's,Data Modeling|Feature Engineering|Kubernetes|Computer Vision|Java|Time Series Analysis|Stakeholder Management|Project Management|PostgreSQL|Looker|Statistics|Data Wrangling,0,1,3,2,0,0,2.83
+C0157,Emily Liu,Business Intelligence,4.8,Bachelor's,PostgreSQL|Model Evaluation|Deep Learning|Linear Algebra|MLflow,2,0,5,0,1,0,3.24
+C0158,Pooja Wilson,Machine Learning,6.4,Bachelor's,Deep Learning|MATLAB|MLflow|NumPy|Seaborn|Linear Algebra|A/B Testing|Business Analytics|Hugging Face,1,0,2,2,0,0,3.89
+C0159,Vikram Hassan,Cloud Engineering,5.5,Master's,Data Modeling|MLflow|MATLAB|Pandas|C++|Data Wrangling|XGBoost|GCP|Computer Vision|Teamwork,0,4,3,1,1,0,3.37
+C0160,Michael Anderson,Business Intelligence,4.9,PhD,TensorFlow|Problem Solving|Data Modeling|Power BI|Excel|Plotly|Deep Learning|Scikit-Learn|Statistics,1,2,3,1,1,0,2.26
+C0161,Kai Nair,Software Engineering,6.4,Bachelor's,GCP|Computer Vision|Scala|CI/CD|AWS|Azure|Reinforcement Learning|SQL|Kafka|Feature Engineering|XGBoost|Machine Learning|MySQL|NoSQL|Seaborn|Problem Solving|Time Series Analysis|Probability,1,1,0,0,1,0,3.69
+C0162,Matthew Ahmed,Data Engineering,2.9,Master's,Leadership|Machine Learning|Statistics|Hugging Face|Linear Algebra|MongoDB|Feature Engineering,0,4,3,2,1,1,3.78
+C0163,Ashley Ali,Machine Learning,6.6,Bachelor's,Linear Algebra|TensorFlow|PostgreSQL|NLP|Data Modeling|A/B Testing|NumPy|ETL Pipelines|Feature Engineering|Airflow|Business Analytics|Probability|Spark|Julia|Excel|GCP,1,2,1,1,0,1,2.9
+C0164,Sofia Castillo,Data Science,4.7,Bachelor's,Hugging Face|Reinforcement Learning|NoSQL|Linear Algebra|Time Series Analysis|Keras|Kafka|MATLAB|Problem Solving|Probability|Linux|Kubeflow|Seaborn|Project Management|Azure|PyTorch,0,0,3,3,2,0,2.29
+C0165,Ivan Kumar,Computer Vision,5.8,Bachelor's,Business Analytics|LightGBM|Spark|Machine Learning|Google Sheets|CatBoost|Keras|AWS|PyTorch|Java|Excel|Scala,0,2,2,1,1,1,3.65
+C0166,Ananya Johnson,Data Engineering,2.8,Associate's,Deep Learning|NLP|Julia|XGBoost|Scala|Hadoop|MongoDB,2,2,4,3,0,0,3.16
+C0167,Rohan Gupta,Cloud Engineering,7.2,Bachelor's,Deep Learning|Seaborn|Kubernetes|Critical Thinking|Julia|Looker|Teamwork|Go|Probability|Kubeflow|MATLAB|Linux|TensorFlow|Java|Airflow|ETL Pipelines|A/B Testing|Kafka,1,2,4,0,1,1,3.96
+C0168,Aarav Verma,Machine Learning,6.4,Bachelor's,Data Wrangling|Spark|NLP|MySQL|Machine Learning|Azure|Kafka|Kubeflow|SQL|Project Management|MATLAB|A/B Testing|Data Modeling|Hugging Face|CI/CD|CatBoost,3,2,4,1,1,1,3.07
+C0169,Sarah Ivanov,Computer Vision,0.3,PhD,AWS|MATLAB|Data Wrangling|Azure|Go|Linear Algebra|Feature Engineering|Kubeflow|Julia|SQL|Kubernetes|Hugging Face|Deep Learning,2,1,1,3,0,1,2.61
+C0170,Lin Anderson,Data Engineering,6.3,Bachelor's,Scikit-Learn|Kubeflow|Statistics|CI/CD|XGBoost|Looker|Airflow|Problem Solving|Pandas|MATLAB|Scala|Plotly|Linear Algebra|Power BI|Reinforcement Learning|NoSQL|Python,3,0,5,2,0,1,3.28
+C0171,Shruti Chen,Business Intelligence,2.2,Bachelor's,Communication|Julia|Excel|SQL|Python|Statistics|A/B Testing|NoSQL|Linux|MongoDB,1,0,3,4,0,0,2.06
+C0172,Hassan Kumar,Data Science,0.7,Bachelor's,Deep Learning|Leadership|Stakeholder Management|Machine Learning|PyTorch|Hadoop|Probability|Java|MLflow|C++|Project Management,2,2,3,0,0,1,3.23
+C0173,Emily Ali,Data Engineering,4.0,Master's,Feature Engineering|Linux|Kafka|LightGBM|MLflow|A/B Testing|GCP|Google Sheets|Scikit-Learn|Java|CI/CD|Kubeflow|Time Series Analysis|Leadership|Matplotlib|NoSQL|MySQL,1,4,3,1,1,1,3.57
+C0174,Ashley Wang,Quantitative Finance,1.0,Master's,Azure|NLP|Matplotlib|NumPy|Keras|CI/CD|Power BI|Teamwork|MySQL|TensorFlow|Machine Learning|Kafka|MATLAB|Terraform|PyTorch,1,1,4,1,0,1,2.6
+C0175,Hassan Anderson,Computer Vision,5.5,Master's,Machine Learning|Power BI|Statistics|Kubernetes|Model Evaluation|Data Modeling,0,2,8,0,0,0,2.86
+C0176,Aisha Ali,NLP,2.4,Master's,Kubernetes|Seaborn|Tableau|Hugging Face|Data Wrangling|CatBoost|Power BI|Linear Algebra|Looker|LightGBM|Keras,2,4,2,0,1,1,3.79
+C0177,Zara Müller,Software Engineering,4.1,Bachelor's,Pandas|Docker|Python|MLflow|Hugging Face|PostgreSQL|Looker|Linear Algebra|Keras|Plotly|Seaborn|Teamwork|Airflow,0,2,8,5,1,0,2.16
+C0178,Maria Gupta,Business Intelligence,5.9,Bachelor's,Tableau|Seaborn|AWS|Linear Algebra|Matplotlib|Feature Engineering|Data Modeling|Kubernetes|Kubeflow|XGBoost|Plotly|Hugging Face|Google Sheets|Excel|Statistics,2,1,5,0,0,0,2.15
+C0179,Kavya Martinez,Data Engineering,1.7,Master's,Project Management|Keras|Azure|Probability|SQL|Airflow|Matplotlib|Time Series Analysis|Plotly,1,3,6,2,0,0,3.32
+C0180,Sofia Smith,Business Intelligence,6.7,Bachelor's,Plotly|Excel|SQL|Airflow|NLP,2,2,4,1,1,0,2.29
+C0181,Ashley Sharma,Cloud Engineering,2.2,PhD,Model Evaluation|NoSQL|MongoDB|Azure|Feature Engineering|Google Sheets|Business Analytics|PostgreSQL|Project Management|Kubeflow|MLflow|Keras|Computer Vision|Julia|Seaborn,2,3,0,0,0,0,2.44
+C0182,Nikhil Martinez,Business Intelligence,6.2,High School,Machine Learning|A/B Testing|NumPy|SQL|Azure,1,1,7,2,2,0,2.85
+C0183,Yuki Chen,Cloud Engineering,0.6,Bachelor's,TensorFlow|Scala|Hadoop|Time Series Analysis|Go|CatBoost|Docker|Business Analytics|Python|Pandas|Azure|Power BI|Model Evaluation|A/B Testing|Plotly|Kafka|MongoDB,2,0,4,2,0,0,2.78
+C0184,Pooja Wang,Computer Vision,4.1,Bachelor's,Business Analytics|PyTorch|Python|Communication|Tableau|Plotly|Hadoop|CI/CD|PostgreSQL|Reinforcement Learning|Machine Learning|Power BI|Linux|MongoDB|Linear Algebra|Pandas|Seaborn,3,2,3,0,1,1,2.28
+C0185,Amit Patel,Software Engineering,3.1,Bachelor's,Problem Solving|Plotly|Java|MongoDB|TensorFlow|Deep Learning|R|Model Evaluation|SQL|Kafka|Azure|Linear Algebra|C++|CatBoost|NumPy|Computer Vision|Business Analytics,0,2,0,2,2,1,2.19
+C0186,Maria Smith,Software Engineering,6.5,Associate's,Linear Algebra|Project Management|NLP|Kafka|MLflow|Hadoop,1,4,4,0,1,1,3.53
+C0187,Aisha Johnson,NLP,2.2,Associate's,Project Management|Data Wrangling|NoSQL|Terraform|Keras|AWS|Azure|NLP|R|Hadoop|TensorFlow|MongoDB|Stakeholder Management|XGBoost|Google Sheets|NumPy|MySQL,1,1,7,2,0,0,3.0
+C0188,Sneha Anderson,NLP,4.5,Bachelor's,NoSQL|Business Analytics|PyTorch|TensorFlow|Probability|Stakeholder Management|A/B Testing|Data Modeling,0,0,6,4,0,0,3.85
+C0189,Ananya Ahmed,Cloud Engineering,2.0,Bachelor's,Linear Algebra|Model Evaluation|Problem Solving|NLP|MLflow|Statistics|Azure|Computer Vision|Docker|Linux|Python|PyTorch|Looker|GCP,2,3,3,0,0,0,3.78
+C0190,Pooja Brown,Software Engineering,3.1,Bachelor's,PostgreSQL|CI/CD|Kubernetes|Reinforcement Learning|TensorFlow|XGBoost|Statistics,0,1,3,2,0,0,2.31
+C0191,Lena Smith,Software Engineering,4.3,PhD,Power BI|Feature Engineering|Google Sheets|Matplotlib|Linear Algebra|Terraform,2,1,3,2,2,1,2.3
+C0192,Omar Sharma,Computer Vision,0.2,PhD,Airflow|Azure|NumPy|PostgreSQL|Business Analytics|NLP|Google Sheets|Seaborn|Pandas|Probability|TensorFlow|Statistics,0,1,4,2,3,0,2.28
+C0193,Ivan Ali,Data Engineering,2.2,Master's,A/B Testing|Teamwork|Spark|Docker|R|SQL|MLflow|MongoDB|MySQL|AWS|Keras|Leadership,1,1,1,1,1,1,3.12
+C0194,Shruti Nair,NLP,0.9,Bachelor's,Model Evaluation|Statistics|GCP|Python|SQL|Tableau|Julia|Hugging Face|Kubeflow|Azure|Pandas|C++,2,4,5,4,0,1,2.92
+C0195,Sneha Ali,Data Engineering,7.7,Bachelor's,Plotly|Matplotlib|Reinforcement Learning|Statistics|Power BI|Data Modeling,4,1,2,1,0,1,2.58
+C0196,Vikram Patel,Business Intelligence,3.1,Master's,Hadoop|Critical Thinking|MLflow|Leadership|Model Evaluation|Airflow|Feature Engineering|Probability|Data Wrangling|LightGBM,2,0,3,1,0,1,3.42
+C0197,Nikhil Johnson,Data Engineering,4.2,Master's,Matplotlib|Deep Learning|Statistics|Seaborn|Plotly|Probability|MongoDB|TensorFlow|ETL Pipelines|Airflow|Excel|Model Evaluation|Teamwork|Kafka|Time Series Analysis,2,4,7,0,3,0,3.01
+C0198,Kai Wilson,MLOps,5.8,Master's,Hadoop|Docker|A/B Testing|Matplotlib|NoSQL|Linux|Reinforcement Learning|TensorFlow|Kubernetes|LightGBM|XGBoost|CI/CD|Critical Thinking|C++|CatBoost|Google Sheets|GCP,2,4,8,1,0,1,3.02
+C0199,Ananya Ahmed,Computer Vision,6.8,Bachelor's,MongoDB|ETL Pipelines|SQL|NoSQL|Machine Learning|Azure|Business Analytics|Go|Excel|Scala,2,1,6,2,0,0,3.98
+C0200,Lin Wang,Data Science,3.0,PhD,Probability|Excel|SQL|Pandas|Communication|Go|Project Management|Python|Stakeholder Management|Data Modeling|Time Series Analysis,1,2,2,3,0,0,3.28
+C0201,Lena Okonkwo,Data Science,5.4,Master's,Model Evaluation|Tableau|XGBoost|Probability|NoSQL|Teamwork|Data Modeling|Matplotlib|Julia|Azure|Critical Thinking,3,0,1,1,2,0,2.33
+C0202,Kavya Ahmed,Computer Vision,5.7,Master's,Azure|Spark|Scala|A/B Testing|Probability,1,3,5,2,0,1,3.38
+C0203,Arjun Liu,Data Engineering,5.2,High School,Looker|AWS|Data Wrangling|NumPy|Linux|Plotly|Critical Thinking|Terraform|PyTorch|Statistics,1,1,3,3,2,1,3.53
+C0204,Sarah Johnson,Cloud Engineering,8.1,High School,Hugging Face|C++|Reinforcement Learning|Java|SQL|NLP|Kubeflow|CI/CD,0,2,4,0,0,0,2.13
+C0205,Yuki Sharma,Data Science,5.5,Master's,MATLAB|Java|Azure|Linear Algebra|AWS|Probability|Kubernetes|Deep Learning,1,0,5,2,0,1,3.93
+C0206,Rahul Sharma,Data Science,4.6,PhD,Deep Learning|Linux|Data Wrangling|Java|Scala|TensorFlow|Probability|Docker|NLP|Scikit-Learn|Computer Vision|Leadership|Feature Engineering|NumPy|Looker|Critical Thinking|PyTorch|Excel,2,3,2,1,3,0,3.71
+C0207,Matthew Ahmed,Data Engineering,6.7,High School,NumPy|Python|Pandas|Airflow|Problem Solving|Julia|Google Sheets|Computer Vision|Kubernetes|Plotly|GCP|Time Series Analysis|NLP|R|Matplotlib,2,3,7,1,1,1,3.98
+C0208,Wei Davis,Data Engineering,0.6,Master's,Problem Solving|NoSQL|Feature Engineering|Seaborn|Critical Thinking|Linux|NumPy|Deep Learning|MATLAB,0,2,1,0,1,1,3.59
+C0209,Amit Wilson,MLOps,2.1,Bachelor's,Communication|Deep Learning|C++|Computer Vision|NLP|Docker|Azure|Excel|GCP|Kafka,0,2,4,0,1,1,3.37
+C0210,Omar Okonkwo,MLOps,1.3,Bachelor's,Time Series Analysis|Excel|Python|Power BI|Julia,1,0,3,3,0,1,3.25
+C0211,David Joshi,Computer Vision,2.9,Bachelor's,Spark|Azure|CI/CD|Time Series Analysis|Project Management|Go|Computer Vision|Hadoop|Model Evaluation|R,1,3,2,2,0,1,2.76
+C0212,David Chen,Software Engineering,3.9,Associate's,Seaborn|Airflow|MySQL|Linear Algebra|Stakeholder Management|Business Analytics|Azure|MongoDB|Data Wrangling|Critical Thinking|Julia|Project Management|Terraform|NLP|Hadoop|SQL,1,1,3,1,0,1,3.01
+C0213,Isha Müller,Quantitative Finance,3.3,Bachelor's,XGBoost|Problem Solving|Probability|A/B Testing|TensorFlow|NoSQL|Computer Vision|Project Management|Machine Learning,3,2,1,0,0,0,3.49
+C0214,Nina Anderson,Computer Vision,6.9,Bachelor's,CI/CD|Spark|C++|Problem Solving|MySQL|Hugging Face,0,0,2,3,0,1,2.87
+C0215,Kai Singh,Business Intelligence,1.1,Bachelor's,Go|CatBoost|Tableau|C++|Statistics|Looker|Leadership|MySQL|Spark,0,2,4,0,1,1,3.55
+C0216,Lin Martinez,MLOps,1.4,Master's,Hugging Face|Reinforcement Learning|Business Analytics|Data Wrangling|Scikit-Learn|XGBoost,1,1,4,1,0,1,2.63
+C0217,Ashley Okonkwo,Business Intelligence,4.4,PhD,ETL Pipelines|Problem Solving|C++|PyTorch|Power BI|Java|Linear Algebra,3,2,4,0,0,0,3.92
+C0218,Suresh Anderson,Data Science,3.8,PhD,Statistics|Time Series Analysis|Data Wrangling|Kubeflow|PyTorch|Kafka|MongoDB|Stakeholder Management|Azure,2,1,3,2,1,1,2.91
+C0219,Priya Kumar,Data Engineering,4.7,Master's,NLP|Hadoop|Linear Algebra|XGBoost|Google Sheets|Kubernetes|SQL,2,1,3,2,0,1,3.65
+C0220,Nikhil Williams,Data Science,1.5,Bachelor's,Julia|Go|Excel|Kubeflow|Feature Engineering|Project Management|Python|MLflow|Pandas|R|NoSQL,4,0,5,1,2,0,3.35
+C0221,Neha Jones,Business Intelligence,6.9,Bachelor's,Kafka|Time Series Analysis|Kubernetes|Leadership|Linear Algebra|MongoDB|Scala|Probability|Reinforcement Learning|NumPy|Go|Business Analytics|Docker|Data Modeling|Google Sheets|Communication|Statistics,2,2,5,2,0,0,2.12
+C0222,Sarah Garcia,MLOps,6.0,Master's,MongoDB|Time Series Analysis|Keras|Statistics|Azure|Seaborn|Machine Learning|CI/CD|Probability|AWS|Kubeflow|ETL Pipelines|Deep Learning|Java|XGBoost,1,4,3,1,0,1,2.53
+C0223,Nina Martinez,Quantitative Finance,7.1,Bachelor's,TensorFlow|CatBoost|Terraform|Airflow|MATLAB|Linear Algebra|Plotly|PostgreSQL|GCP|NLP,0,1,5,1,0,1,3.73
+C0224,Neha Liu,Data Science,2.3,Bachelor's,Google Sheets|Probability|MySQL|Java|Linux|Model Evaluation|SQL|CatBoost|Docker|Statistics|Data Modeling|Leadership|LightGBM|AWS|Data Wrangling|Stakeholder Management|R|Time Series Analysis,1,0,7,2,3,0,3.46
+C0225,Sofia Nair,Business Intelligence,4.8,Master's,PyTorch|Google Sheets|Looker|Data Modeling|Pandas|Computer Vision|Data Wrangling|Excel|Keras,2,4,2,1,1,1,3.84
+C0226,Hassan Nair,NLP,5.0,Master's,Stakeholder Management|Pandas|C++|Time Series Analysis|MongoDB|Teamwork|Seaborn|CatBoost|Plotly|Tableau|Looker|Feature Engineering|NumPy,3,1,4,0,0,0,3.6
+C0227,Isha Reddy,Data Engineering,1.8,Master's,NLP|Spark|Deep Learning|R|Excel|Scala|PostgreSQL|MLflow,1,2,5,0,1,0,3.57
+C0228,Jessica Singh,Data Science,5.6,Bachelor's,PyTorch|Probability|MLflow|Machine Learning|Java|Terraform|Scala|Keras|ETL Pipelines|Azure,0,2,3,1,1,1,3.45
+C0229,Isha Ahmed,Computer Vision,0.5,Master's,PyTorch|Machine Learning|MLflow|Project Management|AWS|Deep Learning|CatBoost,0,2,2,1,0,1,3.48
+C0230,Chris Mensah,MLOps,4.5,High School,SQL|PyTorch|Deep Learning|Python|XGBoost|Docker|Business Analytics|NumPy,1,1,5,4,2,1,2.46
+C0231,Ananya Patel,Computer Vision,4.4,Bachelor's,Looker|Excel|Plotly|PyTorch|MySQL|SQL|Project Management|Seaborn|Hadoop,0,1,6,1,1,1,3.31
+C0232,Karan Wilson,Computer Vision,4.2,PhD,NoSQL|Google Sheets|LightGBM|Terraform|Scala|Seaborn|Docker|Hadoop|Keras|MLflow|XGBoost|Hugging Face|Spark|Time Series Analysis|Teamwork,0,3,4,3,0,0,2.45
+C0233,Fatima Jones,MLOps,2.7,Bachelor's,Communication|Kubernetes|C++|Azure|LightGBM|Java|Time Series Analysis|PostgreSQL|TensorFlow|NumPy,1,0,1,0,0,1,3.42
+C0234,Nina Castillo,MLOps,0.6,Master's,Computer Vision|AWS|CatBoost|Spark|NLP|Tableau|Model Evaluation|Project Management|Kubernetes|Problem Solving|MLflow|Java|Docker|XGBoost|R,1,1,3,3,1,0,2.06
+C0235,Pooja Sharma,Quantitative Finance,0.4,PhD,Scala|Statistics|Communication|Julia|Problem Solving|MongoDB|PostgreSQL|Plotly|Hugging Face|GCP,3,0,2,1,2,1,2.89
+C0236,Shruti Tanaka,NLP,4.7,Master's,MATLAB|MongoDB|A/B Testing|CatBoost|Kubernetes|Time Series Analysis|Critical Thinking|Business Analytics|Go|NLP|Linear Algebra,0,2,5,5,0,0,2.75
+C0237,Lena Castillo,NLP,6.1,Bachelor's,NumPy|Feature Engineering|Machine Learning|Linux|Excel|Go,1,2,5,2,1,0,2.5
+C0238,James Williams,NLP,1.2,Bachelor's,MySQL|Time Series Analysis|Keras|Computer Vision|Pandas|Hadoop|MLflow|Azure|Seaborn|Excel|Tableau,4,2,7,2,0,0,3.01
+C0239,Stephanie Ivanov,Data Engineering,2.6,PhD,Computer Vision|MATLAB|Scikit-Learn|CI/CD|Google Sheets|Azure|LightGBM|MongoDB|Statistics|Data Wrangling|Kubeflow|Terraform|Matplotlib,0,2,1,4,2,0,3.64
+C0240,Stephanie Sharma,Data Science,0.5,Bachelor's,Time Series Analysis|Communication|Scikit-Learn|R|CI/CD,3,3,2,0,1,1,3.33
+C0241,Pooja Chen,Data Science,4.0,Master's,Machine Learning|PyTorch|Azure|Critical Thinking|Problem Solving|Kubeflow|MongoDB|Feature Engineering|Hugging Face|Computer Vision|Reinforcement Learning,4,1,5,1,0,1,3.06
+C0242,Priya Davis,Business Intelligence,5.6,Bachelor's,Computer Vision|Spark|Terraform|Data Wrangling|Kafka|Hugging Face|Communication|Kubernetes|A/B Testing|Probability|Seaborn|Power BI|Tableau|R,1,0,3,1,0,1,2.65
+C0243,Priya Kumar,Cloud Engineering,2.6,Bachelor's,Docker|Airflow|Go|R|PyTorch|Pandas|NoSQL|Scala|Google Sheets|A/B Testing|Leadership,0,0,4,4,0,1,3.17
+C0244,Arjun Garcia,Quantitative Finance,0.8,Master's,Excel|MATLAB|Java|Plotly|Business Analytics|Looker|Computer Vision|Statistics|GCP|Pandas|Data Wrangling|Airflow|Time Series Analysis|Go,4,3,2,3,0,0,3.07
+C0245,Vikram Anderson,Data Science,1.0,Bachelor's,Teamwork|Python|Data Modeling|Data Wrangling|Linux|TensorFlow|A/B Testing,2,1,2,4,0,1,2.27
+C0246,Aarav Okonkwo,Machine Learning,4.0,Master's,Linear Algebra|PostgreSQL|AWS|Time Series Analysis|Data Wrangling|Leadership|Plotly|Excel|Docker|Data Modeling|Reinforcement Learning,3,1,2,0,0,1,2.72
+C0247,Sneha Anderson,Business Intelligence,4.0,Bachelor's,NumPy|Leadership|Looker|Business Analytics|Hadoop|Tableau|Statistics|Docker|MATLAB|Scikit-Learn,2,0,7,3,2,1,2.55
+C0248,Hassan Patel,Quantitative Finance,4.1,Master's,Data Modeling|Matplotlib|Julia|Google Sheets|CatBoost|Excel|PostgreSQL|A/B Testing|Kafka|SQL|Leadership|Go,1,1,6,3,3,0,3.38
+C0249,Vikram Garcia,Business Intelligence,2.5,Bachelor's,PyTorch|Problem Solving|Probability|Hugging Face|Spark|Keras|Julia|PostgreSQL|Project Management|Power BI|Kafka|Data Wrangling|Tableau|Business Analytics|Kubeflow,3,1,6,2,1,0,3.6
+C0250,Ananya Anderson,Software Engineering,0.4,Master's,Pandas|MLflow|Kafka|Linux|C++|Project Management|Machine Learning|NumPy|ETL Pipelines|A/B Testing|Seaborn|Tableau|Communication|Matplotlib|Julia,1,0,0,2,0,1,3.81
+C0251,Karan Castillo,Cloud Engineering,3.9,Bachelor's,Kubeflow|Scikit-Learn|LightGBM|Python|Plotly|Data Modeling|Business Analytics|Docker|Azure|SQL|Leadership|Scala|Seaborn|Looker,1,3,6,1,0,0,3.82
+C0252,Vikram Wang,Business Intelligence,4.2,Master's,PostgreSQL|Excel|Feature Engineering|A/B Testing|Linear Algebra|Java|Stakeholder Management|CI/CD|Matplotlib|Python|Hadoop|TensorFlow,0,4,3,0,0,0,2.58
+C0253,Amit Ahmed,Machine Learning,1.0,PhD,Python|Kafka|Data Wrangling|MATLAB|MLflow|Terraform|Airflow|Java|LightGBM,1,2,1,4,0,0,3.62
+C0254,Yuki Smith,Quantitative Finance,5.0,PhD,Power BI|Project Management|Plotly|Matplotlib|Scikit-Learn|Linear Algebra|Linux|MySQL|Seaborn|Time Series Analysis|Tableau,2,1,1,3,2,1,3.94
+C0255,Stephanie Brown,Data Science,4.7,Master's,Computer Vision|LightGBM|Terraform|Statistics|MySQL|Keras|NLP|XGBoost|Go|Linux|Tableau|A/B Testing|CatBoost|Project Management,1,1,2,1,0,0,3.68
+C0256,Suresh Gupta,Data Engineering,1.8,Master's,Hugging Face|Tableau|LightGBM|Airflow|Project Management|Feature Engineering|MongoDB|Go|GCP|AWS|Kubeflow|Python|MLflow,1,1,4,0,0,0,2.24
+C0257,Emily Singh,Quantitative Finance,1.6,Bachelor's,Data Modeling|AWS|Hadoop|ETL Pipelines|Kubeflow|Linear Algebra|Time Series Analysis|Seaborn|Stakeholder Management|Scikit-Learn,3,1,5,0,0,1,3.11
+C0258,Amanda Ivanov,NLP,1.9,Master's,Data Wrangling|MySQL|Tableau|NumPy|Pandas|AWS|Kubernetes|Hugging Face,1,1,5,1,1,0,2.65
+C0259,Priya Singh,Data Engineering,7.6,Bachelor's,Excel|Data Wrangling|Scala|Go|CatBoost|Docker|MATLAB|Julia|NLP|Kubernetes,0,2,0,2,0,0,2.14
+C0260,David Wilson,Business Intelligence,5.3,Bachelor's,Excel|NLP|Teamwork|Python|Critical Thinking|ETL Pipelines,0,1,5,1,2,0,3.74
+C0261,Isha Müller,MLOps,4.6,Bachelor's,Scala|Deep Learning|Kubeflow|Communication|MySQL|Google Sheets|AWS|Kubernetes|MLflow,2,1,6,1,1,1,2.59
+C0262,Maria Johnson,Computer Vision,7.2,Bachelor's,XGBoost|CI/CD|Pandas|Business Analytics|LightGBM|MongoDB|Feature Engineering|Problem Solving|C++|TensorFlow|Matplotlib|R|Azure|NLP|Leadership|PostgreSQL,0,0,0,2,1,0,2.69
+C0263,Jessica Williams,Computer Vision,2.5,High School,Kafka|Data Wrangling|Terraform|Teamwork|Google Sheets|NumPy|Reinforcement Learning|Keras|Kubeflow|AWS|Time Series Analysis|R|Julia|Spark|Matplotlib|Plotly,0,0,4,0,1,1,3.62
+C0264,Kai Joshi,Computer Vision,2.7,Master's,ETL Pipelines|NoSQL|Leadership|Time Series Analysis|Data Modeling|R|Linux|Machine Learning|AWS|MongoDB|MLflow|CatBoost|Computer Vision|Looker,2,4,3,1,0,0,2.65
+C0265,Aarav Ali,NLP,2.1,High School,Kafka|Tableau|Reinforcement Learning|GCP|Data Modeling|C++|Azure|Hadoop,1,0,3,2,0,1,3.54
+C0266,Karan Wang,Data Engineering,5.3,Master's,Business Analytics|MySQL|Docker|AWS|Python|Airflow|PyTorch|NoSQL|CI/CD|Problem Solving,2,2,1,1,0,0,2.41
+C0267,Rohan Garcia,Software Engineering,2.2,PhD,Leadership|Machine Learning|NoSQL|Linux|AWS|Feature Engineering|CI/CD|Java|PyTorch|Matplotlib,2,1,3,1,0,1,2.14
+C0268,Amit Kumar,Data Engineering,0.6,PhD,Hugging Face|Go|Looker|C++|Data Wrangling|Model Evaluation|NLP,0,0,2,1,0,1,2.54
+C0269,Matthew Gupta,NLP,1.3,Bachelor's,Pandas|Scikit-Learn|Statistics|Deep Learning|Seaborn|Kafka|MongoDB|CI/CD|Stakeholder Management|Data Modeling|Looker|Azure,1,2,1,0,0,0,2.38
+C0270,Aarav Castillo,NLP,7.4,Bachelor's,NoSQL|MongoDB|GCP|Power BI|Communication|Reinforcement Learning|Docker|Model Evaluation|MySQL|Go|Plotly,2,2,7,2,0,0,3.63
+C0271,Lena Patel,Data Engineering,3.6,Bachelor's,Matplotlib|ETL Pipelines|Docker|Plotly|Statistics|Hugging Face|Google Sheets|Looker|GCP|Kubernetes|NLP|SQL|Pandas|TensorFlow|Model Evaluation,2,1,2,2,1,0,2.34
+C0272,Stephanie Sharma,Data Science,5.6,Associate's,NLP|Seaborn|Terraform|Statistics|A/B Testing|Probability|Time Series Analysis|Google Sheets|Spark|TensorFlow|MLflow|Java|Julia,1,3,1,2,0,0,2.25
+C0273,Vikram Wang,Machine Learning,3.8,Bachelor's,TensorFlow|Stakeholder Management|C++|Machine Learning|AWS|Computer Vision|Teamwork|Hugging Face|Power BI|NLP|Probability|Model Evaluation|A/B Testing|Kafka|Hadoop,1,0,3,1,0,0,3.4
+C0274,Sofia Nair,Machine Learning,7.0,Bachelor's,Data Modeling|NoSQL|Seaborn|Looker|NumPy|Leadership|MLflow|Statistics|R,2,1,4,2,1,0,3.88
+C0275,Matthew Joshi,Computer Vision,1.6,Bachelor's,Azure|Feature Engineering|Probability|NLP|Kubernetes|Google Sheets|Statistics,4,1,4,0,0,1,3.4
+C0276,Arjun Müller,Machine Learning,7.4,Bachelor's,Critical Thinking|Java|C++|PyTorch|Linear Algebra|Problem Solving|Google Sheets|Azure|Python|Seaborn|Keras,1,1,1,1,0,0,3.88
+C0277,Omar Ahmed,Data Engineering,5.7,Master's,A/B Testing|Linear Algebra|Looker|Docker|Communication|Reinforcement Learning|PostgreSQL|Kafka|Azure|SQL|MLflow|Hadoop|Java|Project Management,0,1,5,3,1,0,2.64
+C0278,Wei Verma,Cloud Engineering,3.5,PhD,Pandas|Docker|Stakeholder Management|Project Management|Linear Algebra|MongoDB|Problem Solving|CI/CD|Kafka|MATLAB|Java|PyTorch,1,2,8,2,0,0,2.57
+C0279,Zara Williams,Quantitative Finance,1.0,Bachelor's,AWS|Critical Thinking|Tableau|MLflow|Deep Learning|Stakeholder Management|Spark|MATLAB|PyTorch|PostgreSQL|Keras|Hadoop|Plotly|Problem Solving|Seaborn|Statistics|Machine Learning,4,2,3,0,0,0,3.38
+C0280,Divya Hassan,Data Science,5.2,Master's,Pandas|Airflow|Problem Solving|Google Sheets|SQL|Matplotlib|PyTorch|Go|Data Modeling|NLP|R|Leadership|A/B Testing|Python|Computer Vision,0,0,6,3,0,1,2.04
+C0281,Fatima Mensah,Data Science,4.7,Bachelor's,Problem Solving|GCP|SQL|MATLAB|Kafka|Python|Data Wrangling|Kubernetes|Communication|Scala|MLflow|Julia|Probability|PyTorch|Matplotlib|C++,0,0,7,4,0,0,2.28
+C0282,Stephanie Chen,Quantitative Finance,5.0,PhD,Linear Algebra|Time Series Analysis|Plotly|Business Analytics|Kubernetes|Teamwork|MLflow|Computer Vision|Scikit-Learn|Data Wrangling|MongoDB|Model Evaluation|CI/CD|NumPy,1,0,2,1,1,0,2.14
+C0283,Sofia Davis,Business Intelligence,3.4,Master's,Tableau|Linear Algebra|MongoDB|Project Management|Pandas|Scala|NumPy|Hadoop|Critical Thinking|Scikit-Learn|MATLAB|Kubernetes|PyTorch|Spark|PostgreSQL,4,1,7,3,0,0,3.75
+C0284,Aisha Mensah,Data Science,5.6,Bachelor's,Deep Learning|Data Modeling|Google Sheets|Kafka|Python|Computer Vision|Communication|Kubernetes|C++|PostgreSQL|Spark|Kubeflow|Reinforcement Learning|Probability|Statistics|AWS|A/B Testing|NumPy,1,1,3,4,2,1,2.61
+C0285,Sneha Anderson,Computer Vision,5.1,Master's,Kafka|Feature Engineering|Critical Thinking|Leadership|Plotly|XGBoost|Time Series Analysis|Computer Vision|Reinforcement Learning|Looker|AWS|Scala|A/B Testing|Data Modeling|R,2,2,2,2,3,1,3.76
+C0286,Lin Singh,Software Engineering,1.3,Bachelor's,Terraform|AWS|Time Series Analysis|C++|Airflow|Docker|MLflow|Data Wrangling|Feature Engineering|XGBoost|CatBoost|LightGBM|Communication|Computer Vision|MySQL|Scala|PostgreSQL,0,0,3,1,0,0,3.44
+C0287,Jessica Liu,Machine Learning,3.9,Associate's,MySQL|Docker|Google Sheets|Scikit-Learn|Statistics|Probability,1,1,3,0,1,0,2.88
+C0288,Chris Smith,Data Engineering,3.5,Bachelor's,Kubernetes|MongoDB|Matplotlib|XGBoost|Problem Solving|Seaborn|Hugging Face|Spark|MATLAB|Linear Algebra,1,2,5,1,1,1,3.0
+C0289,Lucas Hassan,Data Engineering,0.9,Associate's,Looker|Machine Learning|GCP|Seaborn|Plotly,1,2,0,1,0,0,2.86
+C0290,Maria Reddy,Quantitative Finance,2.2,Bachelor's,Julia|Hugging Face|MLflow|Model Evaluation|ETL Pipelines|Google Sheets,0,0,0,5,2,0,3.23
+C0291,Sneha Kumar,Computer Vision,2.5,Bachelor's,Statistics|Model Evaluation|Seaborn|Data Modeling|Looker|Kubeflow|Kafka|Project Management|Go|Docker|Tableau|MATLAB|Python|Computer Vision|Pandas,1,1,4,1,0,1,3.37
+C0292,Karan Wang,NLP,2.2,Master's,GCP|ETL Pipelines|Model Evaluation|Teamwork|Docker|NoSQL|Keras|R|C++|TensorFlow|Time Series Analysis|Critical Thinking|Probability|MongoDB|Problem Solving|Communication|Hugging Face,0,2,2,3,2,1,3.95
+C0293,Emily Tanaka,Data Science,0.3,PhD,CatBoost|Communication|NoSQL|Data Modeling|C++|Project Management|GCP|LightGBM|CI/CD|Seaborn|Statistics,1,1,2,0,0,1,3.76
+C0294,Wei Ivanov,Quantitative Finance,3.2,Master's,Business Analytics|GCP|Airflow|Data Modeling|Spark|Statistics|Feature Engineering|Matplotlib|TensorFlow,3,0,8,5,0,0,3.3
+C0295,Lena Ahmed,NLP,5.6,Associate's,Machine Learning|Kubeflow|Data Modeling|Critical Thinking|Terraform|MySQL|Julia|Computer Vision|Keras|Airflow|SQL|Java|Scala,1,1,4,3,0,0,3.46
+C0296,Ashley Ahmed,Data Engineering,0.6,Master's,Probability|Scala|Power BI|Time Series Analysis|Kubeflow|Linear Algebra|Problem Solving,2,2,2,0,0,0,3.29
+C0297,Jessica Joshi,Quantitative Finance,6.0,Bachelor's,NumPy|Power BI|C++|AWS|Scikit-Learn,0,2,2,4,0,1,2.02
+C0298,Arjun Wang,Data Science,3.8,Bachelor's,Hadoop|Project Management|Machine Learning|Plotly|PostgreSQL|Business Analytics|Kubeflow|Model Evaluation|Problem Solving|Scikit-Learn|Hugging Face|Statistics|Docker|PyTorch,1,1,3,4,1,1,3.43
+C0299,Neha Mensah,Data Engineering,1.1,PhD,GCP|Matplotlib|Pandas|MySQL|A/B Testing|Reinforcement Learning|Azure|Deep Learning|AWS,0,2,3,3,0,0,3.83
+C0300,Yuki Ahmed,Cloud Engineering,4.3,Master's,Problem Solving|CI/CD|NoSQL|Tableau|AWS|Pandas,4,1,1,5,0,0,2.64
+C0301,Ashley Okonkwo,Computer Vision,5.1,Bachelor's,R|Google Sheets|MongoDB|Airflow|Business Analytics|Hadoop|MySQL,2,1,0,5,0,1,3.92
+C0302,Neha Kumar,NLP,6.8,Bachelor's,Scikit-Learn|Data Wrangling|R|MySQL|Python|AWS|Kubernetes|Matplotlib|Hugging Face|Project Management|Computer Vision|Kafka|Scala|Power BI|Keras|Docker|Critical Thinking,0,2,5,0,0,1,3.5
+C0303,Zara Anderson,MLOps,2.7,Bachelor's,Scikit-Learn|Google Sheets|SQL|PyTorch|Time Series Analysis|Keras|AWS|Statistics|Docker|C++|Kubernetes|GCP|Tableau|Terraform|Communication|Hugging Face|Business Analytics,1,0,3,3,3,1,2.15
+C0304,Zara Ivanov,MLOps,5.1,Bachelor's,Tableau|NLP|Scikit-Learn|Azure|MLflow|Model Evaluation|Linux|Looker|CatBoost|Kubeflow|NoSQL|Machine Learning|Hugging Face|Docker|Plotly|GCP|Python|Pandas,0,1,7,0,0,0,2.8
+C0305,Amit Chen,Computer Vision,5.8,Master's,Seaborn|TensorFlow|Terraform|Deep Learning|Data Modeling|Scikit-Learn|Kafka|MongoDB|Excel|Kubernetes|Statistics|CI/CD|MATLAB|NLP|Leadership|MySQL,1,1,6,1,2,1,2.78
+C0306,Shruti Mehta,Data Engineering,8.0,Bachelor's,Stakeholder Management|Hadoop|Plotly|Project Management|C++|SQL,0,1,1,2,0,0,3.42
+C0307,Amanda Martinez,MLOps,3.8,PhD,PyTorch|Kubeflow|Deep Learning|CI/CD|GCP|Reinforcement Learning|Looker|Airflow|Communication|Machine Learning|Seaborn|A/B Testing,2,2,5,0,1,0,3.71
+C0308,Nikhil Hassan,Data Engineering,6.8,Bachelor's,Pandas|Java|Tableau|GCP|Docker|Critical Thinking|Computer Vision|Kubeflow,1,0,3,2,0,1,2.23
+C0309,Amanda Singh,Quantitative Finance,3.8,Bachelor's,AWS|Java|C++|Leadership|Data Wrangling|MongoDB|Julia|Deep Learning|GCP|Kafka|PyTorch|MLflow|Stakeholder Management|Scikit-Learn|PostgreSQL,3,1,4,1,1,0,3.8
+C0310,Sarah Anderson,Data Engineering,7.5,Bachelor's,Communication|Linear Algebra|GCP|NLP|SQL|MLflow|Java|CI/CD|Google Sheets|Docker|Statistics|Problem Solving,2,2,2,2,3,1,3.71
+C0311,Lena Tanaka,Software Engineering,1.7,Associate's,Hadoop|Pandas|Model Evaluation|TensorFlow|Communication|LightGBM|Azure|Matplotlib,2,2,3,1,0,0,3.05
+C0312,Nina Wang,Data Science,2.3,PhD,Statistics|CI/CD|C++|Leadership|TensorFlow|Project Management|Probability|Python|Hugging Face|Computer Vision,0,2,4,1,1,0,3.61
+C0313,Yuki Wilson,Computer Vision,6.2,Bachelor's,MySQL|CatBoost|PostgreSQL|Seaborn|MongoDB|PyTorch|SQL|Matplotlib|AWS|Airflow|Tableau|A/B Testing|Hadoop,0,2,6,1,1,0,2.34
+C0314,Omar Müller,Business Intelligence,3.1,Bachelor's,Data Wrangling|NoSQL|Spark|Terraform|Docker|ETL Pipelines|CatBoost|Problem Solving|Pandas|TensorFlow|A/B Testing|Kafka|NLP|Excel,0,1,4,2,0,1,3.84
+C0315,Sneha Hassan,Machine Learning,0.8,Master's,SQL|Stakeholder Management|LightGBM|Business Analytics|Airflow|Python|CatBoost|Kafka|Critical Thinking|Spark|R|Go,3,0,2,1,0,0,3.69
+C0316,Shruti Ali,Data Science,0.2,Bachelor's,Go|Leadership|XGBoost|Looker|MySQL|Data Wrangling,1,3,4,2,2,0,2.69
+C0317,Michael Okonkwo,Software Engineering,0.0,Bachelor's,LightGBM|GCP|Model Evaluation|TensorFlow|Data Wrangling|Feature Engineering|Stakeholder Management|MATLAB|Computer Vision|Kubernetes|Data Modeling|Kubeflow|R,0,0,5,2,0,1,2.87
+C0318,Jessica Williams,Cloud Engineering,5.5,Bachelor's,Linux|Plotly|Keras|MLflow|Julia|Seaborn|Problem Solving|NumPy|Data Modeling|Java|XGBoost|A/B Testing|Critical Thinking|Linear Algebra|Model Evaluation|SQL,1,3,4,5,0,0,2.36
+C0319,James Müller,Data Engineering,0.6,Bachelor's,Java|XGBoost|SQL|Project Management|Plotly|Google Sheets|Azure|Tableau|PyTorch|Kafka|NumPy|Matplotlib|Scala|MATLAB|AWS,2,1,5,0,0,0,2.09
+C0320,Kavya Rodriguez,Data Science,1.4,Bachelor's,AWS|Spark|Computer Vision|Communication|Java|R|C++|Model Evaluation|NoSQL|Problem Solving,0,0,5,2,0,1,2.8
+C0321,Fatima Chen,MLOps,2.4,Master's,Machine Learning|PostgreSQL|SQL|Docker|Airflow|Keras|Kafka|AWS|Scala|C++|R|NumPy|Julia|Java|Scikit-Learn|Seaborn,1,2,5,1,1,1,3.17
+C0322,Neha Nair,NLP,4.5,Master's,NumPy|Probability|Plotly|ETL Pipelines|Airflow|CI/CD|Kubeflow|C++|Julia|PyTorch|MySQL|Critical Thinking|Azure|Spark|Data Wrangling|R|Seaborn|Tableau,0,2,4,3,1,0,2.91
+C0323,Pooja Castillo,Data Science,1.1,PhD,C++|Looker|Reinforcement Learning|Kubeflow|Computer Vision|LightGBM|Azure|PyTorch|Linear Algebra|Scala,3,0,0,2,0,0,3.85
+C0324,Sneha Liu,Computer Vision,3.2,Bachelor's,Statistics|NoSQL|Critical Thinking|Computer Vision|Problem Solving|MATLAB|GCP|Power BI|C++|NumPy|TensorFlow,1,0,1,0,0,0,3.79
+C0325,Omar Davis,Business Intelligence,0.8,Associate's,Business Analytics|NLP|Statistics|Spark|Matplotlib|AWS|Time Series Analysis|Leadership,1,2,3,1,2,0,2.63
+C0326,Vikram Smith,Data Engineering,3.6,Bachelor's,MLflow|Time Series Analysis|Machine Learning|CI/CD|AWS,1,4,4,1,0,0,3.64
+C0327,Omar Wilson,Business Intelligence,1.3,Bachelor's,Keras|Business Analytics|Linear Algebra|CI/CD|Feature Engineering|Communication|AWS,3,1,3,1,1,1,3.69
+C0328,Matthew Verma,Cloud Engineering,4.4,Master's,Matplotlib|Reinforcement Learning|CI/CD|Communication|C++,1,2,3,0,0,1,2.76
+C0329,Arjun Davis,Quantitative Finance,2.7,Master's,Hadoop|GCP|Python|Probability|A/B Testing|R|Scala|Data Modeling|Go|ETL Pipelines|MLflow|Keras|Communication,3,0,5,1,0,1,2.33
+C0330,Stephanie Wilson,Data Science,0.1,Master's,GCP|Spark|Data Wrangling|Java|Docker,1,3,1,0,2,1,3.0
+C0331,Fatima Reddy,Data Science,0.9,Master's,Linear Algebra|Power BI|Spark|Looker|Scikit-Learn|TensorFlow|Deep Learning|Pandas|Kubeflow|Docker|Feature Engineering|Computer Vision|MongoDB|CI/CD|Java|Model Evaluation,0,2,4,1,0,1,2.87
+C0332,Karan Tanaka,NLP,5.5,Bachelor's,Kafka|Stakeholder Management|Matplotlib|ETL Pipelines|Business Analytics|AWS|MySQL|Pandas|SQL|Data Modeling,0,3,1,2,0,1,3.04
+C0333,Ananya Gupta,Machine Learning,7.9,Bachelor's,ETL Pipelines|Communication|Scala|MATLAB|TensorFlow|Google Sheets,2,1,4,5,0,1,3.28
+C0334,Pooja Anderson,Cloud Engineering,5.6,Master's,Tableau|Machine Learning|CatBoost|CI/CD|Linear Algebra|Docker|Power BI|R|Looker|AWS|Scala|Deep Learning|Airflow|MLflow|Spark|Data Wrangling|Kubernetes,0,2,4,1,0,1,3.92
+C0335,Stephanie Ahmed,Cloud Engineering,5.6,Bachelor's,Seaborn|Matplotlib|Machine Learning|Scikit-Learn|Statistics|CI/CD,0,2,4,1,2,0,2.28
+C0336,Sofia Ivanov,Cloud Engineering,1.6,High School,Business Analytics|Problem Solving|Java|CI/CD|Feature Engineering|Google Sheets|Data Wrangling|Kubernetes|LightGBM|Pandas|PostgreSQL|Python|Kafka,1,4,5,1,0,0,3.91
+C0337,Michael Ali,Data Science,6.8,Associate's,MATLAB|Leadership|XGBoost|Feature Engineering|Google Sheets|NumPy|Linux,2,1,1,2,0,1,2.15
+C0338,Nina Ahmed,Software Engineering,0.2,Master's,NoSQL|Pandas|Google Sheets|Plotly|Business Analytics|Julia|Reinforcement Learning,2,1,5,1,0,1,2.17
+C0339,Priya Joshi,Business Intelligence,1.4,High School,Hugging Face|Stakeholder Management|ETL Pipelines|Scala|Hadoop,1,1,3,2,0,0,2.13
+C0340,Ashley Hassan,Data Science,1.0,Bachelor's,XGBoost|Hadoop|Power BI|Airflow|Machine Learning|Hugging Face|NoSQL|CI/CD|Feature Engineering|Matplotlib|NumPy|PostgreSQL|Kubeflow,1,3,4,4,3,1,2.06
+C0341,Daniel Martinez,Business Intelligence,6.1,Bachelor's,CI/CD|Feature Engineering|Java|Scala|Seaborn|NumPy|Excel,4,1,1,0,0,1,2.86
+C0342,Isha Jones,Machine Learning,0.1,PhD,ETL Pipelines|Stakeholder Management|Keras|Deep Learning|Computer Vision|Data Modeling|Linear Algebra|CatBoost|Seaborn|Looker|Kubernetes|Project Management|Data Wrangling|Hadoop|Docker|MongoDB|Business Analytics,2,3,5,2,3,0,3.44
+C0343,Ananya Mehta,Machine Learning,1.4,Bachelor's,Julia|Problem Solving|Airflow|SQL|ETL Pipelines,1,0,1,1,0,0,3.47
+C0344,Michael Jones,MLOps,5.6,Master's,LightGBM|A/B Testing|MongoDB|Data Modeling|Leadership|Docker|GCP|PyTorch|Time Series Analysis|Linux|Reinforcement Learning|C++|Go|Power BI|NumPy|TensorFlow|Kubeflow,1,0,2,1,1,0,2.56
+C0345,Maria Hassan,MLOps,3.8,High School,Deep Learning|MLflow|PostgreSQL|MongoDB|Computer Vision|TensorFlow|NLP|Terraform|Stakeholder Management|Hadoop|Azure|XGBoost,3,2,7,2,1,1,3.9
+C0346,Hassan Wilson,Quantitative Finance,4.6,Bachelor's,SQL|ETL Pipelines|C++|Stakeholder Management|Azure|Kubeflow|Statistics|Airflow|Reinforcement Learning|Seaborn|Leadership|Model Evaluation|Machine Learning|Data Modeling,1,1,2,0,0,0,2.93
+C0347,Michael Okonkwo,Quantitative Finance,0.5,Bachelor's,Data Modeling|Kafka|Excel|Azure|TensorFlow|XGBoost,0,2,2,2,0,0,2.08
+C0348,Hassan Castillo,MLOps,0.3,Bachelor's,Model Evaluation|Kubeflow|XGBoost|Go|Scala|Power BI|Computer Vision|AWS|TensorFlow|C++|MongoDB|LightGBM|MySQL|Machine Learning|Docker|NumPy,1,2,3,1,1,0,3.95
+C0349,Maria Patel,Data Engineering,2.3,Bachelor's,Julia|NoSQL|Go|NumPy|XGBoost|Project Management|TensorFlow,3,0,5,1,3,0,2.15
+C0350,Deepak Castillo,Software Engineering,4.4,Master's,Hadoop|Plotly|CI/CD|Feature Engineering|MATLAB|TensorFlow|C++|NoSQL|Critical Thinking|Google Sheets|Scikit-Learn|ETL Pipelines|Probability,1,1,4,4,1,1,2.9
+C0351,Daniel Jones,Software Engineering,5.9,Master's,Kubeflow|MATLAB|Linux|Reinforcement Learning|MongoDB|Matplotlib|Airflow|Looker|Spark|AWS|Hugging Face|NoSQL|NLP,2,0,0,1,1,1,2.26
+C0352,Lin Hassan,Computer Vision,3.2,Bachelor's,Looker|Reinforcement Learning|MATLAB|R|Critical Thinking|Scala|Model Evaluation|PyTorch|Excel|Data Modeling|TensorFlow|NLP|Tableau,1,1,4,1,0,0,3.18
+C0353,Arjun Jones,Cloud Engineering,0.4,Bachelor's,Reinforcement Learning|Problem Solving|Deep Learning|Spark|Model Evaluation|Data Wrangling|Feature Engineering|NoSQL|MATLAB|Python|Pandas|Seaborn|Critical Thinking,1,1,6,1,2,1,3.51
+C0354,Deepak Davis,Data Engineering,4.4,Associate's,Scala|Google Sheets|NoSQL|Java|Linear Algebra|Statistics|LightGBM|TensorFlow|MongoDB|Julia|Linux|Scikit-Learn|SQL,1,3,8,2,0,0,2.16
+C0355,Deepak Mehta,NLP,2.7,Bachelor's,MLflow|Probability|Pandas|TensorFlow|Statistics|Linux|NLP|Reinforcement Learning|Julia|Leadership|Spark|Business Analytics,0,3,5,1,0,1,3.9
+C0356,Sofia Brown,Machine Learning,3.9,Bachelor's,MySQL|A/B Testing|Airflow|Seaborn|LightGBM|Hugging Face|NLP|CI/CD|MongoDB|R|Terraform|SQL|Leadership|Java,4,1,4,0,0,0,2.23
+C0357,Zara Ali,Data Engineering,2.9,Master's,XGBoost|Data Wrangling|Keras|Terraform|Julia|Spark|Model Evaluation|Airflow|Linux|NoSQL|Project Management|Excel|Python|Hugging Face|Data Modeling|Deep Learning|MLflow,1,1,4,0,0,1,3.9
+C0358,Maria Wang,Data Engineering,0.2,Bachelor's,Stakeholder Management|Docker|Excel|CatBoost|NumPy|Data Modeling|NoSQL|Azure|AWS|PostgreSQL|Time Series Analysis|MySQL|Pandas|Critical Thinking|GCP|Data Wrangling,2,0,3,0,1,1,2.07
+C0359,Lucas Verma,Computer Vision,0.8,Master's,Power BI|Critical Thinking|MLflow|Spark|Reinforcement Learning|TensorFlow|Time Series Analysis|Machine Learning|Teamwork|Statistics|C++|Linear Algebra|Deep Learning|MySQL|Communication|Scikit-Learn,1,1,3,1,0,1,3.01
+C0360,David Patel,MLOps,5.7,Master's,NumPy|Deep Learning|MLflow|Plotly|Hugging Face|AWS|Reinforcement Learning|Tableau|C++|Hadoop|Machine Learning|Go|Google Sheets|Kafka|Computer Vision|PyTorch|Airflow,1,1,3,0,0,1,2.81
+C0361,Aarav Davis,Business Intelligence,4.8,Master's,Go|Model Evaluation|Matplotlib|Julia|Critical Thinking|Scala|Plotly|Data Wrangling|Statistics|Terraform|Leadership|Seaborn|Project Management,1,2,4,0,2,0,2.02
+C0362,Neha Müller,Cloud Engineering,5.3,Master's,Looker|Feature Engineering|NoSQL|Communication|MySQL|Scikit-Learn|Linux|CI/CD|Data Modeling,3,4,5,3,0,0,3.66
+C0363,Aarav Chen,Computer Vision,3.8,Bachelor's,Excel|CatBoost|Business Analytics|Go|TensorFlow,1,0,4,3,0,0,2.39
+C0364,Nikhil Müller,Software Engineering,2.2,Master's,Terraform|ETL Pipelines|Scala|Looker|GCP|NumPy|Kubeflow|Model Evaluation|Julia|Keras|Kubernetes|Computer Vision|Reinforcement Learning|Critical Thinking|AWS|Go|Google Sheets,0,1,0,0,3,0,3.61
+C0365,Ashley Okonkwo,NLP,6.1,Bachelor's,A/B Testing|Data Wrangling|Seaborn|MongoDB|CI/CD|Linux|SQL|PostgreSQL,3,2,4,3,1,1,2.87
+C0366,Michael Johnson,Machine Learning,5.1,Master's,MongoDB|MLflow|NoSQL|Excel|Hugging Face|Pandas|A/B Testing|AWS|Tableau|Communication|Kafka|LightGBM|Data Wrangling|CatBoost|SQL|Model Evaluation|Machine Learning,1,0,4,0,1,0,3.22
+C0367,Amanda Mensah,Data Engineering,7.0,Bachelor's,Computer Vision|Business Analytics|Stakeholder Management|Tableau|MongoDB|Seaborn|Probability|Plotly|Java|Data Wrangling|Azure|NoSQL|Pandas|Deep Learning|Teamwork|Terraform|NumPy,1,4,3,3,1,0,3.65
+C0368,Wei Reddy,Cloud Engineering,3.5,Associate's,Excel|Keras|Scikit-Learn|Hadoop|Python|Matplotlib|Data Wrangling|R|AWS,0,3,2,0,0,1,2.04
+C0369,Rahul Sharma,Business Intelligence,2.8,Master's,Seaborn|Project Management|A/B Testing|Power BI|Reinforcement Learning|CatBoost|Kubernetes|Linear Algebra|Leadership|Model Evaluation|Machine Learning|MongoDB|Pandas|NoSQL|TensorFlow|Problem Solving,3,2,2,4,0,0,3.14
+C0370,Zara Müller,NLP,4.1,Master's,MATLAB|A/B Testing|Time Series Analysis|MLflow|Hugging Face|Statistics|Stakeholder Management|Data Wrangling|C++,1,1,3,2,1,1,2.64
+C0371,Arjun Liu,Machine Learning,3.8,Bachelor's,LightGBM|Stakeholder Management|TensorFlow|XGBoost|SQL|Matplotlib|Go|Terraform|Business Analytics|Hadoop,1,1,3,2,0,1,3.75
+C0372,Nina Castillo,Data Science,6.2,Bachelor's,Linear Algebra|Stakeholder Management|Communication|Linux|Hadoop|Kubernetes|Statistics|CatBoost|Scala|NoSQL|LightGBM|Java|Reinforcement Learning|Leadership,0,0,3,0,2,0,3.45
+C0373,Pooja Ahmed,Machine Learning,2.8,Bachelor's,Kubernetes|Stakeholder Management|PostgreSQL|Data Wrangling|TensorFlow|Seaborn|Power BI|Linux|MongoDB|Matplotlib|R|Hugging Face,2,4,0,3,0,0,2.72
+C0374,Wei Sharma,Software Engineering,3.2,Bachelor's,Deep Learning|TensorFlow|AWS|MLflow|Kubernetes|Linear Algebra,2,1,3,1,1,0,3.92
+C0375,Daniel Johnson,Data Engineering,4.1,Bachelor's,GCP|Business Analytics|Stakeholder Management|Pandas|Kubeflow|NumPy,1,1,3,1,3,0,3.54
+C0376,Isha Müller,Cloud Engineering,0.7,Master's,MongoDB|CatBoost|Data Wrangling|NLP|Model Evaluation|Communication|MySQL|Machine Learning|Plotly|Spark|Airflow|Leadership|Java|Reinforcement Learning|Probability|Python|Julia,0,2,3,1,1,1,2.05
+C0377,Kavya Johnson,Cloud Engineering,0.1,Bachelor's,SQL|PyTorch|NumPy|Hadoop|PostgreSQL|NLP|Model Evaluation|Airflow|Azure|Time Series Analysis,4,2,2,3,1,1,3.05
+C0378,Amanda Singh,Data Science,0.3,Bachelor's,AWS|Go|Computer Vision|Terraform|Machine Learning|Problem Solving|TensorFlow|Reinforcement Learning|Pandas|LightGBM|Kubeflow|Hadoop|NumPy|Critical Thinking,1,1,5,1,1,1,2.55
+C0379,Yuki Singh,Software Engineering,1.5,Bachelor's,Python|Communication|Terraform|CI/CD|Matplotlib|Spark|Keras|Reinforcement Learning|R,0,1,1,1,1,1,3.18
+C0380,Lena Wang,Quantitative Finance,7.4,Bachelor's,Kafka|R|Python|Kubernetes|Excel,2,1,0,3,3,1,3.12
+C0381,Michael Gupta,Business Intelligence,3.2,Master's,Google Sheets|Data Wrangling|AWS|Teamwork|Tableau|Communication|Terraform|Probability|NLP,3,0,4,3,0,0,3.98
+C0382,Omar Wilson,Data Engineering,4.6,Master's,Python|Go|Kubernetes|Azure|XGBoost|C++|Looker|Terraform|PostgreSQL|Data Wrangling|Communication|Kafka|Data Modeling|Leadership|GCP|Business Analytics,2,2,5,0,0,0,2.84
+C0383,Amit Patel,Software Engineering,4.9,Bachelor's,NoSQL|Go|R|Data Modeling|Azure|Hadoop|Machine Learning|Matplotlib|Probability|Airflow|NLP|Communication|LightGBM,0,4,7,1,0,1,2.41
+C0384,Amanda Ivanov,Business Intelligence,2.7,Master's,Feature Engineering|Airflow|Project Management|SQL|PyTorch|NLP|MySQL|Teamwork,3,0,3,1,1,0,3.55
+C0385,Kai Patel,MLOps,5.8,Bachelor's,Matplotlib|Deep Learning|Time Series Analysis|Python|LightGBM|Business Analytics|Communication|Machine Learning|Azure,1,2,2,0,0,0,2.66
+C0386,Zara Mehta,MLOps,2.9,Master's,Seaborn|MongoDB|C++|Plotly|PyTorch|XGBoost|Time Series Analysis|TensorFlow,1,2,4,1,1,1,2.31
+C0387,Zara Nair,Data Engineering,6.9,Bachelor's,SQL|Feature Engineering|LightGBM|Data Wrangling|NoSQL|Plotly|Hadoop|Keras|Problem Solving,1,1,4,1,2,1,3.74
+C0388,Matthew Johnson,MLOps,0.1,Master's,Computer Vision|NLP|Plotly|XGBoost|Feature Engineering|Keras,1,1,6,4,1,1,3.57
+C0389,Lin Jones,Business Intelligence,0.3,Bachelor's,Statistics|Teamwork|ETL Pipelines|Keras|NoSQL|Business Analytics|Feature Engineering|Kafka|Communication|Google Sheets|Go|PyTorch|Project Management|C++|MLflow,0,0,6,0,2,0,2.12
+C0390,Deepak Garcia,Software Engineering,2.9,Master's,NoSQL|TensorFlow|C++|Power BI|Scala|Model Evaluation,0,2,4,1,0,0,3.81
+C0391,Sofia Tanaka,Business Intelligence,5.1,Bachelor's,Linux|NoSQL|Kubeflow|Seaborn|PostgreSQL|Teamwork|Hadoop|Plotly|Tableau|Machine Learning|CatBoost|XGBoost|A/B Testing|Deep Learning|Linear Algebra|Project Management|Data Wrangling,0,2,4,0,2,0,3.37
+C0392,Divya Williams,Data Science,1.3,Master's,Hadoop|Kafka|Julia|Plotly|Data Wrangling|Scikit-Learn|NumPy|MATLAB|MLflow|Terraform|Stakeholder Management|CatBoost|Power BI,0,1,7,3,0,0,3.45
+C0393,Lucas Chen,MLOps,4.5,Bachelor's,Hugging Face|Plotly|Kubeflow|Scikit-Learn|GCP|AWS|A/B Testing|Deep Learning|Computer Vision|Kubernetes|ETL Pipelines|Data Wrangling|Linear Algebra|Machine Learning|NLP|R|NoSQL,0,0,5,4,0,1,3.89
+C0394,Yuki Hassan,MLOps,7.9,Bachelor's,Machine Learning|GCP|Seaborn|Hugging Face|Spark|Problem Solving|TensorFlow|Scikit-Learn|Communication|Julia|Kubeflow|Linux|Docker|Matplotlib,1,1,4,2,1,1,2.28
+C0395,Vikram Chen,NLP,2.7,Master's,MLflow|Python|Linux|Julia|LightGBM|Leadership|Matplotlib|NoSQL,1,3,5,3,0,1,2.75
+C0396,Omar Müller,Machine Learning,4.4,PhD,Business Analytics|Reinforcement Learning|Communication|Feature Engineering|Linear Algebra|MATLAB|Model Evaluation|Scala|Azure|Plotly,2,2,3,1,0,1,3.48
+C0397,Kai Wang,Data Science,4.6,Bachelor's,Linux|CatBoost|Airflow|Looker|TensorFlow|SQL|AWS|Computer Vision|Spark|Reinforcement Learning|R|NoSQL,0,0,3,0,0,1,2.08
+C0398,Karan Liu,Data Science,2.5,Bachelor's,Looker|Statistics|Airflow|Data Wrangling|MATLAB|Linear Algebra|Kubeflow|Hadoop,3,1,3,2,1,0,2.89
+C0399,Jessica Williams,Business Intelligence,3.5,Master's,MATLAB|NLP|Project Management|Critical Thinking|A/B Testing|MySQL,2,1,2,5,1,0,2.51
+C0400,Neha Ivanov,Machine Learning,8.0,High School,SQL|Reinforcement Learning|Go|Project Management|Azure|Pandas|NoSQL|TensorFlow|Airflow|Data Modeling|Problem Solving,0,0,4,0,0,0,3.19
+C0401,Shruti Wilson,NLP,4.9,Master's,AWS|Scikit-Learn|Kafka|Google Sheets|LightGBM|Probability|Terraform|MLflow|NoSQL|PyTorch|Hadoop,3,0,6,4,0,0,3.2
+C0402,Lin Smith,Data Engineering,2.8,Associate's,Tableau|Matplotlib|Hugging Face|MySQL|Pandas|CI/CD|Terraform|Stakeholder Management,3,1,3,1,3,1,2.19
+C0403,Stephanie Williams,Data Engineering,1.0,Bachelor's,Feature Engineering|Kubernetes|Scikit-Learn|A/B Testing|NumPy|Computer Vision|Pandas,1,4,4,1,0,1,3.52
+C0404,Karan Chen,Computer Vision,1.2,Bachelor's,Communication|MongoDB|NLP|Power BI|Spark|CatBoost|Kafka|Linux|Scikit-Learn|Machine Learning|R|XGBoost|Computer Vision|LightGBM|AWS|Google Sheets,2,1,3,5,0,0,3.74
+C0405,Fatima Ivanov,Data Science,2.1,Master's,Business Analytics|Docker|TensorFlow|MySQL|Feature Engineering|ETL Pipelines|Excel|Seaborn|NumPy|Project Management|Hugging Face|NLP|NoSQL,0,2,5,0,1,0,3.56
+C0406,Omar Kumar,Quantitative Finance,1.8,Bachelor's,Power BI|Feature Engineering|NumPy|Statistics|MLflow|Java|Hugging Face|Kubeflow|Time Series Analysis|GCP|Julia|Plotly|LightGBM,2,2,2,2,0,0,3.51
+C0407,Karan Reddy,MLOps,4.6,Master's,Seaborn|Data Modeling|Airflow|MLflow|Deep Learning|Feature Engineering|MySQL|Python|Reinforcement Learning|NLP|Communication|Machine Learning|Julia|PyTorch|Linear Algebra|Scikit-Learn|Terraform,0,1,5,1,1,0,3.76
+C0408,Nina Wang,Cloud Engineering,0.2,PhD,Power BI|MATLAB|Go|Azure|Statistics|C++|Seaborn|Linear Algebra|MLflow|PyTorch|SQL|Linux|A/B Testing|Communication|MySQL|Airflow|Teamwork|LightGBM,0,3,2,1,0,1,2.21
+C0409,Ivan Mensah,Quantitative Finance,4.5,Bachelor's,Matplotlib|MongoDB|C++|Communication|NumPy|Scikit-Learn|Airflow|PyTorch|Keras|Reinforcement Learning|Leadership|XGBoost|Stakeholder Management|Tableau,2,0,4,0,2,0,3.84
+C0410,Priya Ivanov,Cloud Engineering,5.5,Bachelor's,NoSQL|Scala|Go|Julia|Plotly|Time Series Analysis|Leadership|Statistics|Project Management|Docker,1,2,5,3,0,1,2.2
+C0411,Sofia Gupta,Computer Vision,4.0,Bachelor's,Tableau|Plotly|MongoDB|Excel|Linux|CatBoost|Java,0,1,4,2,0,1,2.36
+C0412,Maria Mehta,Business Intelligence,5.7,Associate's,XGBoost|CatBoost|Go|Excel|Pandas|MySQL|Plotly|Google Sheets|MLflow|Statistics|MongoDB|Communication|Feature Engineering|Spark|TensorFlow,2,1,0,0,0,1,3.68
+C0413,Daniel Williams,Computer Vision,4.1,Bachelor's,Airflow|Java|Spark|NoSQL|Linux|Tableau|Pandas|Business Analytics|MongoDB|Feature Engineering|Data Modeling,1,0,5,0,0,1,3.95
+C0414,Deepak Ivanov,Cloud Engineering,0.4,Bachelor's,Teamwork|Kafka|Spark|GCP|Seaborn|Docker|Stakeholder Management|Plotly|LightGBM|Kubernetes|Reinforcement Learning|Linux|Power BI|Linear Algebra,4,1,3,1,1,0,3.14
+C0415,Wei Rodriguez,Data Engineering,5.9,Master's,Problem Solving|PyTorch|Statistics|Matplotlib|GCP|Java|TensorFlow|MySQL|SQL|Terraform|Kafka|Leadership|PostgreSQL|A/B Testing,2,0,3,0,0,1,3.76
+C0416,Stephanie Gupta,Data Engineering,1.6,Bachelor's,Airflow|NoSQL|NumPy|Deep Learning|R|Excel|A/B Testing|AWS|ETL Pipelines|Pandas,1,0,6,2,2,1,2.38
+C0417,Maria Mensah,Data Engineering,7.8,Bachelor's,Azure|Plotly|Scala|Time Series Analysis|Julia|Tableau,2,4,6,3,0,1,3.87
+C0418,Arjun Liu,Data Engineering,1.3,Bachelor's,Julia|Linux|Linear Algebra|XGBoost|A/B Testing|Plotly,2,0,2,0,3,0,3.59
+C0419,Rohan Liu,Machine Learning,4.6,PhD,CatBoost|TensorFlow|Feature Engineering|PostgreSQL|Stakeholder Management|Probability|Time Series Analysis|Julia|MLflow|CI/CD|Kafka|Linear Algebra|Model Evaluation|Excel|Data Modeling|Linux|Kubernetes,4,2,5,2,0,0,3.89
+C0420,Isha Johnson,NLP,3.2,Master's,MongoDB|Business Analytics|CatBoost|Tableau|Go,1,2,1,0,0,0,2.44
+C0421,James Mehta,Business Intelligence,4.6,Bachelor's,Azure|Looker|Computer Vision|PyTorch|MongoDB|TensorFlow|Stakeholder Management|Communication|NumPy|Hugging Face|Data Modeling|Tableau|Excel|Model Evaluation,1,0,5,1,1,0,3.56
+C0422,Suresh Sharma,Computer Vision,6.1,Associate's,Spark|Terraform|Google Sheets|Reinforcement Learning|Docker|Python|Kafka,4,2,5,1,0,1,2.52
+C0423,Nina Verma,Computer Vision,5.3,Master's,Plotly|CatBoost|A/B Testing|Data Wrangling|GCP|Keras,0,1,1,2,0,0,2.74
+C0424,Lucas Reddy,MLOps,0.3,Bachelor's,Teamwork|Scala|PyTorch|NLP|Power BI|GCP|Kubernetes|CatBoost|ETL Pipelines|AWS|Deep Learning|Probability|Linux,1,2,0,1,1,1,2.58
+C0425,Rahul Reddy,Quantitative Finance,0.3,PhD,MongoDB|Docker|Reinforcement Learning|Statistics|Java|Leadership|NoSQL|Airflow|Time Series Analysis|Go|AWS|Kafka|Power BI|Plotly|MySQL,3,2,3,2,0,1,3.37
+C0426,Maria Martinez,NLP,3.2,PhD,LightGBM|Kubeflow|Power BI|Matplotlib|Kafka|NoSQL|Terraform|Linear Algebra|Python|Scala|Scikit-Learn|Tableau,3,1,7,1,0,1,2.89
+C0427,David Ivanov,NLP,5.3,Bachelor's,Probability|Hugging Face|Critical Thinking|CatBoost|R|Communication|MLflow,1,1,3,1,0,0,3.81
+C0428,Maria Rodriguez,Machine Learning,2.7,Bachelor's,Probability|Kafka|Terraform|AWS|Pandas|MongoDB|Excel,2,2,5,0,0,0,3.48
+C0429,Nina Mensah,NLP,4.6,Master's,Spark|Computer Vision|MATLAB|Linux|Machine Learning|MLflow|Azure|Deep Learning|NLP|Time Series Analysis|Reinforcement Learning|TensorFlow|Tableau,2,1,1,2,2,0,2.83
+C0430,Zhang Rodriguez,Data Engineering,5.0,Bachelor's,Plotly|Model Evaluation|Docker|MongoDB|Linear Algebra|Airflow|NumPy|Google Sheets|Data Modeling|Leadership|Matplotlib|Time Series Analysis|Julia|Seaborn|Machine Learning|Power BI,0,0,3,1,0,1,3.58
+C0431,Yuki Williams,NLP,6.3,Bachelor's,Java|AWS|Google Sheets|NoSQL|Stakeholder Management|ETL Pipelines|Time Series Analysis|Linux|MySQL|XGBoost|Kubeflow|Deep Learning|A/B Testing|Plotly|CatBoost|SQL|Model Evaluation,0,4,4,2,0,0,3.81
+C0432,David Hassan,Machine Learning,1.6,Master's,NoSQL|Kubeflow|Kafka|Statistics|Keras|Business Analytics|MATLAB|Critical Thinking|MySQL|Tableau|Pandas,0,0,5,0,0,0,3.14
+C0433,Meera Gupta,Data Science,0.1,High School,MySQL|Matplotlib|Project Management|MLflow|PostgreSQL|Java|NumPy|Keras|MATLAB|Scala|Problem Solving|Terraform|Plotly|Seaborn|Critical Thinking|Azure|Machine Learning,2,0,3,2,2,0,2.37
+C0434,Aarav Gupta,Data Engineering,1.3,PhD,Business Analytics|Scala|Critical Thinking|Linear Algebra|Probability|Matplotlib|Feature Engineering|MySQL|Google Sheets|Statistics|Kafka|CatBoost|Julia,2,4,2,2,0,0,2.69
+C0435,Sofia Kumar,Software Engineering,2.6,Master's,LightGBM|Kubeflow|Python|MySQL|Docker|Project Management|Scikit-Learn|Plotly|Go|Problem Solving|NoSQL|Kafka|Scala|Data Modeling|Power BI,3,3,8,1,2,0,2.28
+C0436,Nina Hassan,Computer Vision,4.4,PhD,AWS|Google Sheets|NoSQL|Docker|Power BI|MLflow|MongoDB|Data Modeling|Kubernetes|PostgreSQL|Spark|Machine Learning|Pandas|Julia|Scikit-Learn|Linear Algebra|LightGBM,4,0,7,0,3,0,2.65
+C0437,Matthew Wilson,Data Engineering,7.5,Bachelor's,XGBoost|LightGBM|PostgreSQL|Scikit-Learn|MLflow|Linux|Reinforcement Learning|SQL|AWS|Statistics|Looker|Data Wrangling|Terraform|C++|Python|A/B Testing|Hadoop,2,2,4,1,0,0,2.64
+C0438,Lena Jones,Software Engineering,6.5,Bachelor's,Computer Vision|Looker|Data Modeling|R|Linear Algebra|CatBoost|NoSQL|Probability,0,1,2,2,1,0,3.56
+C0439,Matthew Garcia,Business Intelligence,2.0,Master's,Project Management|Hadoop|PostgreSQL|Business Analytics|Leadership|Statistics|MongoDB|GCP|R|Seaborn|Problem Solving|XGBoost|Linear Algebra|MATLAB|Data Wrangling|Spark|Julia|Kubeflow,0,1,6,0,1,1,3.19
+C0440,Nina Chen,Data Science,2.3,PhD,Kubernetes|Linux|AWS|Statistics|Java|Spark|C++|Keras,1,2,4,2,1,0,2.65
+C0441,Nina Singh,Cloud Engineering,6.1,Bachelor's,Power BI|Kubeflow|NLP|Docker|Data Wrangling,1,4,2,2,3,0,2.83
+C0442,Nina Mehta,MLOps,0.5,Bachelor's,Azure|TensorFlow|MLflow|Matplotlib|CI/CD|Scala|Communication|Statistics|Python|ETL Pipelines|R,0,1,2,3,0,0,3.51
+C0443,Yuki Ali,Machine Learning,2.3,Bachelor's,GCP|Data Wrangling|Azure|Kafka|MySQL,1,0,5,2,0,1,2.33
+C0444,Shruti Reddy,Quantitative Finance,6.3,High School,TensorFlow|Java|C++|Power BI|Docker|Linux|Data Modeling|Statistics|ETL Pipelines|Kubeflow|Spark|Linear Algebra|Computer Vision|MLflow,2,3,2,2,1,1,3.35
+C0445,Aisha Anderson,NLP,5.2,Bachelor's,Feature Engineering|Deep Learning|CI/CD|Statistics|Java|MLflow|AWS|Hugging Face,2,1,3,2,2,0,3.19
+C0446,Yuki Garcia,Data Science,5.3,Master's,Looker|Hadoop|Julia|PyTorch|Go|Problem Solving|SQL|Statistics|Stakeholder Management|Tableau|Scala|Critical Thinking|Data Modeling|NoSQL|NumPy|MLflow|Computer Vision|PostgreSQL,0,0,2,3,0,1,2.54
+C0447,Zara Okonkwo,Data Science,0.9,Master's,Google Sheets|NoSQL|Reinforcement Learning|Computer Vision|Looker|MongoDB,2,4,6,2,1,0,2.53
+C0448,Yuki Davis,Business Intelligence,3.6,Bachelor's,TensorFlow|Kafka|Looker|C++|Leadership,1,1,2,2,0,1,2.29
+C0449,Lucas Liu,Computer Vision,3.2,Bachelor's,NoSQL|Plotly|Kubeflow|Scala|Linear Algebra|Azure|SQL|Scikit-Learn|Teamwork|Pandas|Kubernetes|MySQL,1,3,2,3,0,1,2.41
+C0450,Zara Ali,Data Science,5.3,Master's,CatBoost|Critical Thinking|Hugging Face|Airflow|ETL Pipelines|NumPy|R|Statistics|Leadership|MongoDB|Python|SQL|Project Management,2,2,8,0,1,0,3.39
+C0451,Nina Williams,Machine Learning,5.8,Master's,Stakeholder Management|Reinforcement Learning|AWS|Hugging Face|Docker|Critical Thinking|Kafka|TensorFlow|CatBoost|MLflow|PostgreSQL|CI/CD|ETL Pipelines|Go|Plotly|Scikit-Learn|R,0,1,4,1,1,0,2.98
+C0452,Rohan Mensah,NLP,2.0,Bachelor's,GCP|TensorFlow|SQL|Pandas|Plotly|Google Sheets|MongoDB|Stakeholder Management|Power BI|Model Evaluation|Deep Learning|Linear Algebra,0,4,0,1,1,1,2.43
+C0453,Daniel Joshi,Machine Learning,3.6,Master's,Kubeflow|MongoDB|Matplotlib|Docker|Statistics|Computer Vision|Reinforcement Learning|LightGBM|Communication|Deep Learning|Project Management|Hadoop|A/B Testing|NumPy|C++,1,0,5,3,2,1,2.09
+C0454,Divya Jones,NLP,3.5,Master's,XGBoost|Google Sheets|Deep Learning|PyTorch|Tableau|Project Management|TensorFlow|NumPy|Keras|Excel|Python|Model Evaluation,0,0,6,2,0,0,2.49
+C0455,Karan Verma,Machine Learning,4.6,Bachelor's,NumPy|Docker|NoSQL|GCP|LightGBM|Reinforcement Learning|Airflow|MySQL|Java|CatBoost|Seaborn|Business Analytics|MLflow|Data Wrangling|Linear Algebra,1,3,3,0,0,0,3.33
+C0456,Matthew Okonkwo,Business Intelligence,3.1,Associate's,Linux|Data Modeling|Google Sheets|MongoDB|Problem Solving|Looker|Stakeholder Management|NLP|Kafka|NoSQL|Plotly|PyTorch|Critical Thinking|Scala|Kubeflow,0,2,3,1,1,0,3.82
+C0457,Matthew Castillo,Computer Vision,4.5,Master's,ETL Pipelines|Probability|Stakeholder Management|Azure|R|Google Sheets|Scala,2,2,5,0,0,0,3.3
+C0458,Sarah Anderson,Quantitative Finance,7.4,Bachelor's,Seaborn|LightGBM|Deep Learning|PyTorch|NLP|Computer Vision|A/B Testing|Pandas|Linux|TensorFlow|C++|Teamwork|Python|Keras|Business Analytics|Problem Solving|Azure|Hugging Face,1,1,2,1,1,1,3.78
+C0459,Karan Wilson,Business Intelligence,2.2,Master's,Data Wrangling|NumPy|Stakeholder Management|PyTorch|Excel|Teamwork|Computer Vision|Hugging Face|Project Management|MySQL|ETL Pipelines|MongoDB|Time Series Analysis,0,2,2,5,1,1,2.01
+C0460,Amit Martinez,MLOps,7.9,Bachelor's,Kubeflow|Problem Solving|GCP|NumPy|Business Analytics|Reinforcement Learning|Scikit-Learn|Keras|TensorFlow|NLP|Kafka|Excel|MLflow|R,0,0,5,1,0,1,2.12
+C0461,Neha Wang,Software Engineering,1.7,Master's,LightGBM|Critical Thinking|Excel|Hadoop|CI/CD|MLflow|Kafka|Data Modeling,2,3,2,2,3,0,3.48
+C0462,Kavya Mensah,Data Science,6.8,Associate's,Docker|Kubeflow|Probability|Statistics|Scala|Airflow|Keras|Model Evaluation,1,1,6,1,0,0,3.78
+C0463,Maria Hassan,Machine Learning,2.2,Bachelor's,Julia|Plotly|MongoDB|Statistics|Deep Learning|Kubernetes|Project Management|MATLAB|Tableau|Probability|Kafka|Teamwork|MLflow|NumPy|Pandas,2,3,3,3,3,1,3.13
+C0464,Kai Mehta,MLOps,0.1,Master's,Java|Business Analytics|LightGBM|CatBoost|Power BI|ETL Pipelines|Julia|AWS|Pandas|Deep Learning|Computer Vision|Feature Engineering|NLP|Reinforcement Learning,1,2,1,4,0,1,2.1
+C0465,Sneha Martinez,MLOps,1.1,Bachelor's,Feature Engineering|PostgreSQL|Time Series Analysis|TensorFlow|Terraform|Machine Learning|NLP|MySQL|CI/CD|Airflow|Pandas,0,0,5,0,0,0,3.52
+C0466,Sofia Johnson,Data Engineering,1.5,Bachelor's,NoSQL|Leadership|Python|C++|MySQL|Linear Algebra|Deep Learning|SQL|PyTorch|Power BI|Kafka|Statistics|Reinforcement Learning|Data Modeling|R|PostgreSQL|Time Series Analysis,1,1,5,2,1,1,2.93
+C0467,Kai Liu,Software Engineering,6.7,Bachelor's,Kubeflow|Matplotlib|Project Management|AWS|NLP|Azure|Deep Learning|Feature Engineering|Data Wrangling|Linear Algebra|TensorFlow,0,1,5,0,1,1,2.9
+C0468,Aisha Nair,Cloud Engineering,1.1,Bachelor's,Teamwork|Linear Algebra|Statistics|Plotly|Tableau|Go|LightGBM|NumPy,3,4,3,0,0,0,3.31
+C0469,Ashley Mehta,Software Engineering,6.6,Bachelor's,SQL|Kubernetes|Java|Problem Solving|Kafka|Computer Vision|MongoDB|Scala|Machine Learning|Probability|PostgreSQL|Azure|Reinforcement Learning,1,2,3,1,0,1,3.17
+C0470,Chris Mensah,Computer Vision,0.2,Master's,MongoDB|Kubeflow|Stakeholder Management|Probability|C++|Feature Engineering|Power BI|ETL Pipelines|MATLAB|Reinforcement Learning|Statistics|Azure|Scikit-Learn|Teamwork|Data Wrangling|NumPy|MLflow,4,0,0,2,1,0,3.83
+C0471,Rahul Mensah,Data Science,3.7,Associate's,NLP|Scala|ETL Pipelines|Critical Thinking|R|Java|Problem Solving|Scikit-Learn|Linux|Python,0,0,4,1,0,0,3.45
+C0472,Jessica Kumar,Software Engineering,6.9,Bachelor's,Reinforcement Learning|Airflow|ETL Pipelines|MLflow|Tableau|GCP,1,1,1,0,0,1,2.13
+C0473,James Kumar,Computer Vision,3.5,Bachelor's,Power BI|Go|Seaborn|MATLAB|Communication|Google Sheets|Deep Learning|PyTorch|NoSQL|MLflow|R,1,3,1,0,1,0,2.86
+C0474,Sneha Reddy,Machine Learning,1.8,High School,GCP|Communication|Kafka|Scala|Azure|SQL|NoSQL,4,2,5,0,0,0,3.99
+C0475,Arjun Davis,Software Engineering,6.7,Bachelor's,A/B Testing|Scala|Tableau|Kafka|Linux|AWS,2,0,6,2,1,1,2.72
+C0476,Wei Anderson,Cloud Engineering,4.9,Master's,Statistics|CI/CD|Teamwork|Kafka|Reinforcement Learning|Java|NLP|NoSQL|SQL|Deep Learning|Scala,1,1,3,0,0,0,3.86
+C0477,Yuki Anderson,Business Intelligence,3.9,Master's,Looker|Spark|PostgreSQL|Model Evaluation|Pandas|Power BI|Azure|Teamwork|Computer Vision|Keras,2,2,4,4,1,1,2.37
+C0478,Rahul Martinez,Computer Vision,7.0,Associate's,R|MLflow|NLP|Statistics|Terraform|Keras|Plotly|Critical Thinking|Scikit-Learn|C++,0,2,7,0,0,1,3.72
+C0479,Lucas Castillo,Cloud Engineering,7.1,Bachelor's,Kafka|Seaborn|XGBoost|Model Evaluation|Business Analytics|Statistics|Machine Learning|MATLAB|Azure|Hugging Face|ETL Pipelines|Data Modeling|R|Google Sheets,3,3,5,2,0,0,2.01
+C0480,Deepak Singh,Business Intelligence,2.2,PhD,Kafka|R|LightGBM|Excel|NoSQL|Problem Solving|Spark|Google Sheets|Kubernetes|Tableau|Linux,3,1,5,0,1,0,2.86
+C0481,Sarah Garcia,MLOps,1.3,High School,Kubeflow|MLflow|R|NLP|Terraform|Python|Looker|Spark|Go|NumPy|CI/CD|Time Series Analysis|Hadoop|Stakeholder Management|Linux|XGBoost,1,1,4,3,0,0,2.35
+C0482,Amit Martinez,Machine Learning,3.1,PhD,Time Series Analysis|Looker|CatBoost|MATLAB|AWS|Spark|Docker|Power BI|Reinforcement Learning|A/B Testing|Linear Algebra|SQL|Seaborn|Scikit-Learn|XGBoost|Probability|Linux,2,0,1,1,0,0,3.98
+C0483,Emily Wang,Computer Vision,0.0,Master's,Time Series Analysis|TensorFlow|Probability|Matplotlib|Communication|Data Wrangling|ETL Pipelines|Docker|Stakeholder Management|Keras,2,2,2,1,0,0,2.21
+C0484,Isha Nair,Cloud Engineering,6.0,Master's,Matplotlib|Feature Engineering|Spark|Problem Solving|Kubernetes|Scikit-Learn|MongoDB|Power BI|MySQL,3,4,4,3,0,0,2.53
+C0485,Sarah Chen,Data Science,1.7,Bachelor's,Hadoop|Python|MATLAB|Power BI|Hugging Face|Looker|Data Modeling|Azure|GCP|C++|CI/CD|Feature Engineering|PostgreSQL|Pandas|Docker|R|CatBoost,1,2,4,3,0,0,3.3
+C0486,Omar Joshi,Machine Learning,5.8,Bachelor's,Leadership|XGBoost|A/B Testing|MySQL|Statistics|AWS|R,0,1,4,0,0,0,2.81
+C0487,Aisha Rodriguez,Software Engineering,2.0,Bachelor's,Scala|Communication|PostgreSQL|Kafka|Computer Vision|Time Series Analysis|Spark|Critical Thinking|Kubeflow|NumPy|Google Sheets|MATLAB|Linux|Business Analytics|Linear Algebra|Matplotlib|Python|Kubernetes,2,3,0,0,0,0,3.45
+C0488,Neha Ahmed,NLP,1.9,PhD,GCP|NumPy|MongoDB|R|Scikit-Learn|Google Sheets|Kubeflow|Looker|CatBoost|Spark|SQL|C++|Hugging Face,0,1,3,0,1,0,3.53
+C0489,Vikram Ivanov,NLP,1.8,Bachelor's,Python|C++|MongoDB|Seaborn|Kubernetes|AWS|Excel|XGBoost,0,2,4,2,0,1,3.6
+C0490,Lucas Ali,Machine Learning,7.7,Associate's,R|Kafka|Java|Scala|Teamwork|Business Analytics,4,0,7,1,1,1,3.14
+C0491,Aarav Okonkwo,Business Intelligence,5.9,Bachelor's,Spark|Data Wrangling|Statistics|Azure|Feature Engineering|Plotly|Probability|AWS|Linear Algebra|Pandas|Reinforcement Learning|Julia|Kubeflow|Kafka|Leadership|Hadoop,0,3,2,3,0,0,3.99
+C0492,Vikram Joshi,Quantitative Finance,1.1,Bachelor's,MLflow|MATLAB|SQL|Airflow|Linux|Java|ETL Pipelines|Go|Data Wrangling|Teamwork|Matplotlib|Data Modeling|MongoDB|Azure|Hugging Face|NumPy,3,1,8,3,2,0,3.01
+C0493,Deepak Davis,Machine Learning,2.8,Bachelor's,Leadership|Kubeflow|Data Modeling|TensorFlow|Data Wrangling|NumPy|Feature Engineering|Deep Learning|MLflow|XGBoost,0,1,4,0,0,0,3.82
+C0494,Shruti Ahmed,Cloud Engineering,2.6,Master's,MongoDB|Kubernetes|Hugging Face|Python|Matplotlib|Azure|Hadoop|AWS|NLP|Pandas|Computer Vision|Leadership|Time Series Analysis|Probability|Linux|MySQL,3,2,4,0,0,0,3.67
+C0495,Chris Davis,NLP,1.7,Bachelor's,Scala|Time Series Analysis|Critical Thinking|Business Analytics|Linear Algebra|CatBoost|MongoDB|Project Management|PyTorch|Deep Learning|PostgreSQL|Airflow|Keras|Computer Vision|Matplotlib|Docker,0,2,3,1,0,0,2.27
+C0496,Divya Singh,Computer Vision,6.7,Bachelor's,Teamwork|Spark|Time Series Analysis|Excel|Kubernetes|Probability|Python,1,2,8,1,0,0,2.05
+C0497,Yuki Patel,Machine Learning,1.3,Associate's,AWS|Kafka|Time Series Analysis|Teamwork|NumPy|Spark|Kubernetes|Critical Thinking|NoSQL|CatBoost|Linear Algebra|Model Evaluation|Computer Vision|TensorFlow|Seaborn|Problem Solving,1,1,5,0,1,0,3.24
+C0498,Rohan Chen,Computer Vision,4.1,Bachelor's,MongoDB|NLP|Azure|Deep Learning|Problem Solving|R|Computer Vision|ETL Pipelines|Linux|Machine Learning|Tableau|Java,0,1,2,1,1,0,3.64
+C0499,Omar Hassan,Machine Learning,0.3,Bachelor's,Matplotlib|Hadoop|Problem Solving|R|Data Wrangling|SQL|Stakeholder Management|Computer Vision|MySQL|Teamwork|Hugging Face|AWS,3,3,5,1,1,1,3.29
+C0500,Fatima Okonkwo,MLOps,1.5,Master's,Deep Learning|Hugging Face|Plotly|MySQL|TensorFlow|Python|Model Evaluation|Kubernetes,1,2,4,1,0,0,3.76
+C0501,Nina Nair,NLP,5.1,Master's,Problem Solving|Power BI|CI/CD|Go|NLP|Java|TensorFlow|Hugging Face|Time Series Analysis|Terraform|Matplotlib,1,4,6,0,0,0,2.82
+C0502,Kavya Wilson,Quantitative Finance,6.5,Bachelor's,Feature Engineering|Java|Kubernetes|NumPy|Probability|Computer Vision|Critical Thinking|Model Evaluation|Linux|TensorFlow|NoSQL|Kubeflow|Reinforcement Learning,3,1,5,1,1,0,2.63
+C0503,Ivan Verma,Computer Vision,4.8,Master's,Computer Vision|Kafka|PyTorch|Airflow|Communication|MLflow|Linear Algebra|Time Series Analysis|Azure|Problem Solving|TensorFlow|ETL Pipelines|Probability|CatBoost|Google Sheets|Matplotlib|Data Modeling,0,4,6,3,1,0,2.02
+C0504,Divya Brown,Machine Learning,0.1,PhD,Teamwork|Data Wrangling|PyTorch|MySQL|MATLAB|Kubernetes,1,2,4,2,1,1,3.92
+C0505,Daniel Sharma,Software Engineering,2.4,Master's,Looker|PyTorch|Scikit-Learn|SQL|Julia|CatBoost|AWS|Scala|MATLAB|C++|Excel|PostgreSQL|Data Modeling|Linux,0,1,3,1,0,1,3.39
+C0506,Sofia Wilson,Data Engineering,3.3,Bachelor's,Deep Learning|Azure|Model Evaluation|Python|Linux|MLflow|Looker|CI/CD|R|Computer Vision|Teamwork|MongoDB|Kubernetes|NoSQL|Problem Solving|AWS,0,1,3,2,0,0,2.44
+C0507,Sarah Liu,Machine Learning,3.1,Master's,Pandas|Plotly|TensorFlow|Google Sheets|Feature Engineering|Problem Solving|Looker,1,4,1,1,0,1,3.97
+C0508,Amit Wang,Cloud Engineering,6.9,Bachelor's,Azure|Airflow|Kubeflow|Matplotlib|Docker|MySQL|Java|C++|Communication|Computer Vision|Feature Engineering|Tableau|LightGBM,3,2,3,1,1,0,3.2
+C0509,Omar Rodriguez,Software Engineering,3.0,Bachelor's,Scikit-Learn|Feature Engineering|XGBoost|Kafka|MySQL|Pandas|GCP|Model Evaluation|ETL Pipelines|PyTorch|Statistics|Go|Reinforcement Learning|Google Sheets|Computer Vision|NoSQL|Linux,1,4,1,2,0,1,2.31
+C0510,Lena Verma,MLOps,5.8,Master's,C++|NLP|Hadoop|Machine Learning|Feature Engineering,2,3,4,2,0,0,3.64
+C0511,Nikhil Sharma,NLP,4.4,PhD,Scikit-Learn|AWS|Data Modeling|Pandas|Feature Engineering|Linux,1,0,4,0,0,1,2.69
+C0512,Lena Mehta,Business Intelligence,4.8,High School,MongoDB|Business Analytics|MATLAB|PostgreSQL|Scikit-Learn|Reinforcement Learning|Probability|Data Wrangling|Pandas|Keras|Data Modeling,3,3,2,2,0,1,3.03
+C0513,Carlos Ali,Computer Vision,0.4,Associate's,Problem Solving|Time Series Analysis|Linear Algebra|MongoDB|Azure|Data Modeling|Spark|Kubeflow|Reinforcement Learning|Computer Vision|CI/CD|Stakeholder Management|Teamwork|MATLAB|Deep Learning|Statistics|Kafka|CatBoost,0,1,0,1,0,0,2.32
+C0514,Ivan Tanaka,Data Engineering,4.6,Master's,NoSQL|Problem Solving|Pandas|GCP|Critical Thinking|Business Analytics|Power BI|Julia|MATLAB|Seaborn|Linux,0,0,2,0,2,1,2.63
+C0515,Ivan Smith,Business Intelligence,7.7,Bachelor's,Stakeholder Management|Tableau|A/B Testing|Time Series Analysis|Teamwork|NLP,0,0,5,0,0,1,2.26
+C0516,Stephanie Liu,Computer Vision,1.7,Bachelor's,Kubeflow|Go|Communication|Scala|Linear Algebra|Kafka,3,1,1,3,0,0,2.11
+C0517,Chris Brown,Cloud Engineering,2.4,Master's,MLflow|Linux|Python|Time Series Analysis|NLP|Data Wrangling|Business Analytics|Linear Algebra|CI/CD|Statistics|AWS|Critical Thinking|Kubernetes,2,1,5,2,0,0,3.65
+C0518,Zhang Garcia,Data Science,1.1,Master's,Feature Engineering|Power BI|Time Series Analysis|R|Google Sheets|Excel|TensorFlow|NoSQL|XGBoost|Docker|Machine Learning|Go|PyTorch|Kafka|Leadership,0,3,2,2,0,0,3.98
+C0519,Hassan Ahmed,Machine Learning,3.2,Master's,Kubernetes|Azure|Reinforcement Learning|PostgreSQL|Linux|Feature Engineering|Java|Scikit-Learn|TensorFlow|LightGBM|Probability|Communication,4,0,6,3,1,1,3.38
+C0520,Deepak Müller,Software Engineering,1.5,Master's,MongoDB|SQL|AWS|Data Wrangling|Business Analytics|ETL Pipelines|Scikit-Learn|NLP|Scala,0,4,2,1,0,0,3.08
+C0521,Yuki Johnson,Machine Learning,2.3,PhD,Plotly|Reinforcement Learning|Matplotlib|Kafka|Teamwork|Data Modeling|Linear Algebra|Power BI|Business Analytics|ETL Pipelines|Kubernetes,1,2,5,1,1,0,3.29
+C0522,Hassan Garcia,NLP,2.2,Associate's,Kafka|NoSQL|Power BI|MongoDB|Critical Thinking,1,0,1,1,0,1,2.69
+C0523,Emily Davis,Cloud Engineering,4.2,Bachelor's,Scala|R|MATLAB|Spark|Communication|NumPy|Business Analytics|Kubeflow|Python|PostgreSQL|Reinforcement Learning|Excel,0,0,5,1,0,0,3.98
+C0524,Matthew Johnson,NLP,7.7,Bachelor's,MATLAB|A/B Testing|Leadership|Teamwork|Model Evaluation|PostgreSQL|Python,1,0,4,1,3,1,3.12
+C0525,Priya Chen,MLOps,1.7,Master's,MLflow|Matplotlib|Keras|Computer Vision|MySQL|CI/CD|Scikit-Learn|Project Management|AWS,1,1,0,3,0,0,2.65
+C0526,Amanda Joshi,NLP,1.2,Master's,Critical Thinking|MySQL|LightGBM|Data Modeling|Google Sheets|Hugging Face|A/B Testing|NoSQL,4,1,6,2,1,0,3.9
+C0527,Sneha Singh,NLP,3.1,Bachelor's,Kubeflow|PyTorch|Tableau|Seaborn|Data Wrangling|Data Modeling|Model Evaluation|Probability|Keras|Computer Vision|Kubernetes|Airflow|Machine Learning,4,3,4,1,1,0,2.56
+C0528,Rahul Nair,MLOps,3.1,Master's,Seaborn|Hadoop|PyTorch|NLP|Keras|XGBoost|Linux|LightGBM|CI/CD|Matplotlib|TensorFlow|Machine Learning|Python|Probability|Project Management|CatBoost,1,3,1,0,1,1,3.98
+C0529,Neha Chen,NLP,0.0,Associate's,Probability|NLP|Seaborn|Leadership|Data Wrangling|Docker|Hugging Face|LightGBM|CI/CD|Pandas,4,2,7,1,2,1,3.44
+C0530,Nikhil Rodriguez,Data Engineering,0.8,Master's,Probability|TensorFlow|Azure|GCP|C++|MySQL|Spark|Kubernetes|Statistics|Reinforcement Learning|Critical Thinking|Python|Data Modeling|Computer Vision|Problem Solving|NLP|R|Data Wrangling,1,1,2,2,0,0,3.53
+C0531,Jessica Gupta,MLOps,1.4,Bachelor's,Kubeflow|Machine Learning|Seaborn|Data Modeling|CatBoost|Scala|Problem Solving|Go|Linux|TensorFlow,1,2,2,0,0,1,3.44
+C0532,Neha Okonkwo,Data Engineering,5.5,Associate's,Airflow|Go|XGBoost|Critical Thinking|Probability|Machine Learning|Data Wrangling|Scala,3,4,5,3,1,1,3.28
+C0533,Meera Reddy,Business Intelligence,2.0,Master's,Critical Thinking|Linear Algebra|Airflow|TensorFlow|CI/CD|Seaborn|NumPy|NoSQL|Excel|Data Wrangling,1,4,4,2,0,1,3.21
+C0534,Aisha Tanaka,Machine Learning,1.4,Bachelor's,Computer Vision|XGBoost|MATLAB|Teamwork|Leadership|R,0,2,5,0,3,1,3.04
+C0535,Karan Reddy,Machine Learning,4.5,Master's,Computer Vision|PostgreSQL|MLflow|Business Analytics|Keras|NoSQL,2,4,6,1,0,1,2.7
+C0536,Shruti Ahmed,Quantitative Finance,1.9,Bachelor's,Azure|C++|Communication|Scala|NoSQL|Problem Solving|Hadoop|Linear Algebra|MongoDB|Data Modeling|Linux|Model Evaluation|PostgreSQL,2,0,7,4,1,1,2.18
+C0537,Amit Okonkwo,Cloud Engineering,4.4,Master's,Kafka|Power BI|R|Docker|NLP|Data Modeling|Hugging Face|AWS,0,0,2,0,0,0,3.37
+C0538,Zara Ivanov,Computer Vision,5.3,Bachelor's,ETL Pipelines|Time Series Analysis|Power BI|PyTorch|Docker,0,2,0,0,0,1,3.06
+C0539,Chris Garcia,Business Intelligence,3.7,PhD,Data Modeling|Probability|Time Series Analysis|Looker|Python|Hugging Face|Kafka|Pandas,0,0,0,2,0,0,3.84
+C0540,Aarav Chen,Data Engineering,2.3,Bachelor's,LightGBM|Azure|Linear Algebra|Go|Problem Solving|NoSQL|CatBoost,0,2,4,0,0,1,2.24
+C0541,Kavya Williams,Computer Vision,2.7,PhD,GCP|Kubernetes|NoSQL|Scikit-Learn|Keras|Hugging Face|Google Sheets|Reinforcement Learning|Go|AWS|Deep Learning|MongoDB|Java,1,0,5,5,0,1,2.04
+C0542,Deepak Nair,Data Engineering,3.2,Master's,Critical Thinking|Statistics|ETL Pipelines|Kafka|AWS|Communication,0,0,0,1,2,1,3.13
+C0543,Lena Tanaka,NLP,6.3,Bachelor's,Kubeflow|Model Evaluation|NumPy|Hadoop|Airflow|Google Sheets|LightGBM|NoSQL|Reinforcement Learning|Scala|Pandas|SQL|Docker|Kubernetes,0,0,6,3,0,0,2.8
+C0544,Nina Gupta,MLOps,4.1,Bachelor's,Python|PostgreSQL|XGBoost|Machine Learning|Tableau|NoSQL|NumPy|Computer Vision|AWS|Kubernetes|CatBoost|MLflow|Docker,1,4,5,1,3,1,2.98
+C0545,Amit Ali,Data Engineering,1.6,Bachelor's,Scala|LightGBM|MLflow|Probability|Excel,2,2,4,0,0,0,4.0
+C0546,Amit Ali,Data Engineering,5.5,Master's,GCP|MLflow|Critical Thinking|Plotly|Pandas|Julia|Kubernetes|Looker|PyTorch|ETL Pipelines|MySQL|Reinforcement Learning,4,2,0,0,0,0,2.97
+C0547,Amanda Verma,Cloud Engineering,7.5,High School,Julia|Kubernetes|XGBoost|Google Sheets|Spark|Machine Learning|Model Evaluation|Scala|ETL Pipelines,2,1,6,3,2,0,3.21
+C0548,Stephanie Jones,Data Science,4.7,Bachelor's,MLflow|Matplotlib|NumPy|Go|CI/CD|Time Series Analysis|Google Sheets|Spark|Computer Vision|Kubernetes|C++|Python|R|GCP|Julia,4,1,0,2,2,0,2.86
+C0549,Yuki Nair,Machine Learning,0.4,Bachelor's,TensorFlow|Hadoop|MySQL|Leadership|Docker|Linear Algebra|Kubeflow|Deep Learning|Computer Vision|Time Series Analysis|XGBoost|Problem Solving,3,1,5,3,3,1,3.79
+C0550,Isha Nair,Data Engineering,2.7,Master's,Julia|Azure|Python|Scala|Tableau|Airflow|Excel|Machine Learning|R|Feature Engineering,1,0,6,3,0,0,3.19
+C0551,Sneha Gupta,Data Engineering,4.0,Bachelor's,Statistics|Kubernetes|Keras|Leadership|Business Analytics|Deep Learning|Go|AWS|Python|Communication|Plotly|Spark|Data Modeling|Power BI|C++|MLflow|Kubeflow|Scala,1,3,5,2,0,0,2.21
+C0552,Amanda Ali,Data Engineering,0.4,Bachelor's,Java|Looker|ETL Pipelines|Tableau|Keras|Scikit-Learn|Go|Reinforcement Learning|Model Evaluation|NoSQL|Docker|Terraform|MLflow|Spark,3,1,4,0,0,1,3.58
+C0553,Deepak Davis,Quantitative Finance,5.6,Bachelor's,MongoDB|Julia|Power BI|Seaborn|XGBoost|Google Sheets|ETL Pipelines|Kubernetes,0,0,8,0,2,1,2.5
+C0554,Yuki Smith,Business Intelligence,0.6,Master's,Tableau|Keras|Hadoop|Feature Engineering|Problem Solving|Java|MySQL|PyTorch,3,1,7,2,0,0,3.23
+C0555,Ashley Chen,Machine Learning,4.2,Master's,Google Sheets|PostgreSQL|Stakeholder Management|Deep Learning|Reinforcement Learning|Critical Thinking|Seaborn|MySQL|Feature Engineering,3,1,4,0,0,0,3.03
+C0556,Arjun Jones,NLP,5.5,Master's,Communication|Linear Algebra|Pandas|NumPy|MongoDB|Data Wrangling|PostgreSQL|A/B Testing|Spark|Go|Power BI|R|Java|CI/CD|Project Management,2,2,1,2,0,0,3.39
+C0557,David Singh,NLP,3.8,Bachelor's,Linear Algebra|PostgreSQL|Linux|Computer Vision|Looker|Hugging Face|Airflow|Data Wrangling|Python|ETL Pipelines|Project Management,0,0,4,2,1,0,3.94
+C0558,Suresh Johnson,Machine Learning,3.0,Bachelor's,GCP|Looker|Data Wrangling|Linux|MySQL|Kubeflow|Pandas|Plotly|Spark|C++|Data Modeling,1,2,3,1,0,1,3.61
+C0559,Priya Müller,Data Engineering,6.3,Bachelor's,Deep Learning|Probability|Kubernetes|Scikit-Learn|Terraform|Seaborn|AWS|Teamwork|Docker,0,4,3,3,0,0,2.36
+C0560,Nina Tanaka,Computer Vision,2.4,PhD,Keras|PostgreSQL|Go|Azure|Time Series Analysis|Kubeflow|Deep Learning|Seaborn|MongoDB|Terraform|Project Management|Julia|TensorFlow|Docker|Reinforcement Learning,1,1,4,0,0,1,3.76
+C0561,Michael Tanaka,Machine Learning,1.4,PhD,XGBoost|Looker|Spark|Kubernetes|Java|MySQL|Azure,0,2,3,0,0,1,2.77
+C0562,Nina Kumar,MLOps,7.8,Bachelor's,Docker|Feature Engineering|CatBoost|Time Series Analysis|TensorFlow|Kubeflow|CI/CD|XGBoost|ETL Pipelines|Kubernetes|Project Management|Linux|Terraform|Looker|Kafka,3,3,1,0,0,1,3.97
+C0563,Nikhil Mensah,Software Engineering,5.9,Master's,Azure|Model Evaluation|TensorFlow|Linux|Plotly|Stakeholder Management|Airflow|NumPy|Terraform|Linear Algebra|Critical Thinking|Machine Learning,4,3,2,2,0,0,3.99
+C0564,Deepak Chen,Quantitative Finance,1.2,Bachelor's,Feature Engineering|Hadoop|Excel|Computer Vision|Project Management|Power BI|Google Sheets|A/B Testing|Hugging Face|MongoDB|NumPy|Python|MySQL|SQL,0,1,5,3,1,0,3.24
+C0565,Chris Joshi,Machine Learning,3.9,Master's,R|Linear Algebra|Java|ETL Pipelines|Julia|Statistics|Problem Solving|Matplotlib|Scikit-Learn|Communication|Kafka|Feature Engineering|Business Analytics|Critical Thinking|Teamwork|PyTorch|Power BI,3,2,2,0,1,1,3.97
+C0566,Zhang Hassan,Cloud Engineering,1.1,Bachelor's,Spark|PyTorch|Looker|Plotly|Linux|ETL Pipelines|Google Sheets|C++,3,0,6,0,0,1,3.85
+C0567,Ivan Brown,Data Engineering,0.4,Bachelor's,SQL|Feature Engineering|Probability|Teamwork|NoSQL|NLP,0,3,4,2,1,1,3.6
+C0568,Matthew Hassan,Data Science,0.8,High School,Pandas|Computer Vision|Critical Thinking|Business Analytics|Linear Algebra|NLP|Airflow|PostgreSQL|Spark,1,2,6,2,0,0,3.73
+C0569,Aisha Chen,Data Science,2.0,High School,Reinforcement Learning|Machine Learning|Probability|Problem Solving|Computer Vision|Linux|PyTorch|GCP|NLP|Data Modeling|MySQL|NoSQL|Looker|Keras|SQL|Project Management|AWS,2,1,1,2,2,1,3.54
+C0570,Matthew Singh,Quantitative Finance,2.2,Master's,Spark|C++|Communication|TensorFlow|Critical Thinking|Julia|Hugging Face|Linear Algebra|Plotly|Business Analytics|Teamwork|Go|XGBoost,1,4,4,1,1,0,2.74
+C0571,Aisha Müller,Data Engineering,6.8,Bachelor's,Model Evaluation|Docker|Stakeholder Management|Go|Seaborn|C++|LightGBM|Kubeflow|Pandas|NoSQL|Tableau|Teamwork|MLflow|Leadership,3,4,5,1,0,1,2.24
+C0572,Stephanie Ivanov,Cloud Engineering,4.0,Master's,Pandas|NLP|Hadoop|MATLAB|Project Management|Time Series Analysis|Linear Algebra,2,2,7,1,0,0,3.89
+C0573,Sarah Castillo,Software Engineering,0.4,Associate's,Probability|MySQL|AWS|Linux|Linear Algebra|Looker|XGBoost|Leadership|Hadoop|PostgreSQL|Deep Learning|CI/CD|Matplotlib|Hugging Face|Kubeflow|Julia,0,2,3,1,0,0,3.65
+C0574,Kavya Okonkwo,Data Engineering,7.4,Bachelor's,Tableau|Pandas|Keras|NLP|Teamwork|Probability|PostgreSQL|Kafka|Linux|Statistics|PyTorch|Data Modeling|R|SQL,0,2,8,2,1,1,2.22
+C0575,Yuki Gupta,NLP,0.6,Bachelor's,GCP|NumPy|NoSQL|Communication|Python,1,3,4,2,0,0,3.81
+C0576,Kai Gupta,Quantitative Finance,2.5,Bachelor's,Google Sheets|Reinforcement Learning|Stakeholder Management|Kafka|PyTorch|R|Teamwork|Go|Feature Engineering|Data Wrangling|TensorFlow|Spark|Kubernetes|Kubeflow|Machine Learning|Plotly,0,1,2,3,1,0,3.37
+C0577,Vikram Ivanov,Cloud Engineering,7.1,Bachelor's,Matplotlib|Problem Solving|MySQL|MongoDB|Plotly|Go|Project Management|Excel|Hugging Face|Seaborn|Scala|Keras|Feature Engineering|Docker|R|CI/CD|Deep Learning,3,2,4,3,0,0,2.09
+C0578,Sarah Kumar,MLOps,5.6,Master's,Computer Vision|Machine Learning|Go|Data Wrangling|Deep Learning|R|SQL|Stakeholder Management|Keras|Azure|Docker|Python|Linux|Probability|MongoDB|Terraform,4,1,4,1,1,1,2.28
+C0579,Nikhil Tanaka,Computer Vision,5.6,Associate's,Data Modeling|Airflow|Tableau|Deep Learning|Spark|PostgreSQL|Linux,2,0,6,3,2,0,3.92
+C0580,Aarav Smith,Computer Vision,4.2,Master's,Time Series Analysis|MLflow|Linux|PyTorch|Julia,1,3,3,1,0,1,2.2
+C0581,Chris Williams,Data Engineering,4.4,Bachelor's,Scikit-Learn|CatBoost|NoSQL|Azure|Go|PostgreSQL|SQL|MySQL|Feature Engineering|Communication,0,1,7,3,0,0,3.4
+C0582,Nina Wilson,Data Science,2.4,Associate's,Leadership|R|Machine Learning|Model Evaluation|Linux|Probability|Scala|Communication|Tableau|Kubernetes|Feature Engineering|Deep Learning|Hugging Face|NumPy,1,1,6,3,0,0,3.43
+C0583,Matthew Martinez,Machine Learning,5.4,Master's,Feature Engineering|Project Management|Tableau|CatBoost|Keras|C++|Hugging Face|Communication|Go|Scala|Airflow|Statistics,0,1,0,1,3,0,2.26
+C0584,Jessica Johnson,Cloud Engineering,4.3,Associate's,Leadership|Data Modeling|Spark|Teamwork|Python|Reinforcement Learning|Docker,0,2,4,2,2,1,2.09
+C0585,Meera Sharma,Quantitative Finance,3.3,Bachelor's,Excel|Pandas|SQL|Matplotlib|Power BI|C++|Airflow|Model Evaluation|Plotly,1,2,2,0,1,1,2.62
+C0586,Jessica Singh,Business Intelligence,1.2,PhD,Stakeholder Management|Airflow|A/B Testing|R|NoSQL|Plotly|Python|MySQL|Looker|Teamwork|MongoDB|Problem Solving|Machine Learning|MLflow|Tableau,0,3,4,0,0,0,2.01
+C0587,Emily Joshi,Computer Vision,0.9,Associate's,Linux|MATLAB|Communication|ETL Pipelines|Hugging Face|Excel|Data Wrangling|Time Series Analysis|Linear Algebra|NoSQL|Critical Thinking,1,2,5,3,0,1,3.22
+C0588,Pooja Castillo,Software Engineering,1.4,Bachelor's,Deep Learning|Azure|Machine Learning|CI/CD|AWS|Data Wrangling|MongoDB|Excel|SQL|Probability|Julia|Time Series Analysis|C++,1,1,2,0,0,1,3.05
+C0589,Neha Mehta,Computer Vision,4.8,PhD,Excel|Kubernetes|Computer Vision|NLP|Spark|Project Management|ETL Pipelines|Kubeflow|Airflow|Keras|CatBoost|Machine Learning|Data Modeling|Hugging Face,3,1,3,0,3,0,3.43
+C0590,Carlos Jones,MLOps,2.8,Bachelor's,XGBoost|Scikit-Learn|Azure|Computer Vision|A/B Testing|Hadoop|MySQL|Hugging Face|Terraform|Problem Solving|Kubernetes|MLflow|Pandas|AWS,0,1,2,2,1,0,2.24
+C0591,Stephanie Sharma,Quantitative Finance,3.2,Associate's,Kubernetes|MongoDB|Scala|C++|Communication|Go|Machine Learning|Feature Engineering|CatBoost|Azure,2,1,3,5,1,1,2.38
+C0592,Deepak Rodriguez,NLP,6.5,High School,Docker|XGBoost|Looker|Azure|CI/CD|Matplotlib|MongoDB|Data Modeling|Keras|Kafka|CatBoost,0,1,4,3,0,1,3.9
+C0593,Carlos Joshi,Software Engineering,0.7,PhD,Data Modeling|SQL|Pandas|Hadoop|TensorFlow|Go|PyTorch|Keras,3,2,3,0,0,1,3.9
+C0594,Rohan Garcia,Data Science,6.7,Associate's,XGBoost|Excel|R|CatBoost|Reinforcement Learning|MATLAB|Kubeflow|Keras|Linux|Power BI|NoSQL|Communication|Computer Vision|NLP|Stakeholder Management|Java|Go|Data Modeling,0,1,3,1,2,1,3.85
+C0595,Maria Anderson,Quantitative Finance,2.7,Associate's,Kubernetes|Probability|Kafka|PyTorch|Scala|Excel|Hadoop|AWS|C++|Plotly|Java|Scikit-Learn|MATLAB|Kubeflow|Airflow|Docker|Hugging Face,0,3,7,3,0,0,2.62
+C0596,Ivan Kumar,MLOps,1.8,Bachelor's,Power BI|Scala|Teamwork|C++|MySQL|Java|Go|Statistics|XGBoost|Critical Thinking|Computer Vision|TensorFlow|Scikit-Learn|Leadership|AWS|Docker|MATLAB,1,3,5,1,1,1,3.36
+C0597,Ananya Verma,MLOps,7.7,Bachelor's,Linux|NumPy|Data Wrangling|Airflow|Computer Vision|LightGBM|Business Analytics|Kubernetes|Python|CatBoost|Seaborn|Java|Kafka|C++|R|GCP|Google Sheets|Julia,0,4,4,2,1,0,2.37
+C0598,Amanda Williams,Data Science,4.8,Bachelor's,Data Wrangling|CatBoost|Reinforcement Learning|Problem Solving|Project Management|R|Matplotlib|Azure,2,1,2,3,0,1,3.2
+C0599,Divya Mensah,Business Intelligence,5.8,Bachelor's,Python|Data Wrangling|Reinforcement Learning|Model Evaluation|MLflow|Data Modeling|NumPy|Seaborn|TensorFlow|Computer Vision|MongoDB|Stakeholder Management|Google Sheets|A/B Testing,4,1,1,0,3,0,2.37
+C0600,Carlos Mensah,Data Science,4.8,Master's,Scala|Stakeholder Management|Linear Algebra|Business Analytics|Computer Vision|MongoDB|Feature Engineering|Deep Learning|XGBoost|NumPy|Plotly|Matplotlib|SQL|Terraform|Azure|Reinforcement Learning|Leadership|Problem Solving,4,4,2,0,1,0,2.21
+C0601,Carlos Wilson,Cloud Engineering,1.7,PhD,NumPy|XGBoost|LightGBM|Matplotlib|Python|Business Analytics|PostgreSQL|Kafka|CI/CD|TensorFlow|Pandas|A/B Testing|Spark|Docker|Data Modeling,1,3,0,2,0,1,2.61
+C0602,Neha Chen,Data Engineering,6.6,High School,Project Management|Docker|Communication|Kubernetes|PostgreSQL|Python|Probability|Scikit-Learn,1,1,3,1,0,0,2.35
+C0603,Lena Mehta,NLP,7.8,Associate's,Reinforcement Learning|MATLAB|Pandas|Feature Engineering|AWS|Communication|Data Modeling|Kubeflow|Kafka,1,0,3,0,0,0,2.87
+C0604,Rahul Sharma,Data Science,3.9,Master's,Seaborn|Plotly|Pandas|Azure|CI/CD|MATLAB,3,2,3,2,0,0,3.91
+C0605,Matthew Brown,Data Science,3.9,Bachelor's,Seaborn|Probability|Feature Engineering|Project Management|PyTorch|Pandas|C++|Computer Vision|NoSQL|Linux|Communication|Excel,2,2,3,1,0,0,3.45
+C0606,Aisha Wang,Data Engineering,1.2,Bachelor's,Matplotlib|Critical Thinking|Go|Leadership|Machine Learning|GCP|MySQL,2,1,0,0,0,1,2.93
+C0607,Isha Anderson,Quantitative Finance,2.6,Master's,Looker|MATLAB|MLflow|PyTorch|Keras|Tableau|Power BI|Hugging Face|LightGBM|Hadoop|Pandas,2,1,0,2,3,1,3.23
+C0608,Amanda Tanaka,Data Science,5.1,Associate's,Kafka|Tableau|Keras|AWS|Terraform|Deep Learning|Seaborn|Feature Engineering|Critical Thinking|Computer Vision|Data Wrangling|PostgreSQL|Docker|NLP|R,2,1,3,2,0,1,3.51
+C0609,Nikhil Jones,Cloud Engineering,4.7,Master's,Keras|Critical Thinking|Hugging Face|Hadoop|Machine Learning|Airflow|Google Sheets|Julia|NumPy|Go|Plotly|Looker|CI/CD|SQL|Data Modeling|Scala|ETL Pipelines,0,4,8,2,0,0,2.35
+C0610,Matthew Singh,MLOps,7.2,Bachelor's,Linux|Python|CI/CD|Machine Learning|Deep Learning|MongoDB|Scikit-Learn|Problem Solving|NLP|Seaborn|MATLAB|Model Evaluation|LightGBM,3,0,5,1,0,0,3.47
+C0611,Amanda Wang,Computer Vision,3.2,Master's,Kubeflow|MATLAB|Data Wrangling|PostgreSQL|CatBoost|Machine Learning|Azure|MLflow|Communication|Model Evaluation|Spark|Pandas|Seaborn|Teamwork,3,2,1,0,2,0,2.81
+C0612,Yuki Nair,Machine Learning,1.2,Master's,Project Management|MySQL|TensorFlow|LightGBM|Java|Hugging Face|Go|Scala|Excel|Airflow|Deep Learning|Leadership,1,2,1,3,1,1,3.94
+C0613,Chris Wilson,Data Science,1.5,Bachelor's,Kubernetes|GCP|Hadoop|Kafka|Data Wrangling,0,2,7,1,0,0,2.67
+C0614,Nina Smith,Business Intelligence,4.2,Bachelor's,Power BI|NoSQL|Hugging Face|Docker|Tableau|Matplotlib|Machine Learning,0,0,3,1,1,0,3.8
+C0615,Amanda Ahmed,Machine Learning,3.4,Bachelor's,Data Modeling|Computer Vision|R|Business Analytics|GCP|LightGBM|Hugging Face|NoSQL|Azure|Airflow|Julia|Terraform|Seaborn|SQL|Hadoop|Communication|C++,0,2,7,2,0,0,2.75
+C0616,Chris Rodriguez,Cloud Engineering,3.3,Master's,NoSQL|ETL Pipelines|Go|MLflow|GCP|Kafka|LightGBM|Probability|Matplotlib|Stakeholder Management|Excel|Python|R|Business Analytics|Linear Algebra|PyTorch,1,2,3,1,0,1,3.89
+C0617,Stephanie Garcia,Business Intelligence,6.2,Bachelor's,Business Analytics|C++|NoSQL|A/B Testing|Go|MySQL,0,1,5,1,2,1,3.34
+C0618,Vikram Ivanov,Machine Learning,2.9,Master's,Model Evaluation|Julia|Terraform|Google Sheets|NLP|Stakeholder Management|Spark|Docker|LightGBM|ETL Pipelines|Scikit-Learn|Critical Thinking|TensorFlow|Java|Python|SQL,0,1,3,1,1,1,3.29
+C0619,Amit Williams,Machine Learning,4.9,Master's,Go|Teamwork|Statistics|Google Sheets|Deep Learning|NumPy|Scala|A/B Testing,3,2,3,1,0,1,3.75
+C0620,Amit Tanaka,MLOps,5.6,Bachelor's,Python|Feature Engineering|A/B Testing|Kafka|Linux|Java|NLP,2,0,3,0,0,1,2.7
+C0621,Sneha Reddy,Software Engineering,5.2,Bachelor's,Spark|MATLAB|Azure|Terraform|GCP|Scala|Matplotlib|XGBoost|Leadership|Linux|NoSQL|Deep Learning|Google Sheets|Reinforcement Learning,2,4,1,1,0,0,3.03
+C0622,Kai Wang,Data Science,5.8,Bachelor's,Data Modeling|Project Management|R|Hugging Face|Airflow|Business Analytics|Julia|MongoDB,4,0,1,2,0,1,2.23
+C0623,Emily Reddy,Computer Vision,4.3,Bachelor's,Julia|Business Analytics|GCP|Probability|Machine Learning|Model Evaluation|Kubeflow|Go|TensorFlow|Power BI|PyTorch,0,1,3,2,0,0,3.89
+C0624,Jessica Anderson,Data Science,5.8,Bachelor's,Looker|Matplotlib|Kubernetes|Scala|Project Management|Spark|MATLAB|Probability,2,0,2,1,0,1,2.56
+C0625,Stephanie Castillo,Software Engineering,4.2,Master's,Probability|Go|Critical Thinking|Kafka|Reinforcement Learning|Plotly,2,1,2,2,0,0,2.86
+C0626,Daniel Patel,Data Engineering,0.4,Master's,AWS|TensorFlow|MATLAB|Stakeholder Management|Kubernetes|Statistics|Java|Computer Vision|Go|Linear Algebra,1,0,3,2,2,1,3.23
+C0627,Yuki Kumar,Machine Learning,4.3,Bachelor's,Matplotlib|Python|Data Wrangling|Pandas|XGBoost|LightGBM|A/B Testing|MLflow|Teamwork|R|Power BI,3,4,6,2,1,0,2.91
+C0628,Meera Müller,Quantitative Finance,6.2,Bachelor's,Leadership|Plotly|MySQL|A/B Testing|Linear Algebra,0,1,4,5,0,0,3.47
+C0629,Sofia Mehta,Quantitative Finance,5.7,Bachelor's,Problem Solving|Java|NLP|A/B Testing|NoSQL|NumPy|C++|SQL|Scala|MongoDB|Business Analytics|Docker|Kubeflow|Stakeholder Management|Statistics|Deep Learning|Julia,1,1,2,2,0,0,3.47
+C0630,Priya Reddy,Computer Vision,5.6,Bachelor's,Feature Engineering|NumPy|Linear Algebra|XGBoost|Go|A/B Testing|Project Management|MongoDB|SQL|Terraform|PostgreSQL|Teamwork|Communication|TensorFlow|Linux|Julia|Keras|Hugging Face,0,2,3,5,0,1,3.15
+C0631,Jessica Mensah,Machine Learning,4.4,Bachelor's,SQL|Azure|Matplotlib|Kubeflow|A/B Testing|Teamwork|Plotly|Java|Scala|Feature Engineering|Go|Data Wrangling|PostgreSQL|MLflow,2,1,4,5,0,1,2.06
+C0632,Nikhil Chen,Machine Learning,1.0,Master's,Julia|NLP|PyTorch|PostgreSQL|Power BI|ETL Pipelines|Excel|Business Analytics|GCP|XGBoost|Machine Learning|Hadoop|CI/CD|Statistics|Keras,3,3,3,1,1,1,3.24
+C0633,Lucas Okonkwo,Cloud Engineering,4.5,Master's,PostgreSQL|Machine Learning|Reinforcement Learning|ETL Pipelines|Matplotlib|Scala,0,2,5,2,0,1,3.74
+C0634,Carlos Liu,Business Intelligence,9.7,High School,Business Analytics|Probability|Stakeholder Management|Plotly|Project Management|XGBoost|Critical Thinking|Terraform|Data Modeling|MLflow,3,3,0,2,0,0,3.38
+C0635,Ananya Jones,Cloud Engineering,1.5,PhD,NumPy|Probability|Kubeflow|Julia|Hadoop|Azure|XGBoost|Communication|Hugging Face,0,2,1,4,1,0,2.96
+C0636,James Müller,Data Engineering,6.8,Bachelor's,TensorFlow|SQL|Julia|Model Evaluation|AWS|Business Analytics,1,1,3,1,1,0,3.19
+C0637,Carlos Müller,NLP,6.8,Bachelor's,Plotly|Python|Teamwork|Scala|Time Series Analysis|Hugging Face|MATLAB|Project Management|Terraform|Julia|AWS|GCP|Linear Algebra|Kafka|SQL|Machine Learning|Docker|Keras,2,2,5,1,0,0,3.34
+C0638,Rahul Liu,Data Engineering,1.9,Master's,Deep Learning|Airflow|Python|Linux|Kafka|XGBoost|NLP|Azure|Pandas|Matplotlib|Looker,1,1,3,0,1,0,3.75
+C0639,Sofia Wilson,Data Science,5.1,Master's,Excel|R|Deep Learning|Java|MLflow|Hadoop,0,1,0,0,0,0,3.75
+C0640,Vikram Williams,Business Intelligence,3.1,Master's,Kubeflow|Computer Vision|AWS|Problem Solving|Reinforcement Learning|A/B Testing|Scala|Kafka|Statistics|Looker|Communication|Spark|Plotly|MySQL,1,3,2,1,0,1,3.57
+C0641,Ananya Joshi,Quantitative Finance,0.9,Bachelor's,Google Sheets|C++|Deep Learning|Data Modeling|NLP|Critical Thinking|Power BI|Linear Algebra|Pandas|Excel|Spark,3,2,3,5,0,1,3.15
+C0642,Priya Singh,Data Science,4.8,Associate's,NoSQL|Project Management|Scikit-Learn|Terraform|R|Hugging Face|Julia|Machine Learning|Docker|Feature Engineering,1,2,4,1,1,1,3.68
+C0643,Maria Ivanov,Software Engineering,1.4,Bachelor's,ETL Pipelines|AWS|Problem Solving|Feature Engineering|PostgreSQL|Computer Vision|MongoDB|Data Modeling|Linear Algebra|Critical Thinking,3,1,4,2,2,0,2.16
+C0644,Aarav Wang,Software Engineering,7.3,Bachelor's,Terraform|Stakeholder Management|CI/CD|Julia|Linear Algebra|MongoDB|Seaborn|Leadership|Time Series Analysis,2,1,4,2,1,0,2.16
+C0645,Meera Mensah,Quantitative Finance,7.6,Associate's,Excel|NumPy|PyTorch|SQL|Communication|XGBoost|Hugging Face|NoSQL|GCP|Statistics,0,3,3,1,1,1,2.93
+C0646,Lucas Sharma,NLP,5.4,Bachelor's,Communication|Azure|R|Feature Engineering|PyTorch,3,4,3,2,0,0,3.45
+C0647,Rohan Kumar,Quantitative Finance,4.3,Bachelor's,Computer Vision|Spark|Linux|GCP|MongoDB|Matplotlib,0,0,3,2,1,0,2.76
+C0648,Jessica Nair,MLOps,5.5,Associate's,LightGBM|Machine Learning|Stakeholder Management|MLflow|Python|Tableau|SQL|GCP|Airflow|MATLAB|Reinforcement Learning|Keras|Kafka,0,1,2,1,2,0,2.58
+C0649,Jessica Singh,Data Engineering,5.5,Master's,NoSQL|Machine Learning|PyTorch|Linux|Java|XGBoost|Docker|Terraform|Probability|Hugging Face|Kubeflow|Statistics,0,3,4,2,3,0,3.78
+C0650,Sarah Anderson,Computer Vision,0.3,Master's,AWS|PyTorch|MLflow|Machine Learning|Keras|NLP|Data Wrangling|Google Sheets|CatBoost|Linear Algebra,1,1,2,0,1,0,2.63
+C0651,Shruti Patel,Software Engineering,6.4,Bachelor's,NumPy|Python|Keras|Linear Algebra|ETL Pipelines|Kubeflow|Data Wrangling|Docker|Excel|Leadership|Stakeholder Management,3,2,4,4,0,0,2.91
+C0652,Amit Patel,Computer Vision,5.8,Master's,NLP|CI/CD|C++|TensorFlow|MLflow|MongoDB,0,1,4,1,0,1,2.43
+C0653,Nikhil Okonkwo,MLOps,2.5,High School,A/B Testing|NoSQL|AWS|MATLAB|Probability|Airflow|Deep Learning|LightGBM,3,0,6,3,0,0,2.07
+C0654,Kai Liu,MLOps,0.1,Bachelor's,C++|Reinforcement Learning|Data Modeling|GCP|Kubeflow|Data Wrangling|PyTorch|Probability|Kubernetes|LightGBM|Statistics|NumPy|Excel|Python|TensorFlow|AWS|Java,0,1,2,4,0,0,2.75
+C0655,Stephanie Anderson,Data Engineering,0.1,Bachelor's,NumPy|Probability|Deep Learning|Hugging Face|Java|Teamwork|Computer Vision|Plotly|TensorFlow|Terraform|Linux|ETL Pipelines|MongoDB|PostgreSQL|Linear Algebra|Scala|Data Wrangling|CatBoost,3,1,2,2,0,1,3.17
+C0656,Aarav Wang,MLOps,2.5,Bachelor's,Reinforcement Learning|Julia|Seaborn|MLflow|Tableau,0,1,2,3,1,0,2.19
+C0657,Shruti Hassan,Software Engineering,4.1,Associate's,Pandas|Linear Algebra|Docker|Computer Vision|Machine Learning|GCP,2,4,1,0,1,1,2.95
+C0658,Aarav Ivanov,Cloud Engineering,3.3,Bachelor's,MATLAB|SQL|Time Series Analysis|Reinforcement Learning|Kubeflow|LightGBM|C++,0,3,2,0,3,1,3.33
+C0659,Priya Davis,Cloud Engineering,2.7,Master's,NLP|Pandas|Matplotlib|Airflow|PostgreSQL|Tableau|GCP|Python|Power BI|NoSQL|A/B Testing|Hugging Face|Kubernetes|Hadoop|Business Analytics|Java|Probability|Docker,1,4,4,3,0,0,3.76
+C0660,Nina Wilson,Software Engineering,5.3,Master's,Tableau|Data Wrangling|ETL Pipelines|AWS|Seaborn|TensorFlow|Matplotlib|CatBoost|Probability,0,2,3,2,3,1,2.22
+C0661,Rohan Mensah,Cloud Engineering,3.4,Master's,Azure|Seaborn|Docker|SQL|CatBoost|Google Sheets,3,2,8,1,0,0,2.9
+C0662,Rohan Castillo,Data Engineering,4.6,Bachelor's,Probability|Power BI|MLflow|SQL|Statistics|Kafka|Time Series Analysis|MySQL|Plotly|Terraform|Data Modeling|Problem Solving|TensorFlow,0,1,2,1,1,0,2.48
+C0663,Neha Sharma,Machine Learning,4.6,Bachelor's,Leadership|PyTorch|Deep Learning|Scikit-Learn|Java|MongoDB|Excel|MLflow|Kubernetes|Spark|PostgreSQL|Airflow|Hadoop|Feature Engineering|Machine Learning|Time Series Analysis|Google Sheets,0,0,7,3,3,0,3.37
+C0664,Meera Müller,Data Science,4.3,Master's,PyTorch|CatBoost|Kafka|Pandas|Leadership|NumPy|Teamwork|Azure,0,0,4,3,1,0,2.41
+C0665,Nina Garcia,Cloud Engineering,0.2,Bachelor's,NumPy|Seaborn|MATLAB|Tableau|Go|Reinforcement Learning|Julia|Teamwork|Data Modeling|Pandas,2,0,2,0,0,1,2.58
+C0666,Aarav Reddy,Computer Vision,4.2,Bachelor's,Airflow|Julia|Java|Python|Looker|CatBoost|Terraform|Plotly|Keras|CI/CD|Reinforcement Learning|SQL|Matplotlib,0,0,3,0,0,1,2.65
+C0667,Omar Patel,Cloud Engineering,5.4,Master's,Time Series Analysis|PyTorch|Docker|Hadoop|Statistics|Azure,0,0,2,0,0,0,3.76
+C0668,Divya Williams,Data Engineering,7.9,Bachelor's,GCP|SQL|Azure|Pandas|Model Evaluation|MySQL|NoSQL|Problem Solving|MLflow|ETL Pipelines|PyTorch|Seaborn|Hugging Face|Leadership|XGBoost,3,1,5,0,1,0,2.01
+C0669,Stephanie Brown,Cloud Engineering,1.2,Bachelor's,Linear Algebra|Hugging Face|Excel|Terraform|ETL Pipelines|PostgreSQL|Time Series Analysis|Matplotlib,1,4,4,3,1,0,2.7
+C0670,Zara Ali,Data Engineering,1.7,Master's,MATLAB|Java|Airflow|Looker|Tableau|Terraform,3,2,4,2,0,0,3.95
+C0671,Arjun Castillo,Cloud Engineering,3.9,Bachelor's,Scala|NoSQL|Deep Learning|Java|CI/CD|Kubeflow|Julia|Problem Solving|Scikit-Learn,2,1,2,2,0,0,3.15
+C0672,Divya Patel,Computer Vision,1.7,Master's,A/B Testing|CatBoost|Plotly|Business Analytics|TensorFlow|Hadoop|Time Series Analysis|Azure|PyTorch,1,2,3,3,0,0,2.13
+C0673,Lin Davis,Software Engineering,3.2,Master's,Critical Thinking|R|NumPy|NLP|Time Series Analysis|ETL Pipelines|Java|Kubeflow|LightGBM|PostgreSQL|Julia,2,0,4,4,0,1,2.48
+C0674,Pooja Joshi,Quantitative Finance,7.9,Bachelor's,PostgreSQL|Scikit-Learn|NumPy|Excel|Linear Algebra|Business Analytics|Communication|Statistics,1,4,5,0,1,0,2.2
+C0675,Amanda Rodriguez,Machine Learning,0.6,Master's,Linux|AWS|Computer Vision|Matplotlib|Java|MongoDB|Scala|SQL|A/B Testing|Tableau|Statistics|TensorFlow|Data Modeling|Problem Solving|Scikit-Learn,1,0,2,1,1,1,2.94
+C0676,Daniel Joshi,Computer Vision,6.9,High School,Data Modeling|Scikit-Learn|Seaborn|Keras|Leadership|MLflow,1,0,2,1,0,0,2.84
+C0677,Arjun Sharma,Data Engineering,3.3,Master's,Statistics|AWS|Stakeholder Management|MongoDB|Python|Project Management|ETL Pipelines|C++|TensorFlow|Azure|Scikit-Learn|Leadership|SQL|Kubeflow|GCP,3,1,4,0,1,1,2.71
+C0678,Ashley Verma,Business Intelligence,7.9,Bachelor's,Data Wrangling|Leadership|Deep Learning|ETL Pipelines|LightGBM|Kubernetes|Excel|MongoDB|A/B Testing|Hadoop,4,4,4,2,2,0,3.7
+C0679,Zara Verma,Software Engineering,1.8,Bachelor's,Data Wrangling|Model Evaluation|PyTorch|Scikit-Learn|Scala|Machine Learning|Linux,3,0,1,4,0,1,3.53
+C0680,Ivan Hassan,Cloud Engineering,6.4,Bachelor's,NLP|ETL Pipelines|MongoDB|SQL|C++|XGBoost|Machine Learning|Kafka,2,0,4,3,1,1,2.24
+C0681,Matthew Garcia,Quantitative Finance,6.0,Bachelor's,Java|Kubernetes|Kubeflow|NumPy|Feature Engineering|NLP|Docker|CatBoost|MATLAB|Tableau|Matplotlib|Python|Keras|MySQL|Time Series Analysis|Linux|Seaborn|A/B Testing,1,0,1,0,0,0,3.0
+C0682,Neha Ahmed,Computer Vision,4.5,Master's,A/B Testing|CI/CD|Seaborn|Hugging Face|Linux|Airflow|TensorFlow|Hadoop|Computer Vision|Plotly|Python|Linear Algebra,2,1,2,0,0,1,3.37
+C0683,Jessica Reddy,MLOps,4.1,Bachelor's,SQL|Kubeflow|Kubernetes|Communication|C++|Azure|Excel|NLP|Go,1,2,3,0,2,0,3.01
+C0684,Matthew Kumar,Computer Vision,4.2,Master's,Tableau|Critical Thinking|Teamwork|R|MATLAB|Java|Hadoop|AWS|Computer Vision|Python|Probability|Kubeflow|LightGBM|NoSQL|PostgreSQL|A/B Testing|Model Evaluation,1,0,3,2,0,1,2.69
+C0685,Rahul Müller,Data Science,6.9,Bachelor's,Power BI|Critical Thinking|CatBoost|Scikit-Learn|ETL Pipelines|MLflow|Probability|Plotly,0,2,4,0,0,0,2.74
+C0686,Stephanie Müller,Software Engineering,3.9,Bachelor's,MySQL|Scikit-Learn|Model Evaluation|Excel|C++|Linux|Azure|Kafka|Keras|Critical Thinking|MATLAB,0,3,2,0,0,0,3.92
+C0687,Omar Sharma,Data Science,4.5,PhD,Data Modeling|XGBoost|Looker|GCP|MySQL|Business Analytics|Reinforcement Learning,2,0,7,1,1,1,3.37
+C0688,Rohan Wilson,Software Engineering,1.5,Bachelor's,CI/CD|MATLAB|AWS|Machine Learning|PyTorch|Leadership|NumPy|Linux|Azure|Hugging Face|Kubeflow|Statistics|Pandas|MLflow|Excel|Tableau|Docker|Plotly,0,2,8,1,0,0,3.79
+C0689,Neha Hassan,Business Intelligence,0.4,Bachelor's,NoSQL|Computer Vision|Excel|Stakeholder Management|CatBoost|Data Wrangling|NLP|Pandas|Kafka|NumPy|Scikit-Learn|A/B Testing|Airflow|PostgreSQL|Model Evaluation|Deep Learning|Matplotlib,1,1,3,1,2,0,3.09
+C0690,Yuki Joshi,Software Engineering,4.2,PhD,MySQL|CI/CD|Airflow|Kafka|Google Sheets|Azure|Java|Deep Learning|Keras|Excel|Scala|SQL|PyTorch|Docker,0,1,4,1,2,0,3.24
+C0691,Sofia Jones,NLP,6.4,Bachelor's,Python|Data Wrangling|CI/CD|Hugging Face|Scala|Statistics|Stakeholder Management|NLP|Airflow|MLflow|CatBoost|PostgreSQL|Data Modeling|Model Evaluation|Terraform,0,3,5,2,0,1,2.12
+C0692,Sarah Ali,NLP,3.7,Master's,Google Sheets|Reinforcement Learning|Scikit-Learn|CI/CD|CatBoost|Excel|Plotly|Tableau|Communication|PostgreSQL|Keras|Computer Vision|PyTorch|R,2,2,4,0,0,1,2.2
+C0693,Emily Jones,Computer Vision,3.4,Bachelor's,PostgreSQL|Scikit-Learn|Java|Docker|Julia|Statistics|Kubernetes|Power BI|Seaborn,2,3,6,1,0,0,2.33
+C0694,Arjun Mehta,NLP,5.2,Master's,Julia|Communication|TensorFlow|Spark|Keras|Problem Solving|Docker|Machine Learning|C++|Hugging Face,1,2,1,2,0,0,3.94
+C0695,Wei Garcia,Cloud Engineering,4.1,Master's,AWS|Airflow|Critical Thinking|SQL|Linear Algebra|Model Evaluation|Business Analytics|TensorFlow|Azure|Scala|Java|Spark|CatBoost|Python|Google Sheets|Probability,1,1,3,1,0,0,3.27
+C0696,Michael Williams,Quantitative Finance,6.2,Bachelor's,Seaborn|Stakeholder Management|Julia|Tableau|Data Modeling|Probability|XGBoost|Computer Vision|Deep Learning|Leadership|NoSQL|LightGBM|Communication|Scala|Terraform|CatBoost,0,0,2,2,1,1,2.34
+C0697,Isha Tanaka,Data Engineering,1.5,Bachelor's,Pandas|Probability|Statistics|Leadership|C++|Plotly|Spark|Scala|Model Evaluation|Machine Learning|ETL Pipelines|Data Modeling|Google Sheets|Project Management|SQL|Time Series Analysis|A/B Testing,1,0,3,1,0,1,3.23
+C0698,Ananya Gupta,Software Engineering,3.0,Bachelor's,Scikit-Learn|Docker|Critical Thinking|AWS|Tableau|Azure|Model Evaluation|Kafka,1,0,4,1,1,0,2.56
+C0699,Neha Rodriguez,Machine Learning,3.5,Bachelor's,Tableau|AWS|Probability|Scala|Hugging Face|Project Management|PostgreSQL,0,1,3,1,0,0,2.22
+C0700,Amit Rodriguez,Data Science,9.4,High School,Spark|Hadoop|CI/CD|Tableau|ETL Pipelines|Computer Vision|Critical Thinking|Seaborn|Linear Algebra|Kubeflow|Docker|Pandas|NumPy|TensorFlow,2,2,2,5,1,1,3.62
+C0701,Matthew Chen,NLP,4.4,Associate's,Data Modeling|Time Series Analysis|Teamwork|Communication|Plotly,0,0,4,1,0,0,3.54
+C0702,Rahul Jones,Cloud Engineering,6.2,Bachelor's,Data Wrangling|Problem Solving|Leadership|Excel|PyTorch|CI/CD|Plotly|AWS|Data Modeling|Pandas|Linux|CatBoost|R|Seaborn|PostgreSQL|LightGBM|Go,4,0,3,1,0,1,2.96
+C0703,Kavya Johnson,Data Science,2.2,Bachelor's,NoSQL|Business Analytics|C++|Azure|Kubeflow|Feature Engineering|MongoDB|MATLAB|Java|Scikit-Learn,1,4,4,1,0,0,2.75
+C0704,Zhang Tanaka,NLP,1.5,Master's,CI/CD|Reinforcement Learning|MongoDB|PostgreSQL|Python|Project Management|Tableau|Matplotlib|Data Wrangling|Leadership|Keras,1,0,5,1,0,0,3.68
+C0705,Fatima Hassan,Machine Learning,1.9,Bachelor's,MATLAB|Python|Looker|NLP|Kubeflow|R|Communication|NumPy|Pandas|A/B Testing|Hadoop,1,2,6,1,0,1,2.84
+C0706,Matthew Davis,Data Science,4.6,Master's,Leadership|LightGBM|Machine Learning|Power BI|Julia|Data Wrangling|MATLAB|GCP|Go|Teamwork|TensorFlow|C++,2,1,8,1,0,1,2.61
+C0707,Karan Nair,Data Science,0.4,Master's,TensorFlow|C++|Power BI|GCP|PyTorch|Reinforcement Learning|NoSQL|Azure|Hugging Face|Time Series Analysis|Python|Terraform|Data Wrangling|MySQL|Stakeholder Management,1,2,3,1,2,0,3.61
+C0708,Amanda Gupta,MLOps,5.5,Master's,C++|PyTorch|Model Evaluation|Stakeholder Management|NoSQL|Julia|CI/CD|Java|Terraform|Deep Learning|Kubeflow|Data Wrangling|Keras,4,2,1,1,0,0,2.74
+C0709,Carlos Smith,Cloud Engineering,7.3,Bachelor's,Airflow|Machine Learning|Kubernetes|Communication|Docker|CatBoost|CI/CD|Business Analytics|Julia|Go|Probability|Keras|Statistics|Scala|Seaborn|Matplotlib,1,0,3,0,0,1,3.95
+C0710,Daniel Anderson,Machine Learning,0.4,Bachelor's,Linear Algebra|Spark|A/B Testing|GCP|Statistics,0,0,7,2,1,1,3.67
+C0711,Lin Chen,Machine Learning,0.1,Master's,Statistics|Linux|Probability|Kafka|Model Evaluation|Terraform|Communication,1,0,7,2,1,1,2.77
+C0712,Neha Smith,MLOps,1.1,Bachelor's,Kubeflow|Linear Algebra|Azure|A/B Testing|GCP|Computer Vision|Probability|R|Docker|Keras|AWS|ETL Pipelines|Airflow,0,2,3,2,1,0,3.32
+C0713,Emily Brown,Computer Vision,4.7,Bachelor's,Matplotlib|Python|Business Analytics|Terraform|R|AWS|NoSQL,0,1,5,0,2,0,2.75
+C0714,Karan Anderson,Machine Learning,1.8,Bachelor's,Kubernetes|PostgreSQL|Pandas|A/B Testing|Docker|Kubeflow|Java|Statistics|R|NoSQL|Linear Algebra|NumPy|Deep Learning|Time Series Analysis|C++|Business Analytics|Project Management,1,1,5,5,0,1,2.26
+C0715,Aisha Anderson,Software Engineering,5.8,Master's,Docker|A/B Testing|Linux|ETL Pipelines|Kafka|Azure|AWS|CatBoost|Hugging Face|Terraform|Probability|Pandas|Feature Engineering|Kubeflow|Leadership|Reinforcement Learning|Machine Learning|C++,2,1,2,4,0,0,2.49
+C0716,Lin Johnson,Machine Learning,6.9,Bachelor's,Critical Thinking|MLflow|Probability|CatBoost|ETL Pipelines|Julia|Stakeholder Management|TensorFlow|R,1,0,8,2,2,0,3.23
+C0717,Lucas Mehta,Cloud Engineering,4.0,Master's,Kubernetes|Business Analytics|Hadoop|Excel|GCP|ETL Pipelines|Azure|Power BI|Go|Data Modeling|Stakeholder Management|Airflow|Reinforcement Learning|SQL|NumPy|XGBoost|MATLAB|Java,0,3,0,4,3,0,3.88
+C0718,Arjun Martinez,Quantitative Finance,2.4,Master's,Time Series Analysis|AWS|Seaborn|Problem Solving|Scala|Java|Hugging Face|Tableau|Deep Learning|MongoDB|Airflow|SQL|Leadership|Pandas,3,0,2,4,0,0,2.33
+C0719,Deepak Mehta,Business Intelligence,4.9,Bachelor's,Tableau|Spark|C++|Teamwork|Data Wrangling|Critical Thinking|Time Series Analysis|Excel|Java|Looker|AWS|MATLAB|A/B Testing|Azure|Communication|Seaborn|Business Analytics|Problem Solving,0,2,5,3,0,1,2.57
+C0720,Carlos Sharma,Cloud Engineering,0.2,Bachelor's,A/B Testing|Azure|Model Evaluation|Linux|NLP|NoSQL|AWS|Kubeflow|C++|Probability|Power BI|Kubernetes|Hadoop|Leadership|Project Management|Matplotlib,1,0,2,2,0,1,3.02
+C0721,Michael Liu,Quantitative Finance,4.4,Master's,ETL Pipelines|Java|Keras|GCP|Problem Solving|MATLAB|Matplotlib|Kafka|PostgreSQL|Scala|Data Modeling|CI/CD|Google Sheets|Critical Thinking|AWS|Model Evaluation|NumPy,0,3,0,0,0,1,3.53
+C0722,Lucas Singh,Business Intelligence,7.3,Bachelor's,NLP|Hugging Face|Spark|Google Sheets|Power BI|Statistics|Problem Solving|Pandas|Communication|CatBoost|Go|Critical Thinking|Tableau,0,0,8,1,2,0,3.01
+C0723,Ananya Müller,MLOps,5.8,Associate's,MATLAB|Go|Terraform|Docker|Linear Algebra|Feature Engineering|GCP|XGBoost|Pandas|Azure|Spark|LightGBM|Keras|Stakeholder Management,1,3,2,2,0,1,2.06
+C0724,Amanda Smith,Data Engineering,2.3,High School,Go|Scala|Azure|Spark|Teamwork|SQL|Deep Learning|CI/CD|Data Modeling|Julia|Project Management|Problem Solving,3,2,5,2,0,1,3.61
+C0725,Daniel Nair,Computer Vision,2.6,Bachelor's,Machine Learning|Python|Hadoop|Kubernetes|MongoDB|Go|Business Analytics|Deep Learning|NoSQL|Google Sheets|Excel|Spark|Feature Engineering|AWS|Reinforcement Learning|Tableau|Keras,0,2,6,0,1,0,2.02
+C0726,Zhang Verma,Machine Learning,3.5,Master's,Computer Vision|ETL Pipelines|Project Management|NoSQL|Deep Learning|PyTorch|XGBoost|Kubeflow|Linux|Teamwork|Scikit-Learn|Keras|Terraform|R,0,2,3,0,3,0,3.63
+C0727,Stephanie Wilson,NLP,2.2,Bachelor's,Model Evaluation|AWS|Julia|Docker|Scala|NLP|Feature Engineering|Data Wrangling|ETL Pipelines|Python|Business Analytics|Azure|Keras|MATLAB|A/B Testing,2,1,3,3,0,1,2.3
+C0728,Stephanie Mensah,Machine Learning,3.3,Bachelor's,Kubernetes|MySQL|R|Looker|TensorFlow,0,1,4,2,2,0,2.26
+C0729,Michael Mehta,NLP,0.2,Bachelor's,Reinforcement Learning|Google Sheets|Machine Learning|Docker|Linux|NumPy|Python|Time Series Analysis|CatBoost|Pandas,0,1,2,2,0,1,2.11
+C0730,David Martinez,NLP,5.4,Bachelor's,Model Evaluation|Matplotlib|Kafka|Critical Thinking|Computer Vision|PyTorch|Julia|Feature Engineering|Stakeholder Management|Azure,1,1,1,0,2,1,2.99
+C0731,Lena Ivanov,Computer Vision,0.1,Bachelor's,Problem Solving|Terraform|Communication|Docker|Seaborn|AWS|Computer Vision|Java|R|Linear Algebra|Time Series Analysis|ETL Pipelines|Data Modeling|Matplotlib|LightGBM,0,4,3,1,0,1,2.27
+C0732,Meera Smith,Computer Vision,4.5,PhD,Java|Terraform|Project Management|Seaborn|Teamwork|NumPy|Data Modeling|MongoDB|Model Evaluation|XGBoost|Airflow|LightGBM,1,4,1,2,0,1,3.03
+C0733,Nikhil Nair,Business Intelligence,2.5,PhD,CatBoost|MongoDB|Problem Solving|Hugging Face|Tableau|Critical Thinking,0,1,6,1,0,1,3.24
+C0734,Amit Jones,Data Science,7.2,High School,Probability|Excel|Kubernetes|TensorFlow|Data Wrangling|Google Sheets|MLflow|Spark|Scala|Model Evaluation|Plotly,0,2,1,1,0,1,2.34
+C0735,Wei Anderson,Data Engineering,0.5,Master's,Kubernetes|Linux|CI/CD|NoSQL|LightGBM|Leadership|MLflow|Model Evaluation|Time Series Analysis|PostgreSQL|Tableau|Hugging Face|Hadoop|Data Modeling|Looker|MongoDB|Docker|Seaborn,2,1,3,1,0,1,2.21
+C0736,Shruti Mensah,Software Engineering,4.2,Master's,GCP|Teamwork|Hugging Face|Java|Python|Hadoop|Feature Engineering|Scala|TensorFlow|Seaborn|Reinforcement Learning|Data Wrangling|SQL|Communication|Kubeflow|NoSQL|ETL Pipelines|Project Management,1,1,7,0,0,1,2.36
+C0737,Chris Müller,Data Engineering,1.5,Bachelor's,Looker|Hadoop|R|AWS|Statistics|Probability|Kubernetes|Julia|Problem Solving|Linux|Teamwork|Power BI|Kubeflow|NLP,2,4,3,1,0,1,3.97
+C0738,Amit Martinez,Software Engineering,2.4,Master's,Model Evaluation|R|Tableau|Hadoop|Data Wrangling|A/B Testing|Data Modeling|Hugging Face|CI/CD|NoSQL|Communication|NumPy,2,0,4,2,0,0,2.8
+C0739,Aarav Joshi,Computer Vision,7.2,Bachelor's,Linear Algebra|SQL|Plotly|Statistics|C++|Docker|MySQL|PostgreSQL|Julia|Terraform|Google Sheets|Tableau|NumPy|MATLAB|Probability|Kubeflow,1,1,3,1,0,1,3.72
+C0740,Suresh Mehta,Quantitative Finance,3.8,Bachelor's,Plotly|Reinforcement Learning|Go|SQL|Looker|Linear Algebra|Business Analytics|LightGBM|AWS,1,4,3,0,1,1,2.54
+C0741,Shruti Castillo,Computer Vision,0.4,Associate's,MATLAB|Data Modeling|Spark|Computer Vision|Python|Reinforcement Learning|Deep Learning|Looker|Data Wrangling|Leadership|Communication|Stakeholder Management|C++|Hugging Face|AWS|Linear Algebra,0,1,4,1,0,1,2.93
+C0742,Michael Hassan,MLOps,4.1,Bachelor's,NoSQL|Julia|ETL Pipelines|Scikit-Learn|Computer Vision,0,2,2,0,2,1,3.6
+C0743,Sneha Liu,Quantitative Finance,6.1,Bachelor's,Reinforcement Learning|Linear Algebra|Airflow|Hadoop|Machine Learning|XGBoost|NoSQL|GCP|Kubernetes|Data Modeling,2,4,1,1,0,0,2.53
+C0744,Hassan Smith,Business Intelligence,5.2,High School,SQL|Statistics|Probability|NoSQL|Data Wrangling|R|Data Modeling|Terraform|NumPy|A/B Testing|Spark|Excel|GCP|Critical Thinking|TensorFlow|NLP,2,1,2,2,1,1,3.36
+C0745,Emily Gupta,Quantitative Finance,4.0,PhD,Machine Learning|CI/CD|Stakeholder Management|Computer Vision|Plotly|Time Series Analysis,1,1,6,4,2,0,2.92
+C0746,Pooja Jones,MLOps,5.0,Bachelor's,XGBoost|CI/CD|Data Modeling|Reinforcement Learning|C++|MongoDB|Terraform|Kafka|Airflow|MATLAB|GCP|PyTorch|Stakeholder Management|Business Analytics,1,1,2,1,3,1,3.09
+C0747,Maria Singh,MLOps,2.8,Master's,Hadoop|Kubernetes|LightGBM|Julia|PostgreSQL|Scikit-Learn,3,1,2,1,0,0,3.72
+C0748,Priya Okonkwo,Computer Vision,1.9,Associate's,PyTorch|ETL Pipelines|Deep Learning|LightGBM|TensorFlow|MATLAB|Business Analytics|Time Series Analysis|Kubernetes|Docker|Communication,0,1,5,3,0,1,2.09
+C0749,Aisha Nair,Business Intelligence,1.2,Bachelor's,Data Modeling|Terraform|Feature Engineering|LightGBM|NoSQL|Java|Matplotlib|Plotly|Model Evaluation|MongoDB|Communication|Airflow|Project Management,4,0,3,1,1,0,3.48
+C0750,Rahul Brown,Data Science,2.7,Bachelor's,PyTorch|Kubernetes|MongoDB|Tableau|Kafka,1,2,3,0,0,0,2.42
+C0751,Vikram Anderson,Data Science,3.9,Bachelor's,Problem Solving|NumPy|Airflow|Julia|Plotly,1,1,3,2,1,1,3.2
+C0752,Lucas Singh,Software Engineering,5.3,Master's,Model Evaluation|Hugging Face|MLflow|LightGBM|C++|Plotly|Looker|Kafka|Scikit-Learn|CI/CD|SQL|GCP,0,1,2,1,0,0,3.32
+C0753,Neha Liu,Software Engineering,1.8,PhD,Critical Thinking|Data Wrangling|Julia|NumPy|Azure|PostgreSQL|Hadoop|Terraform|Plotly|GCP|Google Sheets|MLflow|R|XGBoost|NLP|Reinforcement Learning,0,1,5,1,0,1,2.05
+C0754,Amanda Brown,Cloud Engineering,3.1,Bachelor's,Airflow|ETL Pipelines|PostgreSQL|Business Analytics|Problem Solving|Python|Go|Terraform|Keras|MATLAB|Pandas|Power BI,1,0,4,0,1,0,4.0
+C0755,Deepak Anderson,Cloud Engineering,2.3,Master's,ETL Pipelines|Spark|Go|Teamwork|TensorFlow,2,0,5,3,0,0,3.27
+C0756,Meera Williams,Machine Learning,2.5,Master's,CatBoost|PyTorch|ETL Pipelines|MySQL|Problem Solving|Excel|SQL|Power BI|Teamwork|Model Evaluation|Feature Engineering|LightGBM|NumPy|MongoDB|Looker|Spark|Deep Learning|Docker,0,4,5,5,0,1,2.98
+C0757,Maria Patel,Data Science,3.6,Bachelor's,Plotly|Hadoop|Power BI|Kubeflow|Go|Kafka,0,2,3,1,2,1,2.87
+C0758,Isha Nair,Computer Vision,0.7,Master's,R|Tableau|Keras|MongoDB|Communication|Plotly|Hugging Face|Stakeholder Management|Reinforcement Learning|Feature Engineering|Critical Thinking,1,3,5,1,0,0,3.72
+C0759,Fatima Chen,Machine Learning,3.7,PhD,Reinforcement Learning|Data Wrangling|Java|Power BI|Kubernetes|MATLAB|Scala|C++|Google Sheets|Hugging Face,0,4,2,2,1,0,2.96
+C0760,Aisha Williams,Data Engineering,0.9,Bachelor's,Google Sheets|Machine Learning|MLflow|PyTorch|R|Julia|Kafka|Go|MATLAB|Seaborn|Kubeflow|Scikit-Learn|Data Wrangling|GCP|MySQL|XGBoost,2,1,7,0,0,0,2.18
+C0761,Vikram Martinez,Business Intelligence,4.3,Bachelor's,Business Analytics|Java|Tableau|Leadership|Google Sheets|Julia|Airflow,0,2,6,1,0,1,2.29
+C0762,Ashley Williams,Business Intelligence,3.6,PhD,Tableau|MySQL|Project Management|Plotly|Power BI|C++|Computer Vision|Teamwork|Reinforcement Learning|Pandas,3,0,3,0,0,0,2.81
+C0763,Matthew Singh,Data Science,2.0,Bachelor's,R|Data Wrangling|NoSQL|CatBoost|Airflow|GCP|Model Evaluation|Kubernetes|Kubeflow|TensorFlow|Reinforcement Learning|Java|Linux|Go|Plotly|NumPy,2,1,3,0,0,0,2.35
+C0764,Divya Hassan,Data Science,0.9,Master's,Time Series Analysis|Power BI|Go|Excel|Data Wrangling|Teamwork|ETL Pipelines|LightGBM|Seaborn|Hadoop|Probability|Spark|Machine Learning|C++|CI/CD|Stakeholder Management,0,2,4,1,2,1,2.55
+C0765,Omar Ahmed,Data Engineering,5.0,Master's,XGBoost|MATLAB|Kubernetes|AWS|Google Sheets|Probability|Azure|Critical Thinking|Docker|Pandas,2,1,3,1,1,0,2.5
+C0766,Aisha Ahmed,Data Engineering,3.5,Bachelor's,MLflow|Kubernetes|Feature Engineering|Google Sheets|AWS|Data Wrangling|Teamwork|Kafka|Excel,0,1,6,2,0,1,2.3
+C0767,Arjun Wang,MLOps,5.1,Associate's,Stakeholder Management|Tableau|Deep Learning|Spark|Airflow|Business Analytics|CI/CD|Model Evaluation|Kubeflow|XGBoost|TensorFlow|CatBoost|MLflow|NLP|Linux|Scikit-Learn|Project Management|R,1,1,7,0,0,1,3.31
+C0768,Zara Ivanov,Data Science,0.2,High School,Julia|TensorFlow|Data Wrangling|Critical Thinking|SQL|Google Sheets|AWS|Project Management|Statistics|PostgreSQL|Kubernetes|Seaborn|Scikit-Learn|Computer Vision|Data Modeling|NumPy|Business Analytics,2,3,5,5,1,0,3.41
+C0769,Michael Ali,Business Intelligence,1.0,PhD,NoSQL|Tableau|Docker|Teamwork|Linear Algebra|Time Series Analysis,0,1,6,2,0,0,2.82
+C0770,Hassan Patel,Computer Vision,3.3,Master's,ETL Pipelines|PyTorch|Python|Terraform|MATLAB|NLP|Power BI|Docker,1,1,4,2,0,0,2.54
+C0771,Kavya Brown,MLOps,2.1,PhD,CI/CD|PostgreSQL|Stakeholder Management|Pandas|Docker|Julia|ETL Pipelines|NLP|Python|PyTorch|GCP|TensorFlow,0,1,4,2,1,1,2.1
+C0772,Isha Smith,Machine Learning,4.5,Bachelor's,Docker|Airflow|MySQL|PyTorch|ETL Pipelines|Kubernetes|PostgreSQL|Reinforcement Learning|CI/CD|NLP|Linear Algebra,1,0,1,1,3,0,3.67
+C0773,Aisha Joshi,Business Intelligence,1.9,PhD,A/B Testing|CI/CD|Business Analytics|Data Wrangling|MATLAB|Problem Solving,3,3,8,1,0,1,2.32
+C0774,Lin Gupta,Cloud Engineering,1.1,Associate's,NoSQL|Looker|Probability|Seaborn|Kubernetes|Statistics|LightGBM|Stakeholder Management|SQL|Kubeflow|Power BI|Linear Algebra|Java,2,1,5,5,0,1,2.24
+C0775,Nikhil Kumar,Data Science,0.5,Master's,Data Wrangling|Time Series Analysis|Looker|Power BI|Probability|Machine Learning|PostgreSQL|TensorFlow|C++|Azure,2,3,0,2,0,1,2.13
+C0776,Ivan Ivanov,Software Engineering,5.6,Bachelor's,Pandas|A/B Testing|Kafka|Linux|Looker|PostgreSQL|Google Sheets|Feature Engineering|Seaborn,1,2,3,1,1,0,2.29
+C0777,Divya Tanaka,Data Science,3.1,Bachelor's,AWS|Reinforcement Learning|NLP|Kubeflow|Power BI|Julia|NoSQL,0,1,8,1,1,1,3.72
+C0778,Suresh Singh,Quantitative Finance,6.5,Bachelor's,Looker|LightGBM|Go|SQL|Business Analytics,4,3,1,0,0,0,2.34
+C0779,Wei Verma,Data Science,6.3,Bachelor's,Kubernetes|Python|Business Analytics|Terraform|Seaborn|Plotly|Feature Engineering,3,1,3,2,0,0,2.55
+C0780,Rohan Davis,MLOps,0.9,Bachelor's,Machine Learning|Airflow|XGBoost|Kafka|Julia|MLflow|AWS|Linear Algebra|Communication|Scala,4,2,1,2,0,0,3.85
+C0781,Priya Mehta,Machine Learning,0.6,Master's,Go|MATLAB|R|Keras|Stakeholder Management|A/B Testing|Reinforcement Learning|Docker|Kafka,1,0,4,2,2,0,2.77
+C0782,Nina Liu,MLOps,2.8,PhD,Computer Vision|TensorFlow|Docker|Julia|R|GCP|ETL Pipelines|PyTorch|SQL|XGBoost|Communication|Google Sheets|Kubernetes|Hugging Face|Model Evaluation|Airflow,3,2,3,2,1,0,2.31
+C0783,Carlos Müller,Machine Learning,5.8,Bachelor's,Python|GCP|Excel|Azure|MySQL|MATLAB|R|Tableau|Matplotlib|NumPy|C++,1,3,1,1,1,0,2.39
+C0784,Sofia Ali,Software Engineering,3.8,Master's,Python|PyTorch|SQL|GCP|Stakeholder Management|Keras|Linear Algebra|MongoDB|Problem Solving|CI/CD|NoSQL|Linux|Statistics|Reinforcement Learning|Time Series Analysis|NumPy|Spark|Docker,1,1,3,3,0,0,2.35
+C0785,Stephanie Hassan,Machine Learning,1.3,Bachelor's,Scikit-Learn|SQL|Python|MATLAB|Airflow|Computer Vision|R|Scala|Linux|Hugging Face|Terraform|Azure,1,3,5,2,0,0,2.59
+C0786,Rahul Nair,Data Engineering,0.9,High School,Model Evaluation|A/B Testing|TensorFlow|Docker|Probability|Stakeholder Management|Power BI|Julia|Matplotlib|GCP|Kubernetes|Java,1,1,5,3,0,0,2.84
+C0787,Yuki Kumar,Data Science,5.1,Bachelor's,C++|XGBoost|Feature Engineering|Scala|Google Sheets|Azure|Teamwork|NLP,1,1,2,1,1,1,3.4
+C0788,Vikram Castillo,NLP,4.8,Bachelor's,Kubernetes|Airflow|Model Evaluation|Data Modeling|NumPy,0,1,7,2,0,1,3.07
+C0789,Vikram Wilson,NLP,3.5,Bachelor's,R|Machine Learning|Leadership|Scala|MLflow|PyTorch|SQL|Teamwork|NumPy,1,1,4,2,1,0,2.05
+C0790,Omar Smith,Quantitative Finance,5.6,Associate's,Airflow|PostgreSQL|Azure|Deep Learning|Go|MySQL|LightGBM|Kubernetes|Plotly|TensorFlow,2,1,2,0,1,0,2.71
+C0791,Pooja Mehta,Data Engineering,5.1,Bachelor's,Scikit-Learn|MySQL|Feature Engineering|Machine Learning|Deep Learning|Python|Pandas|Azure|MATLAB|MLflow|TensorFlow|Linux|R|Terraform|A/B Testing|Spark,1,2,4,3,0,0,3.94
+C0792,Nina Martinez,Data Science,4.4,Bachelor's,XGBoost|Kubeflow|Power BI|Seaborn|MongoDB|NumPy|Docker|Time Series Analysis|Tableau|R|CatBoost|AWS|Machine Learning|MySQL|Data Wrangling|Leadership|Go,4,1,5,0,3,0,2.78
+C0793,Nina Hassan,Software Engineering,3.3,Bachelor's,MySQL|Machine Learning|Critical Thinking|Seaborn|Spark|Data Wrangling|Azure|Scikit-Learn|Plotly|ETL Pipelines|Linux|Computer Vision|CI/CD,1,1,1,3,0,0,2.25
+C0794,Chris Rodriguez,MLOps,7.6,Bachelor's,MLflow|Kubernetes|GCP|Business Analytics|Matplotlib|Hugging Face|Python|XGBoost|Kubeflow|PyTorch|Computer Vision|Seaborn|Keras|Scikit-Learn|Hadoop|MySQL,2,1,6,1,2,0,3.31
+C0795,Amanda Patel,Business Intelligence,4.9,Bachelor's,MongoDB|PyTorch|Communication|A/B Testing|Probability|MLflow|Reinforcement Learning,1,2,3,1,1,0,2.39
+C0796,Lena Jones,Data Engineering,4.7,Master's,MLflow|Linear Algebra|R|MySQL|Problem Solving|Deep Learning|Plotly|Looker|Terraform|CI/CD|SQL|Leadership|Scikit-Learn|Communication|Seaborn|Matplotlib|NoSQL,3,2,4,1,1,0,2.41
+C0797,Aarav Wang,Cloud Engineering,2.3,Bachelor's,Matplotlib|Julia|Critical Thinking|Deep Learning|Hadoop|Teamwork|Google Sheets|MySQL|GCP|ETL Pipelines|Kubeflow,3,4,6,0,2,0,2.22
+C0798,Michael Kumar,Quantitative Finance,1.3,Master's,MongoDB|Computer Vision|Spark|Kubeflow|LightGBM|PostgreSQL|GCP|PyTorch|Azure|Scikit-Learn|Airflow|MySQL|ETL Pipelines,1,2,3,1,0,0,2.08
+C0799,Lena Sharma,Data Science,2.6,PhD,Spark|XGBoost|Kubeflow|Python|GCP|Go|Matplotlib|PyTorch|Computer Vision|Azure,1,0,1,1,2,0,3.6
+C0800,Ashley Verma,Data Science,3.8,Bachelor's,Critical Thinking|CatBoost|Computer Vision|Deep Learning|MLflow|Statistics|Java|Linux|Business Analytics|AWS|MySQL|PyTorch|Stakeholder Management|Scikit-Learn|Linear Algebra|Time Series Analysis|Scala|MongoDB,4,4,4,2,1,0,2.32
+C0801,Jessica Reddy,Data Science,6.2,Bachelor's,Hugging Face|Business Analytics|Looker|Python|TensorFlow|MATLAB|Data Modeling|MongoDB|Google Sheets|Teamwork|Machine Learning|MySQL,0,2,3,2,1,0,2.14
+C0802,Emily Kumar,Data Engineering,7.0,Bachelor's,SQL|Kubeflow|Machine Learning|MLflow|Model Evaluation|Hadoop|Java|NumPy|Critical Thinking|TensorFlow,4,2,3,4,3,0,3.76
+C0803,Wei Wilson,Data Engineering,5.5,Bachelor's,Pandas|Python|Airflow|Docker|Reinforcement Learning|NLP|Scala|Deep Learning|SQL|Critical Thinking|PostgreSQL|Linear Algebra,1,2,6,2,0,0,3.51
+C0804,Ivan Müller,Data Science,3.5,Master's,TensorFlow|Stakeholder Management|R|CI/CD|Deep Learning|NLP|Computer Vision|Scala|Reinforcement Learning|Looker|Excel|NumPy,0,4,6,4,3,0,3.43
+C0805,Amit Ivanov,Software Engineering,5.6,Bachelor's,PyTorch|Spark|A/B Testing|Scala|Teamwork|Kubeflow|Go,1,1,1,0,0,1,2.23
+C0806,Sarah Singh,Data Science,3.2,Associate's,Teamwork|Excel|Keras|Airflow|Plotly|Deep Learning|NoSQL|Business Analytics|LightGBM|Linux|SQL|MLflow|Time Series Analysis|Reinforcement Learning|MongoDB|Seaborn|Data Wrangling|ETL Pipelines,4,2,7,5,0,0,3.66
+C0807,Pooja Patel,Business Intelligence,8.0,Associate's,LightGBM|ETL Pipelines|Keras|Hadoop|Data Modeling|Plotly|NoSQL|Google Sheets|Hugging Face|Problem Solving|Kafka|Docker,2,0,4,1,0,0,2.05
+C0808,Sarah Davis,Business Intelligence,3.0,Master's,CatBoost|Spark|Excel|Seaborn|Pandas|Kubernetes,2,0,1,2,0,0,3.19
+C0809,Meera Mehta,Quantitative Finance,0.9,Bachelor's,Hadoop|A/B Testing|Terraform|MongoDB|Time Series Analysis,0,1,7,2,1,0,3.48
+C0810,Ananya Martinez,Business Intelligence,2.5,Master's,Linux|PostgreSQL|Spark|R|Hadoop|Seaborn,1,1,8,2,0,0,3.39
+C0811,Suresh Ivanov,Machine Learning,5.5,Master's,NLP|Time Series Analysis|Leadership|MLflow|Stakeholder Management|Data Wrangling|Reinforcement Learning|SQL,2,1,2,2,3,1,2.28
+C0812,Ashley Jones,MLOps,3.7,PhD,Leadership|GCP|Python|MLflow|Project Management|Reinforcement Learning|NLP|Deep Learning|C++|NumPy,1,1,4,1,0,1,3.76
+C0813,Lena Smith,MLOps,0.9,PhD,Project Management|C++|Java|Machine Learning|Linear Algebra|SQL|MATLAB,0,2,4,2,1,1,2.0
+C0814,Nikhil Garcia,NLP,0.8,Bachelor's,Scikit-Learn|Linux|Spark|Seaborn|Google Sheets|Data Modeling|Teamwork|MATLAB|Matplotlib|Pandas,1,4,6,4,0,1,2.22
+C0815,David Wang,MLOps,1.5,Bachelor's,Stakeholder Management|LightGBM|Terraform|Python|Communication|Kubeflow,0,3,3,0,1,0,2.54
+C0816,Ivan Johnson,Quantitative Finance,2.8,PhD,Machine Learning|Feature Engineering|AWS|PostgreSQL|Docker|Kubernetes|Linear Algebra|Plotly|LightGBM|R|Critical Thinking|NoSQL,1,4,3,2,0,1,2.32
+C0817,Amit Rodriguez,Software Engineering,1.0,Bachelor's,AWS|Linear Algebra|R|CatBoost|Java|Pandas|Project Management|Kafka|Python|Azure|Kubernetes|Time Series Analysis|Keras,1,2,1,2,0,0,3.33
+C0818,Carlos Ahmed,Computer Vision,5.4,Master's,Hugging Face|CI/CD|MongoDB|Kubeflow|Computer Vision|Problem Solving|Linear Algebra|Plotly|NoSQL,3,4,4,1,2,0,3.33
+C0819,Kavya Castillo,Business Intelligence,3.4,Master's,CatBoost|Pandas|PyTorch|Model Evaluation|Terraform|NumPy|Hadoop|Kafka|PostgreSQL|Project Management|Teamwork|Hugging Face|Matplotlib|Seaborn|Business Analytics|MongoDB|Python|Scala,1,3,5,5,1,1,2.06
+C0820,Priya Anderson,NLP,2.2,Master's,Terraform|ETL Pipelines|Stakeholder Management|PostgreSQL|Machine Learning|C++|Teamwork|LightGBM|Feature Engineering|Linear Algebra|Kubeflow|XGBoost|MLflow|NLP|Computer Vision|Matplotlib,2,4,0,2,0,0,2.67
+C0821,Michael Verma,NLP,1.3,High School,Data Wrangling|Teamwork|LightGBM|Spark|Machine Learning|Go|Deep Learning|TensorFlow|Hugging Face|MATLAB|Airflow|Excel|Kubernetes|Data Modeling|Azure|Kafka,0,1,3,0,3,0,2.72
+C0822,Amanda Martinez,Data Engineering,6.7,Bachelor's,GCP|PyTorch|Looker|PostgreSQL|Linux|Probability|Matplotlib|R|TensorFlow|Azure|Excel,1,1,1,2,2,0,2.71
+C0823,Nina Jones,MLOps,5.5,Master's,Docker|Communication|Linear Algebra|TensorFlow|Teamwork|Kubeflow|Model Evaluation|Terraform|Go|NLP|Java,2,2,5,2,0,0,3.51
+C0824,Priya Castillo,Cloud Engineering,4.1,Bachelor's,Data Modeling|Terraform|Project Management|NLP|AWS|NumPy|C++|Linux|Model Evaluation|Airflow|PyTorch|Stakeholder Management|Seaborn|Docker|Plotly|XGBoost|A/B Testing,4,4,2,3,1,0,3.11
+C0825,Rohan Anderson,Quantitative Finance,7.5,Bachelor's,Java|Spark|Business Analytics|Keras|GCP|Model Evaluation|Hadoop|Scala|Plotly|LightGBM|Terraform|CatBoost|PostgreSQL|Leadership|Kubernetes,2,0,5,1,0,0,2.52
+C0826,Sneha Williams,Cloud Engineering,7.1,Bachelor's,Linux|Communication|Azure|Business Analytics|Probability|Computer Vision|Terraform|Airflow|C++|ETL Pipelines,2,1,5,1,0,0,3.71
+C0827,Wei Verma,Computer Vision,4.9,Bachelor's,Scikit-Learn|Linux|Leadership|Reinforcement Learning|TensorFlow|MLflow|Python|Data Wrangling|R|PostgreSQL|Plotly|XGBoost|Computer Vision|Excel|Statistics|Looker,1,0,2,1,0,1,2.01
+C0828,Kai Hassan,Quantitative Finance,4.0,Bachelor's,Computer Vision|Excel|Data Wrangling|Hadoop|Kafka|Statistics|Scala|Airflow|R|Power BI|PostgreSQL|MongoDB|GCP|Stakeholder Management,1,2,2,1,0,0,3.78
+C0829,Fatima Nair,MLOps,0.4,Bachelor's,Model Evaluation|Tableau|Docker|Terraform|CI/CD|Data Modeling|Kubeflow|GCP|MLflow|NumPy|TensorFlow|Scikit-Learn|Airflow|Go|SQL|Plotly|Deep Learning,0,2,4,0,2,0,2.49
+C0830,David Sharma,MLOps,3.6,Master's,Reinforcement Learning|Terraform|Seaborn|Power BI|Julia|NoSQL|C++|GCP|Java,1,1,2,1,1,1,3.34
+C0831,Carlos Chen,Data Science,3.7,Bachelor's,Scala|Google Sheets|Java|Pandas|Julia|NLP|MATLAB|Looker|Teamwork|ETL Pipelines|Hadoop|Tableau|Matplotlib,1,1,3,2,0,1,3.0
+C0832,Daniel Reddy,Computer Vision,2.8,Bachelor's,NumPy|Airflow|PostgreSQL|Business Analytics|MongoDB|Keras,1,0,6,1,1,1,2.09
+C0833,Sofia Nair,Business Intelligence,5.6,Master's,Communication|Linear Algebra|Probability|Hugging Face|Time Series Analysis|Seaborn|A/B Testing|Spark|Python|C++|MongoDB|NumPy|Data Modeling|Linux|Pandas|Deep Learning|Google Sheets,4,2,2,4,0,0,2.5
+C0834,James Hassan,Quantitative Finance,1.9,PhD,SQL|CatBoost|TensorFlow|NoSQL|Data Wrangling|Deep Learning|Scikit-Learn|Airflow|Feature Engineering|C++|Google Sheets|Kubeflow|Business Analytics,2,2,7,0,1,0,2.12
+C0835,Sarah Jones,Cloud Engineering,7.3,Associate's,CI/CD|Spark|Pandas|Computer Vision|NLP,1,1,1,0,0,0,3.39
+C0836,Jessica Kumar,MLOps,3.6,Bachelor's,Statistics|PostgreSQL|NumPy|Time Series Analysis|Kafka|C++|CI/CD|Keras|Computer Vision|Python|PyTorch|Seaborn|Go|Java,4,3,0,0,0,1,3.71
+C0837,Ivan Chen,Computer Vision,0.6,Master's,Terraform|CatBoost|XGBoost|NoSQL|Critical Thinking|ETL Pipelines|Excel|Matplotlib|Stakeholder Management|TensorFlow|SQL,0,3,2,3,1,1,3.77
+C0838,Ananya Ali,Quantitative Finance,0.8,PhD,Google Sheets|CatBoost|Data Wrangling|AWS|Matplotlib,0,2,2,1,1,1,2.84
+C0839,Neha Garcia,Data Science,6.9,Bachelor's,Data Modeling|Leadership|Go|Java|Model Evaluation|Google Sheets|MongoDB|Hadoop|PostgreSQL|Terraform,3,3,2,2,0,1,2.25
+C0840,Matthew Davis,Business Intelligence,1.2,Bachelor's,Communication|Hadoop|Statistics|Scala|CatBoost|Feature Engineering|Business Analytics|Linear Algebra|Computer Vision|Looker,0,1,2,2,0,0,2.42
+C0841,Fatima Martinez,NLP,2.5,Bachelor's,A/B Testing|ETL Pipelines|R|Machine Learning|Computer Vision|Seaborn|Power BI|Teamwork,1,2,4,0,0,1,3.12
+C0842,Lucas Johnson,Data Science,5.1,Bachelor's,Pandas|Machine Learning|Azure|A/B Testing|Julia|MLflow|Reinforcement Learning|Time Series Analysis,1,0,3,0,0,0,3.84
+C0843,Isha Nair,Data Engineering,4.4,Master's,PostgreSQL|R|PyTorch|Terraform|Problem Solving|NumPy|Feature Engineering|Model Evaluation|Time Series Analysis,1,0,5,2,2,0,3.97
+C0844,Priya Smith,Cloud Engineering,6.7,Bachelor's,PostgreSQL|Computer Vision|Matplotlib|AWS|Problem Solving|Plotly|SQL|Hadoop|Terraform|Communication,0,1,2,1,1,1,2.93
+C0845,James Anderson,Data Engineering,2.6,Bachelor's,PostgreSQL|Probability|Python|CatBoost|Stakeholder Management|MATLAB,1,1,2,2,0,0,3.27
+C0846,Divya Garcia,MLOps,3.1,Bachelor's,TensorFlow|R|Pandas|Julia|Airflow|Hugging Face|Machine Learning|PyTorch|ETL Pipelines|Java|Excel|Terraform|Stakeholder Management|MySQL,1,0,5,1,0,1,3.35
+C0847,Zhang Jones,Business Intelligence,3.8,Bachelor's,Linux|Data Modeling|Critical Thinking|Java|Kafka|Plotly,0,2,3,2,0,0,2.04
+C0848,Kavya Brown,NLP,0.1,Master's,Pandas|MLflow|Google Sheets|Data Wrangling|C++|Stakeholder Management|Seaborn|Docker|SQL|Probability|Scala|R|Teamwork|Machine Learning|NoSQL|XGBoost|Data Modeling|Linux,1,4,2,1,0,1,3.29
+C0849,Yuki Hassan,Quantitative Finance,2.1,PhD,Go|NoSQL|ETL Pipelines|Keras|AWS|Problem Solving|Communication|Scikit-Learn|Looker|NumPy|Project Management|Machine Learning|XGBoost|Time Series Analysis,0,1,5,1,1,0,2.68
+C0850,Zhang Castillo,Computer Vision,3.4,PhD,Feature Engineering|Scala|LightGBM|Tableau|Project Management|Java|Plotly|Hugging Face|MLflow|Hadoop|Teamwork,2,1,5,3,0,0,2.09
+C0851,Ivan Martinez,Data Engineering,2.6,Master's,Statistics|Java|Airflow|Hadoop|Go|Reinforcement Learning|Deep Learning|MongoDB|Matplotlib|Stakeholder Management|AWS|XGBoost,2,2,2,2,0,1,2.81
+C0852,Fatima Kumar,Computer Vision,4.1,Bachelor's,NumPy|Scikit-Learn|Teamwork|Power BI|Time Series Analysis|Data Wrangling|Deep Learning|Communication,0,3,5,1,0,1,2.1
+C0853,Shruti Hassan,NLP,0.4,Bachelor's,Hugging Face|Pandas|Java|Problem Solving|MLflow|Teamwork|Go|Scala,0,1,4,0,0,0,2.84
+C0854,Matthew Kumar,MLOps,5.0,Master's,Excel|Java|TensorFlow|Machine Learning|Seaborn|Model Evaluation|Computer Vision|Keras|C++|A/B Testing|Terraform|NLP,2,4,6,2,1,1,3.88
+C0855,Wei Wang,Data Engineering,6.8,Bachelor's,Machine Learning|ETL Pipelines|Excel|Docker|Power BI|Scikit-Learn|Model Evaluation|MATLAB|Terraform|Kubeflow|NoSQL|CI/CD,1,1,1,2,1,1,2.42
+C0856,Maria Kumar,Machine Learning,0.3,Master's,NLP|PostgreSQL|Problem Solving|A/B Testing|MATLAB|Tableau|Scala|R|C++|Airflow|Statistics|MySQL|Looker|NoSQL|Linux|SQL|Java|Scikit-Learn,0,2,5,2,1,0,2.84
+C0857,Sneha Castillo,Software Engineering,3.2,Bachelor's,Problem Solving|Project Management|Kafka|Julia|Data Wrangling|ETL Pipelines|Go|Tableau|Terraform|NoSQL,3,1,5,1,0,0,3.44
+C0858,Sofia Rodriguez,Computer Vision,5.2,Master's,Data Modeling|NoSQL|Data Wrangling|A/B Testing|Hadoop|Azure|PostgreSQL|Deep Learning|Keras|Kubeflow|Problem Solving|Teamwork|MATLAB|Scikit-Learn|ETL Pipelines|MongoDB|Terraform|Model Evaluation,2,1,6,0,0,0,3.75
+C0859,Zhang Hassan,Computer Vision,4.8,High School,Hugging Face|Statistics|Linux|Java|Matplotlib|Kubeflow|Terraform|Model Evaluation|R|Data Wrangling|Excel|Time Series Analysis,3,2,4,4,0,0,3.29
+C0860,Michael Gupta,Quantitative Finance,3.4,PhD,TensorFlow|Go|Data Wrangling|Hadoop|Java|A/B Testing|Leadership|MLflow|AWS|Hugging Face|Pandas|LightGBM|NumPy|Deep Learning|NLP|Kubernetes|Azure,2,1,4,1,1,1,3.62
+C0861,Lin Anderson,Data Science,4.9,PhD,Communication|NLP|Docker|Keras|Business Analytics|Deep Learning|MATLAB|Computer Vision|Machine Learning|MLflow|Probability|Matplotlib|CatBoost,0,0,4,3,0,0,3.38
+C0862,Emily Ivanov,Business Intelligence,4.2,PhD,MongoDB|Project Management|Docker|Stakeholder Management|Java|Google Sheets|MATLAB|Looker|Spark|Julia|Data Wrangling|Seaborn|MySQL|Business Analytics|Go|Communication|NLP|Hadoop,1,2,1,0,3,1,2.72
+C0863,Fatima Anderson,NLP,3.3,Bachelor's,Go|Azure|Scikit-Learn|TensorFlow|Spark|PyTorch|LightGBM|CI/CD|GCP|Linux|MySQL|Data Wrangling|Looker|C++|R|Kubernetes|Pandas|Julia,0,2,3,0,1,1,2.3
+C0864,Sneha Mensah,NLP,2.0,PhD,Azure|C++|AWS|Project Management|Scikit-Learn|Data Modeling|Probability|Communication|CatBoost|Critical Thinking|Feature Engineering|Kafka|Plotly|Deep Learning|MongoDB,0,0,7,2,2,0,2.68
+C0865,Stephanie Nair,Cloud Engineering,3.3,Master's,XGBoost|Scikit-Learn|Terraform|PostgreSQL|CI/CD|Kafka,2,0,4,1,0,0,2.58
+C0866,Priya Johnson,Data Engineering,3.3,Bachelor's,Teamwork|Machine Learning|Hadoop|Google Sheets|ETL Pipelines|MongoDB|Airflow|AWS|CI/CD|Kubernetes,3,1,6,1,0,0,2.98
+C0867,Wei Castillo,MLOps,2.3,Master's,Seaborn|Kubernetes|GCP|Pandas|XGBoost|NumPy|MLflow|Reinforcement Learning|NLP|NoSQL|Deep Learning,3,0,4,0,0,0,2.24
+C0868,Sofia Martinez,Quantitative Finance,7.9,Bachelor's,PyTorch|Stakeholder Management|Hadoop|Statistics|Model Evaluation|Project Management|MySQL|Communication|Spark|TensorFlow,1,2,4,3,3,0,2.43
+C0869,Ananya Wang,Business Intelligence,5.8,Bachelor's,Spark|Tableau|ETL Pipelines|Deep Learning|Hadoop|Plotly|Critical Thinking|Azure|Kubernetes|Data Wrangling|Project Management|Hugging Face,2,0,2,0,0,0,3.02
+C0870,Sarah Müller,Quantitative Finance,4.1,Master's,Julia|TensorFlow|Project Management|Critical Thinking|Linux|Scala|Feature Engineering|Kafka|Kubeflow|Data Modeling|NLP|Communication|Google Sheets|NoSQL|CatBoost|Go|Computer Vision|Deep Learning,1,2,7,0,1,1,2.58
+C0871,Lin Hassan,Data Engineering,2.6,Bachelor's,Matplotlib|Keras|XGBoost|MLflow|Linux|MATLAB,0,1,4,1,0,0,3.06
+C0872,Ashley Garcia,Machine Learning,0.2,PhD,GCP|SQL|PyTorch|Computer Vision|LightGBM|Power BI|MLflow|Statistics,0,1,1,1,0,1,2.61
+C0873,Yuki Smith,MLOps,4.4,Bachelor's,SQL|Linear Algebra|Python|Data Wrangling|Scikit-Learn|Data Modeling|MongoDB|Go|LightGBM|Azure|Java|Time Series Analysis|MATLAB|GCP,0,1,2,1,0,0,2.31
+C0874,Jessica Singh,Software Engineering,2.9,Master's,Problem Solving|Hadoop|MongoDB|Linear Algebra|TensorFlow|CatBoost|NumPy|AWS|C++,2,4,2,1,1,0,2.17
+C0875,Michael Chen,Business Intelligence,6.9,Bachelor's,Feature Engineering|Google Sheets|Teamwork|Data Wrangling|Time Series Analysis|Kafka|GCP|Docker|Leadership|Looker|Keras|Statistics|Pandas|Kubernetes|A/B Testing,2,3,5,4,1,0,2.97
+C0876,Emily Mehta,Data Engineering,5.5,Bachelor's,NumPy|Hugging Face|AWS|Keras|Hadoop|MATLAB|Data Wrangling|Statistics|A/B Testing,1,1,3,3,0,0,2.04
+C0877,James Anderson,Software Engineering,6.4,Bachelor's,Computer Vision|Seaborn|SQL|MLflow|Probability|Model Evaluation|Power BI|Communication,3,1,4,4,0,1,3.39
+C0878,Isha Verma,NLP,4.7,Bachelor's,Hadoop|Java|PyTorch|Excel|CI/CD|Matplotlib|MATLAB|Stakeholder Management|Computer Vision|Kafka|Data Modeling|Airflow,4,1,4,1,0,0,3.3
+C0879,Sofia Mensah,Cloud Engineering,4.3,Associate's,ETL Pipelines|Communication|Statistics|NoSQL|MySQL|Data Wrangling|Java|Excel|CI/CD|Leadership|Kafka|Scala|Critical Thinking|Python|Machine Learning,0,3,4,4,1,0,2.39
+C0880,Rahul Garcia,Business Intelligence,3.9,Master's,NoSQL|Tableau|Excel|Stakeholder Management|CI/CD|Keras|PyTorch|Linear Algebra|MLflow|Spark|Julia|Matplotlib|Pandas|Communication|Project Management,2,1,1,0,1,0,2.04
+C0881,Amanda Liu,Software Engineering,4.0,Master's,Plotly|Julia|CatBoost|Java|Tableau,1,1,4,4,0,1,2.8
+C0882,Ivan Reddy,Data Science,2.2,Master's,MATLAB|Reinforcement Learning|Tableau|PyTorch|A/B Testing|Teamwork|XGBoost|TensorFlow|Scala|Linear Algebra|Airflow|Java|Critical Thinking|Model Evaluation|Deep Learning|Python|Leadership,2,2,1,0,1,1,2.62
+C0883,Stephanie Anderson,Software Engineering,3.2,Bachelor's,Stakeholder Management|R|Probability|Communication|Leadership|NoSQL|Matplotlib|Julia|Scala|Plotly|Data Modeling|Machine Learning|CI/CD|MLflow|Teamwork,4,1,7,2,0,1,3.62
+C0884,Suresh Mehta,Data Engineering,5.2,Master's,Docker|Keras|Business Analytics|Linear Algebra|NLP|NumPy|Pandas|Statistics|MLflow|Java|Communication|Seaborn|Go,1,2,3,5,1,0,3.83
+C0885,Zara Brown,Data Engineering,6.6,Bachelor's,NumPy|Spark|Matplotlib|Communication|Leadership|R|Stakeholder Management|MySQL|Java,2,0,2,3,1,0,3.19
+C0886,Chris Müller,Quantitative Finance,0.8,Bachelor's,Kubeflow|Model Evaluation|NLP|Linux|GCP|Airflow|C++|XGBoost|MLflow|Data Modeling|Statistics|Docker|MySQL|Pandas|NoSQL|Seaborn|ETL Pipelines,0,2,8,2,0,0,3.09
+C0887,Amanda Hassan,Data Engineering,2.2,Master's,NumPy|MySQL|Excel|CI/CD|MATLAB|Plotly|Scikit-Learn|Probability|Terraform|Looker|Linux|Deep Learning,3,2,3,1,0,0,3.23
+C0888,Amanda Anderson,Data Science,0.7,Bachelor's,Feature Engineering|Kafka|AWS|C++|Leadership,4,2,5,2,0,0,3.63
+C0889,Neha Tanaka,Machine Learning,0.6,Bachelor's,Docker|Data Wrangling|Azure|Machine Learning|Linux|TensorFlow|Matplotlib|Model Evaluation|Probability|NoSQL|Linear Algebra|Feature Engineering|PostgreSQL|Terraform|Airflow|CatBoost|Kubeflow|Scikit-Learn,1,1,0,3,2,0,3.55
+C0890,Emily Jones,Quantitative Finance,1.2,Master's,Communication|Model Evaluation|MATLAB|CatBoost|Linux|Power BI|Deep Learning|Tableau|Kafka|Pandas|Kubeflow|MLflow|Go|LightGBM|Hadoop|Java|XGBoost|SQL,1,0,2,3,2,0,2.99
+C0891,Stephanie Gupta,MLOps,1.2,Master's,ETL Pipelines|MySQL|Julia|C++|Scala|GCP|Seaborn|PyTorch|R|CI/CD,0,1,4,0,0,1,2.81
+C0892,Amanda Müller,Machine Learning,2.8,High School,Stakeholder Management|Python|Google Sheets|Model Evaluation|Time Series Analysis|Problem Solving|Hadoop|Julia|Matplotlib,2,2,3,4,3,1,2.53
+C0893,Sarah Verma,Machine Learning,2.2,Bachelor's,Model Evaluation|CI/CD|Power BI|AWS|SQL|NumPy|Linear Algebra|Hugging Face|PyTorch|Linux|NLP|Time Series Analysis|Go,0,4,4,1,2,0,3.35
+C0894,Michael Rodriguez,NLP,4.1,Bachelor's,C++|MongoDB|XGBoost|Scikit-Learn|Statistics|Feature Engineering|Teamwork|AWS|Deep Learning|Matplotlib|Scala|Stakeholder Management|Hugging Face|Communication|A/B Testing|MLflow|MATLAB,0,1,7,3,0,1,3.72
+C0895,Chris Ivanov,MLOps,3.7,Bachelor's,PyTorch|Excel|PostgreSQL|Pandas|R|Reinforcement Learning|Airflow|Matplotlib|NLP|Julia|Communication|Computer Vision|CatBoost|Terraform|Kubernetes|Deep Learning|MySQL,0,2,5,0,0,1,3.86
+C0896,Suresh Davis,Computer Vision,4.0,High School,Power BI|Excel|Business Analytics|MATLAB|PostgreSQL|Deep Learning|Linux|SQL|Java|Machine Learning|Keras|Feature Engineering|MongoDB|Stakeholder Management|CatBoost|Python,1,3,3,1,1,0,2.21
+C0897,Aisha Sharma,Cloud Engineering,2.8,Bachelor's,Leadership|Feature Engineering|Hugging Face|Scala|NoSQL|CI/CD|Scikit-Learn|Plotly|AWS,1,0,2,0,0,0,2.24
+C0898,Vikram Okonkwo,Machine Learning,0.6,Master's,Probability|Keras|Data Wrangling|Linear Algebra|MySQL|Julia|Terraform|Google Sheets|Feature Engineering|Model Evaluation|Seaborn|MLflow|Project Management|A/B Testing|Hugging Face|PostgreSQL,0,0,2,0,0,0,2.01
+C0899,James Gupta,Machine Learning,3.9,Bachelor's,Scikit-Learn|Kafka|Critical Thinking|Google Sheets|Deep Learning|Hadoop|Time Series Analysis|Tableau|Machine Learning|XGBoost,2,2,1,3,0,0,2.93
+C0900,Kai Patel,Data Science,3.2,Bachelor's,ETL Pipelines|Business Analytics|Stakeholder Management|Critical Thinking|Statistics|Feature Engineering|PyTorch|Reinforcement Learning|PostgreSQL|Scikit-Learn|R|CI/CD|Data Modeling|Linux|Java,1,2,6,1,3,0,2.27
+C0901,Stephanie Mehta,Cloud Engineering,3.2,Master's,Linear Algebra|Kafka|Stakeholder Management|Data Modeling|Power BI|Seaborn|MySQL|Statistics|Azure|Communication|A/B Testing|MLflow|AWS,1,2,1,0,0,1,3.68
+C0902,Kavya Williams,MLOps,4.0,Bachelor's,Python|Azure|Scikit-Learn|XGBoost|Pandas|Communication|Spark|Machine Learning|Data Wrangling|Linux|Docker|MLflow|TensorFlow|Business Analytics,3,2,2,0,1,0,3.09
+C0903,Zara Mehta,Data Engineering,4.6,Bachelor's,MLflow|CI/CD|Kubeflow|Business Analytics|A/B Testing|Hadoop|Kafka|TensorFlow|Scikit-Learn|Airflow|ETL Pipelines|MATLAB|Statistics|NumPy|Model Evaluation|Stakeholder Management|XGBoost,3,2,4,2,0,1,3.29
+C0904,Kai Wilson,Data Engineering,4.6,Bachelor's,SQL|PostgreSQL|Teamwork|Spark|Power BI|NoSQL|LightGBM|MATLAB|MySQL|Hugging Face|Scala,0,1,2,0,0,1,2.11
+C0905,Nina Gupta,Cloud Engineering,3.1,PhD,CI/CD|Tableau|MongoDB|PyTorch|MLflow,2,1,6,1,3,0,3.14
+C0906,Aarav Sharma,Data Science,1.0,Bachelor's,Machine Learning|CatBoost|Data Wrangling|Feature Engineering|Hadoop|Scala|Business Analytics|Statistics|PyTorch|Terraform|Data Modeling|Communication|Problem Solving|Airflow,3,0,2,1,2,1,2.93
+C0907,Meera Ali,NLP,7.2,High School,Problem Solving|Feature Engineering|ETL Pipelines|Project Management|GCP|Deep Learning|NLP,1,1,4,3,1,0,3.32
+C0908,Ananya Wilson,Data Engineering,0.7,Master's,TensorFlow|Data Modeling|Plotly|Julia|Scikit-Learn|PyTorch|Feature Engineering|PostgreSQL|Airflow|MLflow|Linux|Communication|Azure|A/B Testing,0,1,5,1,0,1,3.65
+C0909,Arjun Jones,Business Intelligence,4.8,High School,SQL|Seaborn|A/B Testing|Feature Engineering|Terraform|Excel|LightGBM|Julia|NumPy,0,3,2,0,0,0,2.15
+C0910,Ananya Nair,Business Intelligence,2.0,Master's,Scala|ETL Pipelines|Statistics|MLflow|Kubeflow|Power BI|PostgreSQL|Seaborn|MySQL|A/B Testing|NoSQL|CatBoost|Scikit-Learn|Leadership|Problem Solving|C++|Probability|Stakeholder Management,4,2,1,0,0,1,3.95
+C0911,Michael Patel,NLP,1.3,Master's,PyTorch|SQL|Power BI|Plotly|Airflow|Docker|Julia|Java|Data Wrangling|Data Modeling|Looker|Go|Reinforcement Learning|MATLAB|Terraform|Seaborn,0,0,6,0,0,0,2.08
+C0912,Pooja Kumar,NLP,5.3,Bachelor's,Go|Matplotlib|NumPy|ETL Pipelines|MySQL|Reinforcement Learning|Project Management|Hadoop|MLflow|Leadership|Looker|CatBoost|SQL,3,2,4,1,0,0,2.2
+C0913,Carlos Brown,Machine Learning,7.8,Bachelor's,Project Management|Looker|Hadoop|MongoDB|Kafka|Data Wrangling|R|Google Sheets|PyTorch|Probability|A/B Testing,2,1,8,2,0,0,2.96
+C0914,Lin Singh,Machine Learning,1.2,Bachelor's,Spark|Problem Solving|Excel|Machine Learning|MLflow|Tableau|Scala|Data Wrangling|Scikit-Learn|XGBoost|PyTorch|NumPy,2,4,4,2,1,1,2.21
+C0915,Suresh Liu,Cloud Engineering,1.6,Bachelor's,Problem Solving|Hadoop|Hugging Face|Pandas|Probability|Seaborn|Terraform|Spark|Tableau|Looker|Go|Azure,0,2,5,3,0,0,3.85
+C0916,Sneha Castillo,Machine Learning,3.3,PhD,Model Evaluation|Keras|Deep Learning|NLP|Looker|Scikit-Learn|A/B Testing|Tableau,1,1,4,0,0,1,2.22
+C0917,Rahul Rodriguez,Data Science,4.4,Bachelor's,NumPy|SQL|Linux|Seaborn|PostgreSQL|NLP|ETL Pipelines|MATLAB|Leadership|CI/CD|GCP|AWS|Spark|Plotly|Machine Learning,0,1,3,0,1,1,2.5
+C0918,Deepak Kumar,Machine Learning,0.8,High School,Google Sheets|Data Modeling|XGBoost|AWS|Project Management|Go|Julia|Python,1,1,4,1,0,0,3.21
+C0919,David Smith,Data Engineering,3.6,Bachelor's,SQL|PostgreSQL|Seaborn|Scikit-Learn|Reinforcement Learning|Statistics|PyTorch|MongoDB|Model Evaluation|Kubernetes,0,1,4,0,0,1,3.7
+C0920,Rahul Castillo,Machine Learning,3.3,Bachelor's,PyTorch|CI/CD|Model Evaluation|A/B Testing|LightGBM|Linear Algebra|Business Analytics|Keras|NLP|Google Sheets|Hugging Face,1,2,5,3,2,0,2.61
+C0921,Aarav Reddy,Data Engineering,1.6,Master's,MySQL|Model Evaluation|Java|Kubernetes|Tableau|Kubeflow|Scikit-Learn|NLP|PyTorch|ETL Pipelines|Go|Plotly|Linear Algebra,3,2,4,0,0,0,2.17
+C0922,Suresh Ivanov,Data Science,3.4,Master's,CI/CD|Hadoop|Plotly|Computer Vision|Kafka|MLflow|Time Series Analysis|XGBoost|Stakeholder Management|Business Analytics|Leadership|NumPy|Seaborn|Scala|Matplotlib|Java,4,1,1,2,0,1,2.89
+C0923,Aisha Sharma,Cloud Engineering,0.3,Bachelor's,Communication|Data Modeling|Docker|Pandas|AWS|Statistics|Matplotlib|Julia|Computer Vision|Scikit-Learn,2,1,3,0,1,0,3.32
+C0924,Matthew Davis,Machine Learning,2.1,Bachelor's,Data Modeling|Teamwork|Java|Communication|NumPy|Spark|Hugging Face|A/B Testing,2,1,7,2,0,1,2.81
+C0925,Isha Mehta,Machine Learning,0.1,Master's,Problem Solving|Project Management|NumPy|Python|SQL|Pandas|Azure,0,3,1,5,1,1,2.59
+C0926,Arjun Smith,NLP,0.3,Bachelor's,Deep Learning|Computer Vision|NumPy|C++|Teamwork|Probability|Excel|Power BI|Scala,1,1,6,0,1,0,2.11
+C0927,Amanda Ivanov,Machine Learning,2.7,Master's,CatBoost|ETL Pipelines|TensorFlow|Julia|Go|Docker|Azure|NLP|Excel|Stakeholder Management|Communication|Seaborn|Python|NumPy|Feature Engineering|Looker|Hadoop,0,1,4,1,0,0,3.4
+C0928,Sarah Ahmed,Data Engineering,7.9,Bachelor's,Model Evaluation|A/B Testing|Project Management|NoSQL|Azure|Hadoop|Data Wrangling|SQL|Google Sheets|PostgreSQL|Feature Engineering|Teamwork,2,1,1,1,3,1,3.53
+C0929,Zara Reddy,Cloud Engineering,5.7,Bachelor's,R|PostgreSQL|Feature Engineering|XGBoost|CatBoost|ETL Pipelines|Stakeholder Management,1,2,2,0,2,0,3.15
+C0930,Neha Okonkwo,Software Engineering,7.5,Bachelor's,Critical Thinking|Julia|Probability|ETL Pipelines|Python|A/B Testing|XGBoost|MLflow|Tableau|MySQL|Hadoop,3,1,2,1,0,1,3.39
+C0931,Chris Sharma,Data Science,3.3,PhD,Power BI|Critical Thinking|XGBoost|Kafka|SQL|ETL Pipelines|Seaborn|Julia|Business Analytics|Project Management|Feature Engineering|NLP|Scikit-Learn|Docker|Model Evaluation,0,2,5,3,0,1,2.11
+C0932,James Müller,Data Science,6.8,Bachelor's,Seaborn|Python|Pandas|Linear Algebra|Java|AWS|LightGBM|Go|ETL Pipelines|GCP|Airflow|Leadership,1,0,7,0,0,0,2.25
+C0933,Hassan Ivanov,Business Intelligence,2.5,Master's,Looker|Project Management|R|Kubernetes|Data Wrangling|Google Sheets|Machine Learning|Data Modeling|Hadoop|NoSQL,2,2,5,3,0,0,3.53
+C0934,Zara Müller,Software Engineering,4.1,Bachelor's,PyTorch|Kafka|Critical Thinking|CI/CD|Machine Learning|Statistics|Seaborn|Spark|Matplotlib|Scala,2,1,6,2,0,0,2.2
+C0935,David Garcia,MLOps,4.8,Bachelor's,NLP|Terraform|Julia|Scala|Go|Scikit-Learn|ETL Pipelines|Linux|Model Evaluation|Hugging Face|Keras|Hadoop|Critical Thinking|Data Modeling,0,1,4,1,0,0,2.17
+C0936,Sarah Chen,NLP,5.3,Bachelor's,SQL|Critical Thinking|AWS|Seaborn|Project Management|Computer Vision|Probability|Data Modeling|TensorFlow|Kubeflow|ETL Pipelines|Spark|MongoDB|Kafka|XGBoost|Kubernetes,1,0,5,0,0,1,3.18
+C0937,Stephanie Ivanov,Business Intelligence,5.8,Master's,Model Evaluation|NoSQL|Scikit-Learn|Data Modeling|Google Sheets|Hugging Face|MLflow|MySQL|Leadership|Java|Project Management|Data Wrangling|Pandas|Probability|Linux|Looker|Airflow,0,4,3,3,0,0,2.03
+C0938,Rohan Ahmed,Computer Vision,0.2,PhD,Scikit-Learn|Data Wrangling|XGBoost|Statistics|Terraform|Keras|Matplotlib|Feature Engineering|Java|Google Sheets|Python|GCP|Docker,4,2,3,1,0,0,2.01
+C0939,Maria Tanaka,Machine Learning,1.1,Bachelor's,Pandas|XGBoost|PostgreSQL|Plotly|Java|Hugging Face|Linux|Reinforcement Learning|Azure|Terraform|Spark|Teamwork,0,0,3,1,0,0,2.86
+C0940,Divya Brown,Machine Learning,4.2,High School,Scikit-Learn|Probability|AWS|Keras|Kafka|Project Management|Python|Julia|Leadership|R|MLflow|NLP,3,2,6,0,0,0,2.25
+C0941,Ashley Hassan,Quantitative Finance,5.4,Bachelor's,Data Wrangling|Kubeflow|Model Evaluation|Tableau|SQL,1,1,2,1,0,0,2.58
+C0942,Lucas Wang,Quantitative Finance,3.3,High School,Go|Hadoop|Plotly|CI/CD|Statistics|Reinforcement Learning|Docker|NLP|Kubernetes|LightGBM|SQL|Communication|Tableau|Keras|NumPy,2,1,5,2,0,1,3.11
+C0943,Ananya Chen,Quantitative Finance,1.2,Master's,Power BI|CI/CD|MATLAB|Model Evaluation|Project Management|PostgreSQL|Data Modeling|CatBoost|Google Sheets|Hadoop|R|LightGBM,2,1,5,3,0,1,3.1
+C0944,Divya Ali,Machine Learning,7.9,Bachelor's,Deep Learning|Java|Model Evaluation|Tableau|R|Spark|A/B Testing|Business Analytics|Linear Algebra,0,4,2,4,0,1,2.59
+C0945,Sofia Ahmed,Software Engineering,0.3,Master's,Google Sheets|Data Modeling|Plotly|PyTorch|Excel|Julia|MongoDB|Feature Engineering|Matplotlib|Linear Algebra|Go|Hadoop|Tableau|NoSQL|Project Management|PostgreSQL,0,2,6,1,0,0,3.9
+C0946,Nina Joshi,NLP,5.8,Master's,Hugging Face|A/B Testing|CatBoost|Project Management|PyTorch|MongoDB|Teamwork,1,1,5,0,0,1,3.03
+C0947,Maria Jones,Machine Learning,5.5,Master's,Kubernetes|Communication|Feature Engineering|MongoDB|R|PyTorch|Seaborn|TensorFlow|Teamwork,1,1,4,1,0,1,3.03
+C0948,Sofia Castillo,Computer Vision,0.8,Bachelor's,R|Teamwork|Feature Engineering|CI/CD|Matplotlib|Computer Vision|Java|Critical Thinking|Leadership|PostgreSQL|Google Sheets|Communication|Model Evaluation|Machine Learning|Hadoop|Data Wrangling|Seaborn,2,0,4,4,0,0,3.54
+C0949,Michael Joshi,Computer Vision,8.0,High School,Project Management|Model Evaluation|MATLAB|Statistics|Probability|Hugging Face|Linux|Problem Solving|R,1,2,7,1,0,1,3.1
+C0950,David Okonkwo,Quantitative Finance,6.6,Bachelor's,Leadership|Excel|Power BI|MATLAB|MongoDB|NumPy|Data Wrangling|PostgreSQL|NLP,1,0,2,2,0,0,2.47
+C0951,Amit Rodriguez,Software Engineering,2.7,Bachelor's,NumPy|XGBoost|MLflow|MongoDB|Kubernetes|Docker|Time Series Analysis|NoSQL|Go|Java|AWS|Tableau|PyTorch,4,1,4,0,0,1,3.77
+C0952,Aisha Garcia,NLP,2.8,Bachelor's,Looker|Kafka|Azure|Scikit-Learn|NLP|Spark|Seaborn|Java|CI/CD|MLflow|PyTorch|MySQL,3,2,7,0,1,1,2.03
+C0953,Daniel Chen,Machine Learning,3.2,Bachelor's,Project Management|Airflow|Scikit-Learn|Hadoop|Linear Algebra|XGBoost|Problem Solving,1,2,2,0,0,0,3.62
+C0954,Sarah Wang,Machine Learning,3.3,Bachelor's,Python|MLflow|ETL Pipelines|Critical Thinking|Looker|Communication|Go|Plotly|Machine Learning|Hugging Face|Google Sheets|MATLAB|Linear Algebra|Keras|Data Modeling|Pandas,0,2,2,2,0,0,2.05
+C0955,Arjun Ivanov,Software Engineering,6.4,High School,MongoDB|Java|Google Sheets|TensorFlow|Scala|Julia|Keras|C++|Terraform|R|Stakeholder Management|Docker,2,2,2,0,1,0,3.47
+C0956,Vikram Smith,Software Engineering,3.9,PhD,Deep Learning|R|Probability|Stakeholder Management|GCP|Hugging Face|MATLAB|MLflow|Time Series Analysis|Go|MongoDB|Azure|Excel|Python,1,1,6,3,2,1,2.12
+C0957,Amit Reddy,Data Engineering,3.1,Master's,Reinforcement Learning|PostgreSQL|LightGBM|XGBoost|Statistics|Pandas|Terraform|C++|Data Wrangling|Looker|Google Sheets|GCP|NoSQL|Spark|ETL Pipelines|Scala,1,1,3,1,0,1,2.52
+C0958,Chris Sharma,Software Engineering,2.5,Bachelor's,Kafka|GCP|C++|Model Evaluation|Scikit-Learn|Data Wrangling|Go|CatBoost|Seaborn|Excel|Statistics|Reinforcement Learning,1,0,2,1,1,1,2.07
+C0959,David Ali,Quantitative Finance,6.4,Bachelor's,Communication|Google Sheets|Hadoop|Scala|CatBoost|C++,3,3,5,5,0,1,2.48
+C0960,Emily Davis,Data Science,4.8,Master's,Scala|C++|Leadership|R|Business Analytics|Pandas,0,2,3,2,1,1,2.97
+C0961,Arjun Ahmed,Data Engineering,4.7,High School,PostgreSQL|CI/CD|Feature Engineering|Spark|Hugging Face|PyTorch,1,1,2,4,0,1,2.66
+C0962,Vikram Gupta,Machine Learning,2.9,PhD,Seaborn|Google Sheets|Business Analytics|Computer Vision|TensorFlow,0,0,3,1,0,1,3.86
+C0963,Deepak Johnson,Machine Learning,7.9,Associate's,Data Modeling|Problem Solving|Google Sheets|Seaborn|NoSQL|Kubeflow|ETL Pipelines,1,3,8,2,0,1,2.69
+C0964,David Martinez,Data Engineering,0.7,Associate's,Matplotlib|Data Wrangling|Spark|Stakeholder Management|Airflow|Project Management|Communication|GCP|MongoDB,2,1,4,3,1,0,2.23
+C0965,Hassan Hassan,Machine Learning,1.9,Master's,NoSQL|Probability|ETL Pipelines|Go|Power BI|Spark|A/B Testing|Time Series Analysis|Critical Thinking|NLP|Matplotlib|Teamwork,0,2,4,1,0,0,3.23
+C0966,Fatima Müller,Business Intelligence,3.0,Bachelor's,Data Wrangling|GCP|Go|C++|Business Analytics|Communication|SQL|MongoDB,1,3,1,1,0,0,3.33
+C0967,Ananya Ivanov,Business Intelligence,4.2,Master's,Stakeholder Management|Kafka|Machine Learning|NumPy|MySQL|Terraform|MongoDB|Google Sheets|Linear Algebra|Looker|Airflow|Tableau|NoSQL|CI/CD|Python|NLP|Feature Engineering|Problem Solving,1,1,4,4,3,0,3.1
+C0968,Suresh Okonkwo,Data Engineering,3.4,Associate's,Probability|AWS|Linux|Java|Data Modeling|Time Series Analysis|PostgreSQL|Hugging Face|A/B Testing|Critical Thinking|GCP|Plotly,1,1,2,1,0,0,2.56
+C0969,Neha Nair,Software Engineering,4.9,PhD,Keras|TensorFlow|Hadoop|Statistics|Seaborn|MongoDB|Teamwork|Python|Google Sheets|Docker|Scala,2,1,5,1,0,1,3.96
+C0970,Daniel Ali,Data Engineering,4.2,Master's,A/B Testing|Terraform|AWS|Looker|Kubeflow|NoSQL|Keras|PostgreSQL,0,0,4,1,0,0,2.88
+C0971,Hassan Johnson,MLOps,3.3,Associate's,Java|PyTorch|C++|NumPy|Azure|Machine Learning|Computer Vision|Data Wrangling|MySQL|Stakeholder Management|CI/CD|MLflow|NLP|Linux|Seaborn,1,3,3,1,0,0,3.42
+C0972,Nikhil Gupta,Quantitative Finance,0.8,PhD,Python|Statistics|Critical Thinking|Power BI|Julia|Reinforcement Learning|Linux|TensorFlow|CatBoost|Seaborn|Teamwork|MongoDB|Probability|Kubeflow|Time Series Analysis|MySQL|C++|Communication,3,0,4,2,2,0,3.47
+C0973,Rahul Brown,Data Engineering,1.0,PhD,CI/CD|Hugging Face|Docker|Reinforcement Learning|Spark|Seaborn|R|Excel|MLflow|Airflow|CatBoost,0,1,6,1,0,0,3.94
+C0974,Lucas Sharma,Computer Vision,4.3,Bachelor's,GCP|Google Sheets|Problem Solving|NoSQL|C++|Excel|Leadership|Spark|Python|SQL|MATLAB|LightGBM|Keras|Seaborn|Pandas|Kubeflow|R|CatBoost,2,3,7,0,1,1,2.08
+C0975,Sofia Reddy,NLP,2.3,Bachelor's,Probability|CI/CD|Looker|Python|Model Evaluation|NumPy|NLP|Matplotlib|ETL Pipelines|Google Sheets|Docker,0,1,5,3,0,0,3.93
+C0976,Kavya Castillo,Cloud Engineering,2.6,Master's,PostgreSQL|MongoDB|MATLAB|C++|Stakeholder Management|Tableau|Java|Teamwork|Linux|Kubernetes|Julia|Kafka|Spark|Python|Communication|Machine Learning,0,2,3,0,0,1,2.45
+C0977,Meera Castillo,Machine Learning,1.4,Master's,R|Business Analytics|Linear Algebra|Scikit-Learn|Python|SQL|MongoDB|GCP|Teamwork|Linux|Plotly|Time Series Analysis|Pandas,1,1,1,2,0,0,2.92
+C0978,James Hassan,NLP,5.3,Bachelor's,Plotly|Teamwork|Linux|SQL|Model Evaluation|Feature Engineering|Scala|Matplotlib|Communication|MATLAB,1,1,3,4,1,1,3.12
+C0979,Maria Liu,Data Engineering,0.8,Master's,Statistics|Stakeholder Management|Teamwork|A/B Testing|Plotly|C++|Kubernetes|Kubeflow|Azure|Time Series Analysis|Python|NLP|Business Analytics|R|MySQL|Go|Kafka|PostgreSQL,2,3,3,0,1,0,2.6
+C0980,Ananya Williams,NLP,1.5,Master's,XGBoost|Spark|Terraform|Kubeflow|CatBoost|Data Modeling|Machine Learning|Pandas|Communication|Project Management|Deep Learning|LightGBM|Time Series Analysis|Python|Azure|Scala,1,3,4,1,0,1,2.47
+C0981,Pooja Chen,Cloud Engineering,0.7,Bachelor's,TensorFlow|Communication|C++|Go|SQL|Airflow|Terraform|Probability|Leadership|MySQL|Java|A/B Testing|Data Wrangling|NLP,0,0,0,0,0,1,2.41
+C0982,Sneha Jones,Machine Learning,4.7,Associate's,A/B Testing|Problem Solving|Data Wrangling|Probability|XGBoost|Data Modeling|Computer Vision|Business Analytics|NLP,0,2,4,3,0,0,3.34
+C0983,Amit Chen,Computer Vision,3.6,PhD,Scikit-Learn|MLflow|PostgreSQL|Reinforcement Learning|Azure|AWS|Google Sheets|Problem Solving|Pandas|Hugging Face|Python|Plotly|Computer Vision|TensorFlow|Go|NumPy,1,2,4,1,3,0,3.79
+C0984,Matthew Ali,NLP,5.7,Associate's,Hadoop|Stakeholder Management|Critical Thinking|Kafka|Docker|Python|MLflow|Scikit-Learn|MongoDB|Matplotlib|SQL|Reinforcement Learning,4,4,7,2,0,0,3.54
+C0985,Ananya Müller,Computer Vision,0.1,Master's,Airflow|Model Evaluation|Kafka|Hadoop|ETL Pipelines|Leadership|Data Modeling|Teamwork|PostgreSQL|C++,2,1,5,3,0,1,2.13
+C0986,Kai Kumar,Quantitative Finance,2.0,Bachelor's,Scala|Hadoop|Stakeholder Management|Data Wrangling|Google Sheets|Business Analytics|NoSQL|Python,0,1,5,3,0,0,3.7
+C0987,James Reddy,NLP,2.7,Bachelor's,Feature Engineering|SQL|AWS|MLflow|Hugging Face|Julia|Looker|PyTorch|Spark,1,1,3,2,1,0,2.48
+C0988,Priya Singh,Cloud Engineering,2.5,Master's,SQL|Data Modeling|Julia|Teamwork|Power BI|MySQL|Problem Solving|Keras|Seaborn|Matplotlib|Hadoop|Feature Engineering,1,3,4,1,0,0,3.03
+C0989,Aarav Castillo,Data Science,6.2,Bachelor's,CI/CD|PyTorch|MLflow|Matplotlib|Hugging Face|Probability|Pandas|NLP|Project Management,1,3,6,3,0,0,2.33
+C0990,Lucas Patel,NLP,5.7,Bachelor's,SQL|Statistics|A/B Testing|Java|MongoDB|Airflow|Power BI|LightGBM|PostgreSQL,1,2,2,2,0,0,3.13
+C0991,Hassan Rodriguez,Computer Vision,2.3,High School,Kubernetes|MySQL|Time Series Analysis|Problem Solving|ETL Pipelines,4,1,4,4,1,1,3.3
+C0992,Sofia Tanaka,Business Intelligence,4.2,Bachelor's,Tableau|R|Kubernetes|GCP|Data Wrangling|Spark|Business Analytics|Probability|Communication|Go|Excel|NoSQL|ETL Pipelines,2,2,4,0,1,0,2.93
+C0993,Aarav Rodriguez,Data Engineering,5.6,Master's,Probability|Scikit-Learn|A/B Testing|Hadoop|Scala|AWS|Matplotlib|GCP|Problem Solving|ETL Pipelines,3,0,3,1,3,0,3.93
+C0994,Lucas Mehta,MLOps,2.4,Bachelor's,Data Modeling|Airflow|MATLAB|Linux|XGBoost|Terraform|Feature Engineering|Business Analytics|PyTorch|Scikit-Learn|Docker|Data Wrangling|NLP|Statistics,0,2,3,2,0,1,3.48
+C0995,Meera Singh,Cloud Engineering,4.7,Master's,ETL Pipelines|SQL|Scala|Spark|Project Management|Leadership|Python|Critical Thinking|PostgreSQL|MATLAB|NoSQL|Excel|Reinforcement Learning|Terraform,2,0,2,3,0,1,3.9
+C0996,Matthew Joshi,Data Science,4.5,Bachelor's,Data Modeling|Azure|Matplotlib|Keras|SQL|CI/CD|MySQL|MongoDB|Power BI|Docker|CatBoost|C++|Looker|MATLAB|Julia|XGBoost,2,1,6,0,1,1,3.03
+C0997,Zhang Wang,Data Engineering,8.0,Bachelor's,SQL|Kafka|MATLAB|Kubeflow|Linux|Time Series Analysis|PostgreSQL|Computer Vision|XGBoost|CI/CD|Matplotlib|Reinforcement Learning|PyTorch|Spark|C++,2,2,3,0,0,0,3.44
+C0998,Shruti Brown,Software Engineering,2.2,Master's,NumPy|SQL|Feature Engineering|Reinforcement Learning|Matplotlib|Computer Vision,0,2,4,5,0,1,2.97
+C0999,Ananya Castillo,Computer Vision,3.5,PhD,Model Evaluation|Kubeflow|Teamwork|Python|Data Modeling|NLP|Airflow|Plotly|A/B Testing|Feature Engineering|XGBoost,1,3,5,2,0,0,2.63
+C1000,Karan Müller,MLOps,5.4,Bachelor's,Linux|Leadership|MATLAB|MLflow|Data Modeling|C++,0,1,2,0,0,1,2.79
