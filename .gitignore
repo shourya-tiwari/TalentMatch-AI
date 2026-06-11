@@ -23,7 +23,7 @@ env/
 models/*.keras
 models/*.h5
 models/*.pkl
-models/*.joblib
+# models/*.joblib
 
 # Data
 data/raw/*.csv.bak
