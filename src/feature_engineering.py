@@ -25,7 +25,7 @@ import numpy as np
 import pandas as pd
 from pathlib import Path
 from sklearn.preprocessing import MinMaxScaler
-from typing import Optional, Tuple
+from typing import Optional, Tuple, Union
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
 ROOT_DIR    = Path(__file__).resolve().parent.parent
