@@ -208,7 +208,7 @@ TalentMatch-AI/
 | Phase 1 | Dataset Design & Generation  | ✅ Complete |
 | Phase 2 | Exploratory Data Analysis    | ✅ Complete |
 | Phase 3 | Feature Engineering Pipeline | ✅ Complete |
-| Phase 4 | ANN Training Pipeline        | ⏳ Pending  |
+| Phase 4 | ANN Training Pipeline        | ✅ Complete |
 | Phase 5 | Model Evaluation             | ⏳ Pending  |
 | Phase 6 | Prediction & Batch Scoring   | ⏳ Pending  |
 | Phase 7 | Streamlit Dashboard          | ⏳ Pending  |
