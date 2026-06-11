@@ -25,9 +25,9 @@ models/*.h5
 models/*.pkl
 models/*.joblib
 
-# Data (raw data often too large or sensitive for git)
-data/raw/*.csv
-data/processed/*.csv
+# Data
+data/raw/*.csv.bak
+data/processed/*.csv.bak
 
 # OS
 .DS_Store

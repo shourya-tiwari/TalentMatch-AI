@@ -1,25 +1,26 @@
 # Core ML
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn==1.4.2
-tensorflow==2.16.1
-keras==3.3.3
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
 
 # Visualization
-matplotlib==3.9.0
-seaborn==0.13.2
-plotly==5.22.0
+matplotlib
+seaborn
+plotly
 
 # App
-streamlit==1.35.0
+streamlit
 
 # Model persistence
-joblib==1.4.2
+joblib
 
 # Notebook support
-jupyter==1.0.0
-ipykernel==6.29.4
+jupyter
+notebook
+ipykernel
 
 # Utilities
-scipy==1.13.0
-shap==0.45.0
+scipy
+shap
