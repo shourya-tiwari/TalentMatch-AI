@@ -52,8 +52,9 @@ def get_predictions(model, X_test, threshold: float = 0.5):
 
 def compute_classification_metrics(y_test, y_pred) -> dict:
     """Return classification report as a dict, plus confusion matrix."""
+    y_test_int = y_test.astype(int)
     report = classification_report(y_test, y_pred, target_names=["Poor Fit", "Good Fit"], output_dict=True)
-    cm = confusion_matrix(y_test, y_pred)
+    cm = confusion_matrix(y_test_int, y_pred)
     return report, cm
 
 
@@ -82,10 +83,12 @@ def threshold_sensitivity(y_test, y_proba, thresholds=None) -> pd.DataFrame:
     if thresholds is None:
         thresholds = np.arange(0.30, 0.71, 0.05)
 
+    y_test_int = y_test.astype(int)
+
     rows = []
     for t in thresholds:
         y_pred_t = (y_proba >= t).astype(int)
-        report = classification_report(y_test, y_pred_t, output_dict=True, zero_division=0)
+        report = classification_report(y_test_int, y_pred_t, output_dict=True, zero_division=0)
         rows.append({
             "threshold": round(t, 2),
             "precision_good_fit": report["1"]["precision"],
