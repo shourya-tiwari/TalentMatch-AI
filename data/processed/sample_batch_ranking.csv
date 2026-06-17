@@ -1,0 +1,51 @@
+rank,candidate_id,candidate_name,job_id,fit_probability,fit_percentage,fit_label,fit_verdict,confidence_band,matched_skills,missing_skills,matched_skill_count,missing_skill_count,required_skill_count
+1,C0637,Carlos Müller,J001,0.9873,98.7,1,Good Fit,Strong Fit,"['AWS', 'Python', 'SQL', 'Teamwork']","['Airflow', 'NoSQL', 'NumPy', 'XGBoost']",4,4,8
+2,C0199,Ananya Ahmed,J001,0.9779,97.8,1,Good Fit,Strong Fit,"['NoSQL', 'SQL']","['AWS', 'Airflow', 'NumPy', 'Python', 'Teamwork', 'XGBoost']",2,6,8
+3,C0903,Zara Mehta,J001,0.9777,97.8,1,Good Fit,Strong Fit,"['Airflow', 'NumPy', 'XGBoost']","['AWS', 'NoSQL', 'Python', 'SQL', 'Teamwork']",3,5,8
+4,C0077,Carlos Nair,J001,0.9737,97.4,1,Good Fit,Strong Fit,"['NoSQL', 'NumPy', 'Python', 'Teamwork']","['AWS', 'Airflow', 'SQL', 'XGBoost']",4,4,8
+5,C0627,Yuki Kumar,J001,0.967,96.7,1,Good Fit,Strong Fit,"['Python', 'Teamwork', 'XGBoost']","['AWS', 'Airflow', 'NoSQL', 'NumPy', 'SQL']",3,5,8
+6,C0371,Arjun Liu,J001,0.9664,96.6,1,Good Fit,Strong Fit,"['SQL', 'XGBoost']","['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'Teamwork']",2,6,8
+7,C0060,Daniel Castillo,J001,0.9642,96.4,1,Good Fit,Strong Fit,"['AWS', 'NoSQL', 'XGBoost']","['Airflow', 'NumPy', 'Python', 'SQL', 'Teamwork']",3,5,8
+8,C0974,Lucas Sharma,J001,0.9555,95.6,1,Good Fit,Strong Fit,"['NoSQL', 'Python', 'SQL']","['AWS', 'Airflow', 'NumPy', 'Teamwork', 'XGBoost']",3,5,8
+9,C0812,Ashley Jones,J001,0.9472,94.7,1,Good Fit,Strong Fit,"['NumPy', 'Python']","['AWS', 'Airflow', 'NoSQL', 'SQL', 'Teamwork', 'XGBoost']",2,6,8
+10,C0860,Michael Gupta,J001,0.9428,94.3,1,Good Fit,Strong Fit,"['AWS', 'NumPy']","['Airflow', 'NoSQL', 'Python', 'SQL', 'Teamwork', 'XGBoost']",2,6,8
+11,C0528,Rahul Nair,J001,0.9346,93.5,1,Good Fit,Strong Fit,"['Python', 'XGBoost']","['AWS', 'Airflow', 'NoSQL', 'NumPy', 'SQL', 'Teamwork']",2,6,8
+12,C0902,Kavya Williams,J001,0.9303,93.0,1,Good Fit,Strong Fit,"['Python', 'XGBoost']","['AWS', 'Airflow', 'NoSQL', 'NumPy', 'SQL', 'Teamwork']",2,6,8
+13,C0313,Yuki Wilson,J001,0.9268,92.7,1,Good Fit,Strong Fit,"['AWS', 'Airflow', 'SQL']","['NoSQL', 'NumPy', 'Python', 'Teamwork', 'XGBoost']",3,5,8
+14,C0762,Ashley Williams,J001,0.9243,92.4,1,Good Fit,Strong Fit,['Teamwork'],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'XGBoost']",1,7,8
+15,C0884,Suresh Mehta,J001,0.9186,91.9,1,Good Fit,Strong Fit,['NumPy'],"['AWS', 'Airflow', 'NoSQL', 'Python', 'SQL', 'Teamwork', 'XGBoost']",1,7,8
+16,C0137,Deepak Ahmed,J001,0.9127,91.3,1,Good Fit,Strong Fit,['AWS'],"['Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",1,7,8
+17,C0300,Yuki Ahmed,J001,0.9076,90.8,1,Good Fit,Strong Fit,"['AWS', 'NoSQL']","['Airflow', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",2,6,8
+18,C0975,Sofia Reddy,J001,0.8988,89.9,1,Good Fit,Strong Fit,"['NumPy', 'Python']","['AWS', 'Airflow', 'NoSQL', 'SQL', 'Teamwork', 'XGBoost']",2,6,8
+19,C0738,Amit Martinez,J001,0.8962,89.6,1,Good Fit,Strong Fit,"['NoSQL', 'NumPy']","['AWS', 'Airflow', 'Python', 'SQL', 'Teamwork', 'XGBoost']",2,6,8
+20,C0585,Meera Sharma,J001,0.8932,89.3,1,Good Fit,Strong Fit,"['Airflow', 'SQL']","['AWS', 'NoSQL', 'NumPy', 'Python', 'Teamwork', 'XGBoost']",2,6,8
+21,C0550,Isha Nair,J001,0.8908,89.1,1,Good Fit,Strong Fit,"['Airflow', 'Python']","['AWS', 'NoSQL', 'NumPy', 'SQL', 'Teamwork', 'XGBoost']",2,6,8
+22,C0661,Rohan Mensah,J001,0.8904,89.0,1,Good Fit,Strong Fit,['SQL'],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'Teamwork', 'XGBoost']",1,7,8
+23,C0097,Neha Singh,J001,0.8828,88.3,1,Good Fit,Strong Fit,"['AWS', 'Python', 'XGBoost']","['Airflow', 'NoSQL', 'NumPy', 'SQL', 'Teamwork']",3,5,8
+24,C0500,Fatima Okonkwo,J001,0.8562,85.6,1,Good Fit,Strong Fit,['Python'],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'SQL', 'Teamwork', 'XGBoost']",1,7,8
+25,C0688,Rohan Wilson,J001,0.8316,83.2,1,Good Fit,Strong Fit,"['AWS', 'NumPy']","['Airflow', 'NoSQL', 'Python', 'SQL', 'Teamwork', 'XGBoost']",2,6,8
+26,C0329,Arjun Davis,J001,0.8211,82.1,1,Good Fit,Strong Fit,['Python'],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'SQL', 'Teamwork', 'XGBoost']",1,7,8
+27,C0102,Sneha Wang,J001,0.8135,81.4,1,Good Fit,Strong Fit,['Teamwork'],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'XGBoost']",1,7,8
+28,C0987,James Reddy,J001,0.7975,79.8,1,Good Fit,Strong Fit,"['AWS', 'SQL']","['Airflow', 'NoSQL', 'NumPy', 'Python', 'Teamwork', 'XGBoost']",2,6,8
+29,C0679,Zara Verma,J001,0.7377,73.8,1,Good Fit,Likely Fit,[],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",0,8,8
+30,C0440,Nina Chen,J001,0.7192,71.9,1,Good Fit,Likely Fit,['AWS'],"['Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",1,7,8
+31,C0622,Kai Wang,J001,0.7075,70.8,1,Good Fit,Likely Fit,['Airflow'],"['AWS', 'NoSQL', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",1,7,8
+32,C0925,Isha Mehta,J001,0.6591,65.9,1,Good Fit,Likely Fit,"['NumPy', 'Python', 'SQL']","['AWS', 'Airflow', 'NoSQL', 'Teamwork', 'XGBoost']",3,5,8
+33,C0320,Kavya Rodriguez,J001,0.6534,65.3,1,Good Fit,Likely Fit,"['AWS', 'NoSQL']","['Airflow', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",2,6,8
+34,C0372,Nina Castillo,J001,0.5222,52.2,1,Good Fit,Borderline Fit,['NoSQL'],"['AWS', 'Airflow', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",1,7,8
+35,C0175,Hassan Anderson,J001,0.5105,51.1,1,Good Fit,Borderline Fit,[],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",0,8,8
+36,C0278,Wei Verma,J001,0.4354,43.5,1,Good Fit,Borderline Fit,[],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",0,8,8
+37,C0281,Fatima Mensah,J001,0.422,42.2,1,Good Fit,Borderline Fit,"['Python', 'SQL']","['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Teamwork', 'XGBoost']",2,6,8
+38,C0140,Maria Liu,J001,0.4041,40.4,1,Good Fit,Borderline Fit,['SQL'],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'Teamwork', 'XGBoost']",1,7,8
+39,C0236,Shruti Tanaka,J001,0.3944,39.4,0,Poor Fit,Likely Poor Fit,[],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",0,8,8
+40,C0514,Ivan Tanaka,J001,0.3592,35.9,0,Poor Fit,Likely Poor Fit,['NoSQL'],"['AWS', 'Airflow', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",1,7,8
+41,C0900,Kai Patel,J001,0.3522,35.2,0,Poor Fit,Likely Poor Fit,[],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",0,8,8
+42,C0211,David Joshi,J001,0.2715,27.2,0,Poor Fit,Likely Poor Fit,[],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",0,8,8
+43,C0939,Maria Tanaka,J001,0.2649,26.5,0,Poor Fit,Likely Poor Fit,"['Teamwork', 'XGBoost']","['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL']",2,6,8
+44,C0948,Sofia Castillo,J001,0.2368,23.7,0,Poor Fit,Strong Poor Fit,['Teamwork'],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'XGBoost']",1,7,8
+45,C0412,Maria Mehta,J001,0.2013,20.1,0,Poor Fit,Strong Poor Fit,['XGBoost'],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'Teamwork']",1,7,8
+46,C0522,Hassan Garcia,J001,0.1811,18.1,0,Poor Fit,Strong Poor Fit,['NoSQL'],"['AWS', 'Airflow', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",1,7,8
+47,C0838,Ananya Ali,J001,0.1807,18.1,0,Poor Fit,Strong Poor Fit,['AWS'],"['Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'Teamwork', 'XGBoost']",1,7,8
+48,C0741,Shruti Castillo,J001,0.1233,12.3,0,Poor Fit,Strong Poor Fit,"['AWS', 'Python']","['Airflow', 'NoSQL', 'NumPy', 'SQL', 'Teamwork', 'XGBoost']",2,6,8
+49,C0602,Neha Chen,J001,0.0775,7.7,0,Poor Fit,Strong Poor Fit,['Python'],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'SQL', 'Teamwork', 'XGBoost']",1,7,8
+50,C0347,Michael Okonkwo,J001,0.0754,7.5,0,Poor Fit,Strong Poor Fit,['XGBoost'],"['AWS', 'Airflow', 'NoSQL', 'NumPy', 'Python', 'SQL', 'Teamwork']",1,7,8
