@@ -74,20 +74,29 @@ FEATURE_COLUMNS = CONTINUOUS_FEATURES + PASSTHROUGH_FEATURES
 # Raw Feature Computation (unscaled)
 # ─────────────────────────────────────────────────────────────────────────────
 
-def _compute_raw_features(pairs: pd.DataFrame) -> pd.DataFrame:
+def _compute_raw_features(pairs: pd.DataFrame, norm_maxes: dict = None) -> pd.DataFrame:
     """
     Compute unscaled feature values from a raw pairs DataFrame.
     Expects c_ and j_ prefixed columns from preprocessing.build_raw_pairs().
 
-    Returns a DataFrame with one column per feature in FEATURE_COLUMNS,
-    plus 'fit_score' and 'fit_label' if present.
+    norm_maxes: dict of {"projects": max, "internships": max, "hackathons": max,
+    "research": max} fixed at training time. Required for correct inference
+    on single-row batches. If None, computed from `pairs` (training-time only).
     """
     feats = pd.DataFrame(index=pairs.index)
 
+    if norm_maxes is None:
+        norm_maxes = {
+            "projects":    pairs["c_projects_count"].max(),
+            "internships": pairs["c_internships_count"].max(),
+            "hackathons":  pairs["c_hackathons"].max(),
+            "research":    pairs["c_research_papers"].max(),
+        }
+
     # ── Skill match score ─────────────────────────────────────────────────────
     def skill_match(row):
-        c_skills   = row.get("c_skills_set", set())
-        j_skills   = row.get("j_required_skills_set", set())
+        c_skills = row.get("c_skills_set", set())
+        j_skills = row.get("j_required_skills_set", set())
         if not j_skills:
             return 0.0
         return len(c_skills & j_skills) / len(j_skills)
@@ -108,28 +117,32 @@ def _compute_raw_features(pairs: pd.DataFrame) -> pd.DataFrame:
     feats["gpa_normalized"] = (pairs["c_gpa"] / 4.0).clip(0, 1).round(4)
 
     # ── Projects normalised ───────────────────────────────────────────────────
-    max_projects = pairs["c_projects_count"].max()
+    max_projects = norm_maxes["projects"]
     feats["projects_normalized"] = (
-        pairs["c_projects_count"] / max_projects if max_projects > 0 else 0.0
-    ).round(4)
+        (pairs["c_projects_count"] / max_projects).round(4) if max_projects > 0
+        else pd.Series(0.0, index=pairs.index)
+    )
 
     # ── Internships normalised ────────────────────────────────────────────────
-    max_internships = pairs["c_internships_count"].max()
+    max_internships = norm_maxes["internships"]
     feats["internships_normalized"] = (
-        pairs["c_internships_count"] / max_internships if max_internships > 0 else 0.0
-    ).round(4)
+        (pairs["c_internships_count"] / max_internships).round(4) if max_internships > 0
+        else pd.Series(0.0, index=pairs.index)
+    )
 
     # ── Hackathons normalised ─────────────────────────────────────────────────
-    max_hackathons = pairs["c_hackathons"].max()
+    max_hackathons = norm_maxes["hackathons"]
     feats["hackathons_normalized"] = (
-        pairs["c_hackathons"] / max_hackathons if max_hackathons > 0 else 0.0
-    ).round(4)
+        (pairs["c_hackathons"] / max_hackathons).round(4) if max_hackathons > 0
+        else pd.Series(0.0, index=pairs.index)
+    )
 
     # ── Research papers normalised ────────────────────────────────────────────
-    max_research = pairs["c_research_papers"].max()
+    max_research = norm_maxes["research"]
     feats["research_normalized"] = (
-        pairs["c_research_papers"] / max_research if max_research > 0 else 0.0
-    ).round(4)
+        (pairs["c_research_papers"] / max_research).round(4) if max_research > 0
+        else pd.Series(0.0, index=pairs.index)
+    )
 
     # ── Certification gap (clipped 0–4) ───────────────────────────────────────
     feats["certification_gap"] = (
@@ -158,7 +171,6 @@ def _compute_raw_features(pairs: pd.DataFrame) -> pd.DataFrame:
 
     return feats
 
-
 # ─────────────────────────────────────────────────────────────────────────────
 # FeatureEngineer Class
 # ─────────────────────────────────────────────────────────────────────────────
@@ -175,23 +187,21 @@ class FeatureEngineer:
     def __init__(self):
         self.scaler: Optional[MinMaxScaler] = None
         self._is_fitted: bool = False
+        self.norm_maxes: Optional[dict] = None
 
     # ── Training path ─────────────────────────────────────────────────────────
-    def fit_transform(
-        self, pairs: pd.DataFrame
-    ) -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
-        """
-        Compute features, fit scaler on continuous features,
-        return (X, y_label, y_score).
+    def fit_transform(self, pairs: pd.DataFrame) -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
+        self.norm_maxes = {
+            "projects":    pairs["c_projects_count"].max(),
+            "internships": pairs["c_internships_count"].max(),
+            "hackathons":  pairs["c_hackathons"].max(),
+            "research":    pairs["c_research_papers"].max(),
+        }
 
-        X shape: (n_samples, len(FEATURE_COLUMNS))
-        """
-        raw = _compute_raw_features(pairs)
+        raw = _compute_raw_features(pairs, norm_maxes=self.norm_maxes)
 
         self.scaler = MinMaxScaler()
-        raw[CONTINUOUS_FEATURES] = self.scaler.fit_transform(
-            raw[CONTINUOUS_FEATURES]
-        )
+        raw[CONTINUOUS_FEATURES] = self.scaler.fit_transform(raw[CONTINUOUS_FEATURES])
         self._is_fitted = True
 
         X       = raw[FEATURE_COLUMNS].values.astype(np.float32)
@@ -206,17 +216,13 @@ class FeatureEngineer:
 
     # ── Inference path ────────────────────────────────────────────────────────
     def transform(self, pairs: pd.DataFrame) -> np.ndarray:
-        """
-        Apply the fitted scaler to new data.
-        Raises RuntimeError if called before fit_transform or load.
-        """
         if not self._is_fitted:
             raise RuntimeError(
                 "FeatureEngineer is not fitted. "
                 "Call fit_transform() on training data first, or load a saved instance."
             )
 
-        raw = _compute_raw_features(pairs)
+        raw = _compute_raw_features(pairs, norm_maxes=self.norm_maxes)
         raw[CONTINUOUS_FEATURES] = self.scaler.transform(raw[CONTINUOUS_FEATURES])
 
         return raw[FEATURE_COLUMNS].values.astype(np.float32)
