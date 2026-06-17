@@ -210,7 +210,7 @@ TalentMatch-AI/
 | Phase 3 | Feature Engineering Pipeline | ✅ Complete |
 | Phase 4 | ANN Training Pipeline        | ✅ Complete |
 | Phase 5 | Model Evaluation             | ✅ Complete |
-| Phase 6 | Prediction & Batch Scoring   | ⏳ Pending  |
+| Phase 6 | Prediction & Batch Scoring   | ✅ Complete |
 | Phase 7 | Streamlit Dashboard          | ⏳ Pending  |
 | Phase 8 | Documentation & Deployment   | ⏳ Pending  |
 
