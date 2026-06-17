@@ -209,7 +209,7 @@ TalentMatch-AI/
 | Phase 2 | Exploratory Data Analysis    | ✅ Complete |
 | Phase 3 | Feature Engineering Pipeline | ✅ Complete |
 | Phase 4 | ANN Training Pipeline        | ✅ Complete |
-| Phase 5 | Model Evaluation             | ⏳ Pending  |
+| Phase 5 | Model Evaluation             | ✅ Complete |
 | Phase 6 | Prediction & Batch Scoring   | ⏳ Pending  |
 | Phase 7 | Streamlit Dashboard          | ⏳ Pending  |
 | Phase 8 | Documentation & Deployment   | ⏳ Pending  |
