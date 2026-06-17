@@ -18,7 +18,7 @@ import pandas as pd
 from pathlib import Path
 
 import tensorflow as tf
-from tensorflow import keras
+from tensorflow import keras # type: ignore
 from sklearn.metrics import (
     classification_report, confusion_matrix,
     roc_curve, auc, precision_recall_curve, average_precision_score
