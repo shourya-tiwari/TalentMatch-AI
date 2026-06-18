@@ -37,6 +37,15 @@ MODEL_DIR = ROOT_DIR / "models"
 
 DEFAULT_THRESHOLD = 0.40
 
+# Guardrail: skill_match_score below this floor caps the verdict at "Poor Fit"
+# regardless of model output. See README "Key Model Decisions" for rationale —
+# the ANN is well-calibrated on aggregate test metrics (verified via bottom-decile
+# analysis) but showed unreliable extrapolation on rare out-of-distribution
+# feature combinations (very low skill match + maxed-out secondary signals like
+# GPA, certifications, experience). This rule prevents that failure mode from
+# reaching production output.
+SKILL_MATCH_FLOOR = 0.30
+
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Artifact Loading (cached at module level — loaded once, reused)
@@ -85,41 +94,58 @@ class TalentMatchPredictor:
         """
         Score a single (candidate, job) pair.
         Returns fit_probability, fit_label, and skill diagnostics.
+
+        Applies a skill_match_score floor as a production safeguard: candidates
+        matching less than SKILL_MATCH_FLOOR of required skills are capped at
+        "Poor Fit" regardless of model output, since the ANN showed unreliable
+        extrapolation on this rare combination during evaluation (see README).
         """
         pair_row = self._build_pair_row(candidate, job)
         X = self.fe.transform(pair_row)
 
         fit_probability = float(self.model.predict(X, verbose=0).flatten()[0])
-        fit_label = int(fit_probability >= self.threshold)
 
         candidate_skills = set(str(candidate["skills"]).split("|"))
         required_skills  = set(str(job["required_skills"]).split("|"))
         matched = candidate_skills & required_skills
         missing = required_skills - candidate_skills
+        skill_match_score = len(matched) / len(required_skills) if required_skills else 0.0
+
+        # ── Guardrail ────────────────────────────────────────────────────────────
+        guardrail_applied = False
+        if skill_match_score < SKILL_MATCH_FLOOR:
+            fit_label = 0
+            guardrail_applied = fit_probability >= self.threshold  # only flag if it would have flipped the verdict
+        else:
+            fit_label = int(fit_probability >= self.threshold)
 
         return {
-            "candidate_id":        candidate.get("candidate_id", "N/A"),
-            "candidate_name":      candidate.get("name", "N/A"),
-            "job_id":              job.get("job_id", "N/A"),
-            "fit_probability":     round(fit_probability, 4),
-            "fit_percentage":      round(fit_probability * 100, 1),
-            "fit_label":           fit_label,
-            "fit_verdict":         "Good Fit" if fit_label == 1 else "Poor Fit",
-            "confidence_band":     self._confidence_band(fit_probability),
-            "matched_skills":      sorted(matched),
-            "missing_skills":      sorted(missing),
-            "matched_skill_count": len(matched),
-            "missing_skill_count": len(missing),
+            "candidate_id":         candidate.get("candidate_id", "N/A"),
+            "candidate_name":       candidate.get("name", "N/A"),
+            "job_id":               job.get("job_id", "N/A"),
+            "fit_probability":      round(fit_probability, 4),
+            "fit_percentage":       round(fit_probability * 100, 1),
+            "fit_label":            fit_label,
+            "fit_verdict":          "Good Fit" if fit_label == 1 else "Poor Fit",
+            "confidence_band":      self._confidence_band(fit_probability, fit_label, guardrail_applied),
+            "guardrail_applied":    guardrail_applied,
+            "matched_skills":       sorted(matched),
+            "missing_skills":       sorted(missing),
+            "matched_skill_count":  len(matched),
+            "missing_skill_count":  len(missing),
             "required_skill_count": len(required_skills),
         }
 
     @staticmethod
-    def _confidence_band(probability: float) -> str:
+    def _confidence_band(probability: float, fit_label: int, guardrail_applied: bool) -> str:
         """
         Translate raw probability into a recruiter-friendly band.
-        Distance from threshold matters more than distance from 0.5
-        since 0.40 is the actual decision boundary.
+        If the guardrail overrode the model's verdict, label it explicitly
+        so recruiters understand why a high-probability candidate was capped.
         """
+        if guardrail_applied:
+            return "Skill Gap Override (Low Match)"
+
         if probability >= 0.75:
             return "Strong Fit"
         elif probability >= 0.55:
