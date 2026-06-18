@@ -46,3 +46,6 @@ logs/
 # Environment variables
 .env
 *.env
+
+# Random Test Files
+test.py
