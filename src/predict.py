@@ -44,7 +44,7 @@ DEFAULT_THRESHOLD = 0.40
 # feature combinations (very low skill match + maxed-out secondary signals like
 # GPA, certifications, experience). This rule prevents that failure mode from
 # reaching production output.
-SKILL_MATCH_FLOOR = 0.30
+SKILL_MATCH_FLOOR = 0.45
 
 
 # ─────────────────────────────────────────────────────────────────────────────
