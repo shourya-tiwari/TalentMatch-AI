@@ -308,6 +308,22 @@ streamlit run app/streamlit_app.py
 
 ---
 
+## Live Demo
+
+![Job Selection](screenshots/app_job_selection.png)
+
+Recruiters select a job posting, choose candidates from the existing pool
+or upload a new CSV, and get an instantly ranked leaderboard.
+
+![Ranked Leaderboard](screenshots/app_ranked_leaderboard.png)
+
+Each candidate includes a fit score, confidence band, and matched/missing
+skill counts. Clicking into a candidate shows the full skill gap breakdown.
+
+![Skill Gap Detail](screenshots/app_skill_gap_detail.png)
+
+--- 
+
 ## Screenshots
 
 ### Dataset Analysis
